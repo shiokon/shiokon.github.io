@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Search</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <a href="index.html"><div class="box" id="index">↩️</div></a>
+        </div>
+
+        <form action="https://google.com/search" method="get">
+            <span id="logo">Advanced Search</span>
+            <div class="advanced">
+                <span id="label">Find pages with... </span>
+                <input id="filler">
+            </div>
+            <div class="advanced">
+                <span id="label">all these words: </span>
+                <input id="searchbox" type="text" name="as_q" autocomplete="off">
+            </div>
+            <div class="advanced">
+                <span id="label">this exact word or phrase: </span>
+                <input id="searchbox" type="text" name="as_epq" autocomplete="off">
+            </div>
+            <div class="advanced">
+                <span id="label">any of these words: </span>
+                <input id="searchbox" type="text" name="as_oq" autocomplete="off">
+            </div>
+            <div class="advanced">
+                <span id="label">none of these words: </span>
+                <input id="searchbox" type="text" name="as_eq" autocomplete="off">
+            </div>
+            
+            <input id="advancedbutton" type="submit" value="Search">
+        </form>
+    </body>
+</html>
