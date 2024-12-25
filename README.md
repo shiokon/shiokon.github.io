@@ -1,1 +1,1 @@
-shiokon.github.io to play
+shiokon.github.io
