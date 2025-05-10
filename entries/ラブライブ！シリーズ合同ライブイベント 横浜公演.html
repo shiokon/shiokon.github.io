@@ -2,7 +2,6 @@
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>ラブライブ！シリーズ合同ライブイベント 横浜公演 - Details</title>
         <style>
             body {
@@ -12,6 +11,17 @@
                 padding: 20px;
             }
             .entry {
+                display: flex;
+                margin-bottom: 20px;
+                background: #121212;
+                color: #e0e0e0;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                overflow: hidden;
+                height: 200px;
+                align-items: top; 
+            }
+            .mainentry {
                 display: flex;
                 margin-bottom: 20px;
                 background: #121212;
@@ -40,20 +50,45 @@
             .related {
                 margin-top: 20px;
             }
+            .back-button {
+                position: fixed;
+                bottom: 20px; /* Distance from bottom */
+                right: 120px; /* Distance from right (to not overlap with back button) */
+                padding: 10px 20px;
+                background-color: #ff69fc;
+                color: white;
+                border-radius: 8px;
+                text-decoration: none;
+                font-size: 16px;
+                z-index: 1000; /* Ensures it appears on top of other content */
+            }
+            .main-button {
+                position: fixed;
+                bottom: 20px; /* Adjust distance from bottom */
+                right: 20px; /* Adjust distance from right */
+                padding: 10px 20px;
+                background-color: #ff69fc;
+                color: white;
+                border-radius: 8px;
+                text-decoration: none;
+                font-size: 16px;
+                z-index: 1000; /* Ensure it stays on top of other content */
+            }
+            
         </style>
     </head>
     <body>
 
     <h1>ラブライブ！シリーズ合同ライブイベント 横浜公演 - Details</h1>
 
-    <div class="entry">
+    <div class="mainentry">
         <img class="cover" src="../images/ラブライブ！シリーズ合同ライブイベント 横浜公演.jpg" alt="ラブライブ！シリーズ合同ライブイベント 横浜公演">
         <div class="info">
             <h2>ラブライブ！シリーズ合同ライブイベント 横浜公演</h2>
-            <p>Type: Live</p>
-            <p>Start:  | End: </p>
-            <p>Score:  | Tags: LoveLive | Time Taken: </p>
-            <p>Source URL: <a href="https://lovelive-anime.jp/special/live/live_detail.php?p=asiatour_2024">https://lovelive-anime.jp/special/live/live_detail.php?p=asiatour_2024</a></p>
+            <p>Type: Live | NFSW: False</p>
+            <p>Start: — | End: —</p>
+            <p>Score: — | Tags: LoveLive | Time Taken: —</p>
+            <p>Source: <a href="https://lovelive-anime.jp/special/live/live_detail.php?p=asiatour_2024">https://lovelive-anime.jp/special/live/live_detail.php?p=asiatour_2024</a></p>
         </div>
     </div>
 
@@ -261,7 +296,8 @@
             </div>
         
     </div>
-    <a onclick="window.history.back();">← Back to previous page</a>
+    <a href="javascript:history.back()" class="back-button">← Back</a>
+    <a href="../index.html" class="main-button">← Main</a>
     </body>
     </html>
     
