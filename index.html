@@ -20,9 +20,31 @@
             padding: 15px 30px;
             font-size: 18px;
             color: white;
-            background: #007acc;
+            background: #ff69fc;
             border-radius: 8px;
             text-decoration: none;
+        }
+        .stats-container {
+            margin: 20px 0;
+            text-align: center;
+            width: 100%;
+        }
+        .progress-bar {
+            height: 20px;
+            width: 30%;
+            border-radius: 5px;
+            overflow: hidden;
+            margin: 0 auto 10px auto;
+            display: flex;
+        }
+        .bar {
+            height: 100%;
+        }
+        .bar.inprogress { background-color: #338543; }  /* Yellow */
+        .bar.finished   { background-color: #2D4276; }  /* Green */
+        .bar.planto     { background-color: #747474; }  /* Blue */
+        .stats p {
+            margin: 5px 0;
         }
     </style>
 </head>
@@ -31,6 +53,22 @@
     <a class="button" href="finished.html">Finished</a>
     <a class="button" href="in_progress.html">In Progress</a>
     <a class="button" href="plan_to.html">Plan To</a>
+    
+    
+    <div class="stats-container">
+        <div class="progress-bar">
+            <div class="bar inprogress" style="width: 27.659574468085108%"></div>
+            <div class="bar finished" style="width: 40.42553191489361%"></div>
+            <div class="bar planto" style="width: 31.914893617021278%"></div>
+        </div>
+        <div class="stats">
+            <p>Days: 8.0 | Mean Score: 8.68</p>
+            <p>In Progress: 13 | Finished: 19 | Plan to: 15</p>
+            <p>Episodes: 178 | Chapters: 26</p>
+            <p>LN/VNs: 5 | Others: 39</p>
+        </div>
+    </div>
+    
 
     <img src="images/progresschart_1.png" 
         alt="Media Chart"
