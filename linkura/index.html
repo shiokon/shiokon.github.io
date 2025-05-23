@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Link! Like! LoveLive! Cards</title>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #eee;
+      --card-bg: #1e1e1e;
+      --card-shadow: rgba(255 255 255 / 0.1);
+      --label-color: #bbb;
+      --link-color: #90caf9;
+    }
+    body.light-mode {
+      --bg-color: #f5f5f5;
+      --text-color: #222;
+      --card-bg: white;
+      --card-shadow: rgba(0 0 0 / 0.1);
+      --label-color: #444;
+      --link-color: #1976d2;
+    }
+
+    body {
+      font-family: sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column; 
+      align-items: center;
+      transition: background-color 0.3s ease, color 0.3s ease;
+      position: relative;
+      min-height: 100vh;
+    }
+    #cards {
+      max-width: 1072px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .card {
+      background-color: var(--card-bg);
+      border-radius: 10px;
+      padding: 1rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 8px var(--card-shadow);
+      word-wrap: break-word;
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+    .header {
+      font-size: 1.8rem;
+      font-weight: bold;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    .images {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      justify-content: flex-start;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+    }
+    .images.single-image {
+      justify-content: center;
+    }
+    .images img {
+      flex: 1 1 50%;
+      max-width: 512px;
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      display: block;
+      object-fit: contain;
+    }
+    .section {
+      margin-bottom: 1rem;
+    }
+    .label {
+      font-weight: bold;
+      color: var(--label-color);
+    }
+
+    .toggle-switch {
+      position: fixed;
+      top: 1rem;
+      right: 1rem;
+      background: var(--card-bg);
+      border-radius: 20px;
+      padding: 0.3rem 0.7rem;
+      box-shadow: 0 0 5px var(--card-shadow);
+      cursor: pointer;
+      user-select: none;
+      font-size: 0.9rem;
+      color: var(--text-color);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: background-color 0.3s ease, color 0.3s ease;
+      z-index: 1000;
+    }
+    .toggle-switch input[type="checkbox"] {
+      width: 40px;
+      height: 20px;
+      position: relative;
+      -webkit-appearance: none;
+      background: #c6c6c6;
+      outline: none;
+      border-radius: 20px;
+      transition: background 0.3s;
+      cursor: pointer;
+    }
+    .toggle-switch input[type="checkbox"]:checked {
+      background: #4caf50;
+    }
+    .toggle-switch input[type="checkbox"]::before {
+      content: "";
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      top: 1px;
+      left: 1px;
+      background: white;
+      transition: 0.3s;
+    }
+    .toggle-switch input[type="checkbox"]:checked::before {
+      left: 21px;
+    }
+
+    #filter-bar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 2rem;
+        gap: 1rem;
+    }
+
+    #search-input {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        border-radius: 20px;
+        border: 1px solid var(--label-color);
+        background: var(--card-bg);
+        color: var(--text-color);
+        max-width: 300px;
+        width: 100%;
+        transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    .filters {
+        display: flex;
+        flex-direction: column; 
+        gap: 1rem;
+        align-items: center; 
+    }
+
+    .filters > div {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        justify-content: center;
+    }
+
+    .filter-icon {
+        width: 50px;
+        height: 50px;
+        object-fit: contain;
+        cursor: pointer;
+        opacity: 0.7;
+        transition: opacity 0.3s ease;
+        border-radius: 8px;
+        border: 2px solid transparent;
+    }
+
+        .filter-icon.active {
+        opacity: 1;
+        border-color: var(--link-color);
+    }
+
+    .filter-icon.limited {
+        width: 75px !important;
+        height: 75px !important;
+    }
+
+    .section {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+      align-items: flex-start;
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+
+    .section .label {
+      flex-shrink: 0;
+      width: 100px; 
+      font-weight: bold;
+      color: var(--label-color, #444);
+    }
+
+    .section .description {
+      flex-grow: 1;
+      white-space: pre-wrap; 
+      word-wrap: break-word;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="toggle-switch" title="Toggle light/dark mode">
+    <label for="mode-toggle">Light Mode</label>
+    <input type="checkbox" id="mode-toggle" />
+  </div>
+
+
+  <div id="filter-bar">
+    
+
+    <div class="filters">
+        <div id="filter-characters"></div>
+        <div id="filter-rarity"></div>
+        <div id="filter-limited"></div>
+        <div id="filter-type"></div>
+    </div>
+
+    <input id="search-input" placeholder="Search cards..." autocomplete="off" />
+  </div>
+
+
+
+  <div id="cards"></div>
+
+  <script>
+
+    const iconPaths = {
+    "Momose Ginko": "./data/icons/百生吟子.png",
+    "Hinoshita Kaho": "./data/icons/日野下花帆.png",
+    "Kachimachi Kosuzu": "./data/icons/徒町小鈴.png",
+    "Murano Sayaka": "./data/icons/村野さやか.png",
+    "Anyoji Hime": "./data/icons/安養寺姫芽.png",
+    "Osawa Rurino": "./data/icons/大沢瑠璃乃.png",
+    "Katsuragi Izumi": "./data/icons/桂城泉.png",
+    "Ceras Yanagida Lilienfeld": "./data/icons/セラス 柳田 リリエンフェルト.png",
+    "Fujishima Megumi": "./data/icons/藤島慈.png",
+    "Otomune Kozue": "./data/icons/乙宗梢.png",
+    "Yugiri Tsuzuri": "./data/icons/夕霧綴理.png",
+
+    "R": "./data/icons/R.png",
+    "SR": "./data/icons/SR.png",
+    "UR": "./data/icons/UR.png",
+    "DR": "./data/icons/DR.png",
+    "BR": "./data/icons/BR.png",
+
+    "Normal": "./data/icons/Normal.png",
+    "Spring": "./data/icons/Spring.png",
+    "Summer": "./data/icons/Summer.png",
+    "Autumn": "./data/icons/Autumn.png",
+    "Winter": "./data/icons/Winter.png",
+    "Party": "./data/icons/Party.png",
+    "Graduation": "./data/icons/Graduation.png",
+
+    "Performer": "./data/icons/Performer.png",
+    "Moodmaker": "./data/icons/Moodmaker.png",
+    "Cheerleader": "./data/icons/Cheerleader.png",
+    "Trickster": "./data/icons/Trickster.png",
+    };
+
+
+  const toggle = document.getElementById('mode-toggle');
+  const body = document.body;
+
+  if (localStorage.getItem('mode') === 'light') {
+    body.classList.add('light-mode');
+    toggle.checked = true;
+  }
+  toggle.addEventListener('change', () => {
+    body.classList.toggle('light-mode', toggle.checked);
+    localStorage.setItem('mode', toggle.checked ? 'light' : 'dark');
+  });
+
+  const state = {
+    characters: new Set(),
+    rarity: new Set(),
+    limited: new Set(),
+    type: new Set(),
+    search: ""
+  };
+
+  function createFilterIcon(src, key, groupId) {
+    const img = document.createElement('img');
+    img.src = src;
+    img.className = 'filter-icon ' + groupId;
+    img.dataset.key = key;
+    img.addEventListener('click', () => {
+        img.classList.toggle('active');
+        const set = state[groupId];
+        if (set.has(key)) set.delete(key);
+        else set.add(key);
+        filterCards();
+    });
+    return img;
+  }
+
+
+  function matches(card) {
+    const lowerName = `${card.title} ${card.name}`.toLowerCase();
+    if (state.search && !lowerName.includes(state.search)) return false;
+    if (state.characters.size && !state.characters.has(card.name)) return false;
+    if (state.rarity.size && !state.rarity.has(card.rarity)) return false;
+    if (state.limited.size && !state.limited.has(card.limited || "No")) return false;
+    if (state.type.size && !state.type.has(card.type)) return false;
+    return true;
+  }
+
+  function filterCards() {
+    document.querySelectorAll('.card').forEach(card => {
+      const cardData = JSON.parse(card.dataset.raw);
+      card.style.display = matches(cardData) ? '' : 'none';
+    });
+  }
+
+  fetch('./data/cards.json')
+    .then(res => res.json())
+    .then(cards => {
+      const container = document.getElementById('cards');
+      cards.reverse().forEach(card => {
+        if (!card.special && !card.skill && !card.passive) return;
+
+        const div = document.createElement('div');
+        div.className = 'card';
+        div.dataset.raw = JSON.stringify(card);
+
+        const header = document.createElement('div');
+        header.className = 'header';
+
+        const limitedIconSrc = iconPaths[card.limited];
+        const limitedIcon = limitedIconSrc ? `<img src="${limitedIconSrc}" alt="${card.limited}" style="height: 1.8rem; vertical-align: middle; margin-right: 0.5rem;">` : '';
+
+        const typeIconSrc = iconPaths[card.type];
+        const typeIcon = typeIconSrc ? `<img src="${typeIconSrc}" alt="${card.type}" style="height: 1.8rem; vertical-align: middle; margin-left: 0.5rem;">` : '';
+
+        header.innerHTML = `
+          ${limitedIcon}
+          [${card.title}] ${card.name} [${card.rarity}]
+          ${typeIcon}
+        `;
+        div.appendChild(header);
+
+
+        const imagesDiv = document.createElement('div');
+        imagesDiv.className = 'images';
+
+        const imgs = [];
+        if (card.image) imgs.push(createImg(card.image, 'Image'));
+        if (card.idolized) imgs.push(createImg(card.idolized, 'Idolized Image'));
+        imgs.forEach(img => imagesDiv.appendChild(img));
+
+        setTimeout(() => {
+          const visible = Array.from(imagesDiv.children).filter(img => img.style.display !== 'none');
+          if (visible.length === 1) {
+            imagesDiv.classList.add('single-image');
+            visible[0].style.margin = '0 auto';
+          }
+        }, 100);
+
+        const makeSection = (label, content) => {
+          const section = document.createElement('div');
+          section.className = 'section';
+          section.innerHTML = `
+            <span class="label">${label}:</span>
+            <span class="description">${(content || '').replace(/\n/g, '<br>')}</span>
+          `;
+          return section;
+        };
+
+        div.appendChild(imagesDiv);
+        div.appendChild(makeSection('Special', card.special));
+        div.appendChild(makeSection('Skill', card.skill));
+        div.appendChild(makeSection('Passive', card.passive));
+
+        container.appendChild(div);
+      });
+
+      setupFilters(cards);
+  });
+
+  function createImg(src, alt) {
+    const img = document.createElement('img');
+    img.src = src;
+    img.alt = alt || '';
+    img.loading = 'lazy';
+    img.onerror = () => (img.style.display = 'none');
+    return img;
+  }
+
+  function setupFilters(cards) {
+    const characters = [
+    "Momose Ginko",
+    "Hinoshita Kaho",
+    "Kachimachi Kosuzu",
+    "Murano Sayaka",
+    "Anyoji Hime",
+    "Osawa Rurino",
+    "Katsuragi Izumi",
+    "Ceras Yanagida Lilienfeld",
+    "Fujishima Megumi",
+    "Otomune Kozue",
+    "Yugiri Tsuzuri"
+    ];
+
+    const rarities = ["R", "SR", "UR", "DR", "BR"];
+
+    const limiteds = ["Normal", "Spring", "Summer", "Autumn", "Winter", "Party", "Graduation"];
+
+    const types = ["Performer", "Moodmaker", "Cheerleader", "Trickster"];
+
+    const createGroup = (id, items) => {
+        const container = document.getElementById(`filter-${id}`);
+        items.forEach(item => {
+            const icon = createFilterIcon(iconPaths[item], item, id);
+            icon.title = item;
+            container.appendChild(icon);
+        });
+    };
+
+    createGroup('characters', characters);
+    createGroup('rarity', rarities);
+    createGroup('limited', limiteds);
+    createGroup('type', types);
+    }
+
+  document.getElementById('search-input').addEventListener('input', e => {
+    state.search = e.target.value.toLowerCase();
+    filterCards();
+  });
+</script>
+
+</body>
+</html>
