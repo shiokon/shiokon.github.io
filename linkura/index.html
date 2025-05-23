@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Link! Like! LoveLive! Cards</title>
+  <title>Link Like Cards DB</title>
   <style>
     :root {
       --bg-color: #121212;
@@ -62,8 +62,6 @@
       justify-content: flex-start;
       flex-wrap: nowrap;
       overflow-x: auto;
-    }
-    .images.single-image {
       justify-content: center;
     }
     .images img {
@@ -357,14 +355,6 @@
         if (card.image) imgs.push(createImg(card.image, 'Image'));
         if (card.idolized) imgs.push(createImg(card.idolized, 'Idolized Image'));
         imgs.forEach(img => imagesDiv.appendChild(img));
-
-        setTimeout(() => {
-          const visible = Array.from(imagesDiv.children).filter(img => img.style.display !== 'none');
-          if (visible.length === 1) {
-            imagesDiv.classList.add('single-image');
-            visible[0].style.margin = '0 auto';
-          }
-        }, 100);
 
         const makeSection = (label, content) => {
           const section = document.createElement('div');
