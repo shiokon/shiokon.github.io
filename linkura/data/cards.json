@@ -5195,9 +5195,9 @@
     "type": "Moodmaker",
     "image": "./data/images/村野さやか_Her-bath-rium_image.jpg",
     "idolized": "./data/images/村野さやか_Her-bath-rium_idolized.jpg",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[5-3 AP] Reboot Voltage</b>\nDiscard your hand and draw cards up to your max hand size.\nIncreases the next 2 Voltage Gain effects by 10.1..25.2%.",
+    "skill": "<b>[7 AP] Sound Heart Boost</b>\nIncrease the next 20 Heart Gain effects by 9.7..24.3%.\nIf Mood is above +75 Happy or below -75 Mellow, increase the next 20 Heart Gain effects by an additional 54..135%.",
+    "passive": "<b>Sound: AP Reduce</b>\nWhile this card is in your hand, and the Mood is above +75 Happy or below -75 Mellow, reduce the cost of this card by 5 AP."
   },
   {
     "id": "日野下花帆_Celebration!",
@@ -5208,9 +5208,9 @@
     "type": "Performer",
     "image": "./data/images/日野下花帆_Celebration!_image.jpg",
     "idolized": "./data/images/日野下花帆_Celebration!_idolized.jpg",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[4-2 AP] Twin Cerise</b>\nAdd 2 Happiness Cherry cards to your deck.",
+    "skill": "<b>[5 AP] Exact Attraction</b>\nGain 3..8 Skill Hearts.\nIncrease LOVE gain by 7.2..18% this section.\nIf your deck has 22 cards, gain 260..650 Skill Hearts and increase LOVE gain by 600..1200% this section.",
+    "passive": "<b>Happy Cerise</b>\nWhen playing this card during Happy Mood, add 1 Happiness Cherry card to your deck.\n\n<b>[2 AP] Happiness Cherry Card: Happiness Cherry</b>\nReduce the cost of Kaho, Ginko, Dress, and Cherry cards in your deck by 3 AP.\nIf your deck has 24 cards, gain 120..300 Skill Hearts.\n<b>Passive: Happy Theory</b>\nWhile this card is in your hand and Mood is Happy, increase AP Recovery speed by 20%, if Mood is above +50 Happy, increase Heart Cap by 2000, if Mood is +100 Happy, increase Skill Heart effects of Kaho, Ginko, Dress, and Cherry cards by 200%.\nDestroy this card after playing it twice."
   },
   {
     "id": "百生吟子_Celebration!",
@@ -5221,9 +5221,9 @@
     "type": "Trickster",
     "image": "./data/images/百生吟子_Celebration!_image.jpg",
     "idolized": "./data/images/百生吟子_Celebration!_idolized.jpg",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[4-2 AP] Twin Cerise</b>\nAdd 2 Happiness Cherry cards to your deck.",
+    "skill": "<b>[5 AP] Dress《Celebration!》</b>\nAdd 2 types of《Celebration!》dresses to your deck.\nIf your deck has 22 cards, gain 120..300 Skill Hearts.",
+    "passive": "<b>Draw: Happy/Extra Gain</b>\nWhen drawing this card with Mood above +50 Happy, increase max hand size by 3 this section, and recover 1 AP.\n\n<b>[2 AP] Happiness Cherry Card: Happiness Cherry</b>\nReduce the cost of Kaho, Ginko, Dress, and Cherry cards in your deck by 3 AP.\nIf your deck has 24 cards, gain 120..300 Skill Hearts.\n<b>Passive: Happy Theory</b>\nWhile this card is in your hand and Mood is Happy, increase AP Recovery speed by 20%, if Mood is above +50 Happy, increase Heart Cap by 2000, if Mood is +100 Happy, increase Skill Heart effects of Kaho, Ginko, Dress, and Cherry cards by 200%.\nDestroy this card after playing it twice.\n\n<b>[5 AP] Dress 《Celebration!》- Celebration! (Performer)</b>\nGain 12..30 Skill Hearts.\nIf your deck has 23 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nDestroy this card after use.\n\n<b>[5 AP] Dress 《Celebration!》- Celebration! (Trickster)</b>\nDiscard your hand and draw cards up to your max hand size.\nIncrease the chance of drawing Kaho, Ginko, Dress, and Cherry cards.\nIf your deck has 24 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nDestroy this card after use."
   },
   {
     "id": "大沢瑠璃乃_Her-bath-rium",
@@ -5234,35 +5234,35 @@
     "type": "Cheerleader",
     "image": "./data/images/大沢瑠璃乃_Her-bath-rium_image.jpg",
     "idolized": "./data/images/大沢瑠璃乃_Her-bath-rium_idolized.jpg",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[6-4 AP] Reboot Mind</b>\nDiscard your hand and draw cards up to your max hand size.\nIncrease the next 3 Mental Recovery skills' effectiveness by 16..40% this stage.",
+    "skill": "<b>[3 AP] Sound Refresh Mind</b>\nRecover 4.8..12% Mental.\nIf Mood is above +75 Happy or below -75 Mellow, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.",
+    "passive": "<b>Draw: Sound/Extra Recover</b>\nWhen drawing this card with Mood above +75 Happy or below -75 Mellow, recover 30% Mental, increase max hand size by 1 this section."
   },
   {
     "id": "村野さやか_アンペア",
     "rarity": "UR",
     "limited": "Spring",
-    "title": "アンペア",
+    "title": "Ampere",
     "name": "Murano Sayaka",
     "type": "Moodmaker",
     "image": "./data/images/村野さやか_アンペア_image.jpg",
     "idolized": "./data/images/村野さやか_アンペア_idolized.jpg",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[6-4 AP] Aggressive Wide Belief</b>\nGrants invulnerability to Mental Down even if your mental reaches 0 for the current section.\nIncrease Heart Cap by 12..30 this stage and reduce Mental by 100%.",
+    "skill": "<b>[2 AP] Brave Wide Attraction</b>\nIncrease LOVE Gain by 1.7..4.32% this stage.\nIf mental is below 50%, increase Heart Cap by 8..20 this stage. If mental is 0%, gain 24..60 Skill Hearts.",
+    "passive": "<b>UN-PAIR</b>\nIncreases the chances of drawing this card in sections 2 and 4.\nWhen playing this card while Mood is below -50 Mellow, increase the next 2 Heart Gain effects from Sayaka and Kosuzu cards by 67.5%, and reduce the cost of Kosuzu cards in your deck by 9 AP."
   },
   {
     "id": "徒町小鈴_アンペア",
     "rarity": "UR",
     "limited": "Spring",
-    "title": "アンペア",
+    "title": "Ampere",
     "name": "Kachimachi Kosuzu",
     "type": "Performer",
     "image": "./data/images/徒町小鈴_アンペア_image.jpg",
     "idolized": "./data/images/徒町小鈴_アンペア_idolized.jpg",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[10-8 AP] Aggressive Wide Belief</b>\nGrants invulnerability to Mental Down even if your mental reaches 0 for the current section.\nIncrease Heart Cap by 29..72 this stage and reduce Mental by 100%.",
+    "skill": "<b>[22 AP] Brave Wide Attraction</b>\nGain 40..101 Skill Hearts.\nIf mental is below 50%, increase Heart Cap by 140..350 this stage.\nIf mental is 0%, increase LOVE Gain by 358.4..896% this stage.",
+    "passive": "<b>UN-PAIR</b>\nYou can only draw this card after playing a Sayaka card.\nUpon draw, increase the next 2 Heart Gain effects from Sayaka and Kosuzu cards by 100%.\nIf Mood is below -50 Mellow, reduce this card's cost by 9 AP, and when playing this card, gain invulnerability to Mental Down for this section and reduce Mental by 100%."
   },
   {
     "id": "セラス_柳田_リリエンフェルト_Her-bath-rium",
@@ -5273,9 +5273,9 @@
     "type": "Trickster",
     "image": "./data/images/セラス_柳田_リリエンフェルト_Her-bath-rium_image.jpg",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_Her-bath-rium_idolized.jpg",
-    "special": "",
-    "skill": "test",
-    "passive": ""
+    "special": "<b>[6-4 AP] Refresh Sound Vibes</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.\nRecover 8..20% mental.\nIf Mood is above +75 Happy or below -75 Mellow, increase Beat Heart count by 1 this section.",
+    "skill": "<b>[4 AP] Scherzo Ambiance</b>\nIf Mood is Happy, -12..-30 Mood towards Mellow, if Mood is Mellow, +12..+30 Mood towards Happy.",
+    "passive": "<b>Sound: Wide Heart</b>\nWhile in your hand, if Mood is +75 Happy or -75 Mellow, increase Heart Cap by 1000."
   },
   {
     "id": "日野下花帆_18th_Birthday",
@@ -5287,7 +5287,7 @@
     "image": "./data/images/日野下花帆_18th_Birthday_image.jpg",
     "idolized": "./data/images/日野下花帆_18th_Birthday_idolized.jpg",
     "special": "<b>[6-5 AP] Heart Boost</b>\nIncrease Skill Hearts gained by 40..100% this section.",
-    "skill": "<b>[3 AP] Bloom Myself</b>\nIncrease the next 3 Kaho cards' Skill Hearts gained by 80..200%.\nAlso reduce the cost of Kaho cards in your deck by 3 AP.",
+    "skill": "<b>[3 AP] Bloom Myself</b>\nIncrease the next 3 Kaho cards' Skill Hearts gained by 80..200%.\nReduce the cost of Kaho cards in your deck by 3 AP.",
     "passive": "<b>Birthday Candle</b>\nRestore 3 AP when playing this card, up to 18 times."
   }
 ]
