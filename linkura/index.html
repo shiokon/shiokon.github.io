@@ -275,9 +275,12 @@
     </div>
 
     <input id="search-input" placeholder="Search cards..." autocomplete="off" />
+
+    <div id="cards-count" style="margin: 0.5rem 1rem; font-weight: bold;">0 cards displayed</div>
+
   </div>
 
-
+  
 
   <div id="cards"></div>
 
@@ -372,6 +375,7 @@
       const cardData = JSON.parse(card.dataset.raw);
       card.style.display = matches(cardData) ? '' : 'none';
     });
+    updateCardsCount();
   }
 
   fetch('./data/cards.json')
@@ -429,6 +433,7 @@
       });
 
       setupFilters(cards);
+      updateCardsCount();
   });
 
   function createImg(src, alt) {
@@ -480,6 +485,20 @@
     state.search = e.target.value.toLowerCase();
     filterCards();
   });
+
+  function updateCardsCount() {
+    const cards = document.querySelectorAll('#cards .card');
+    let visibleCount = 0;
+
+    cards.forEach(card => {
+      if (card.offsetParent !== null) {
+        visibleCount++;
+      }
+    });
+
+    const countElem = document.getElementById('cards-count');
+    countElem.textContent = `${visibleCount} card${visibleCount !== 1 ? 's' : ''} displayed`;
+  }
 </script>
 
 </body>
