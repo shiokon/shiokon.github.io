@@ -320,7 +320,6 @@
   const toggleEmoji = document.getElementById('mode-toggle-emoji');
   const body = document.body;
 
-  // Initialize theme from localStorage
   if (localStorage.getItem('mode') === 'light') {
     body.classList.add('light-mode');
     toggleEmoji.textContent = '☀️';
@@ -328,7 +327,6 @@
     toggleEmoji.textContent = '🌙';
   }
 
-  // On click, toggle theme and emoji
   toggleEmoji.addEventListener('click', () => {
     const isLight = body.classList.toggle('light-mode');
     localStorage.setItem('mode', isLight ? 'light' : 'dark');
