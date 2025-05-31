@@ -320,9 +320,9 @@
     "type": "Trickster",
     "image": "./data/images/安養寺姫芽_Oracle_Étude_image.webp",
     "idolized": "./data/images/安養寺姫芽_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, increase Beat Heart count by 99 this stage.",
+    "skill": "<b>[1 AP] mode:DESTROYER</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.\nIn addition, gain 2666..6666 Skill Hearts and increase LOVE gain by 2666..6666% this section.",
+    "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
   {
     "id": "徒町小鈴_Oracle_Étude",
@@ -518,5 +518,31 @@
     "special": "<b>[6-5 AP] Heart Boost</b>\nIncrease Skill Hearts gained by 40..100% this section.",
     "skill": "<b>[3 AP] Bloom Myself</b>\nIncrease the next 3 Kaho cards' Skill Hearts gained by 80..200%.\nIn addition, reduce the cost of Kaho cards in your deck by 3 AP.",
     "passive": "<b>Birthday Candle</b>\nRestore 3 AP when playing this card, up to 18 times."
+  },
+  {
+    "id": "安養寺姫芽_WAWO!",
+    "rarity": "UR",
+    "limited": "Spring",
+    "title": "WAWO!",
+    "name": "Anyoji Hime",
+    "type": "Moodmaker",
+    "image": "./data/images/安養寺姫芽_WAWO!_image.webp",
+    "idolized": "./data/images/安養寺姫芽_WAWO!_idolized.webp",
+    "special": "<b>[8-6 AP] Extra Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, if the Mood is Happy or Mellow, swing towards the respective mood by 40..100.",
+    "skill": "<b>[8 AP] Sound Refresh</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if Mood is above +50 Happy or below -50 Mellow, increase LOVE gain by 20..50% this stage; and if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 40..100 this stage; and if Mood is above +100 Happy or below -100 Mellow, increase the next 8 Heart Gain effects by 210..525%.",
+    "passive": "<b>Mira-Cra Circle</b>\nGreatly increases the chance of drawing this card after using a Mira-Cra Park! card; increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, while this card is in your hand, increase AP recovery speed by 20%; and if Mood is above +50 Happy or below -50 Mellow, increase AP recovery speed by 20%; and if Mood is above +75 Happy or below -75 Mellow, reduce the cost of this card by 5 AP."
+  },
+  {
+    "id": "大沢瑠璃乃_WAWO!",
+    "rarity": "UR",
+    "limited": "Spring",
+    "title": "WAWO!",
+    "name": "Osawa Rurino",
+    "type": "Moodmaker",
+    "image": "./data/images/大沢瑠璃乃_WAWO!_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_WAWO!_idolized.webp",
+    "special": "<b>[8-6 AP] Repeat Ambience</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if the Mood is Happy or Mellow, swing towards the respective mood by 40..100.",
+    "skill": "<b>[8 AP] Sound Regain</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if Mood is above +50 Happy or below -50 Mellow, gain 84..210 Voltage Pt.; and if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 40..100 this stage; and if Mood is above +100 Happy or below -100 Mellow, increase the next 8 Heart Gain effects by 210..525%.",
+    "passive": "<b>Mira-Cra Circle</b>\nGreatly increases the chance of drawing this card after using a Mira-Cra Park! card; increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, while this card is in your hand, increase max hand size by 2; and if Mood is above +50 Happy or below -50 Mellow, increase max hand size by 2; and if Mood is above +75 Happy or below -75 Mellow, reduce the cost of this card by 5 AP."
   }
 ]
