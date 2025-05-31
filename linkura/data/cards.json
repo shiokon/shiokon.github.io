@@ -528,7 +528,7 @@
     "type": "Moodmaker",
     "image": "./data/images/安養寺姫芽_WAWO!_image.webp",
     "idolized": "./data/images/安養寺姫芽_WAWO!_idolized.webp",
-    "special": "<b>[8-6 AP] Extra Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, if the Mood is Happy or Mellow, swing towards the respective mood by 40..100.",
+    "special": "<b>[8-6 AP] Extra Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, if Mood is Happy or Mellow, swing towards the respective mood by 40..100.",
     "skill": "<b>[8 AP] Sound Refresh</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if Mood is above +50 Happy or below -50 Mellow, increase LOVE gain by 20..50% this stage; and if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 40..100 this stage; and if Mood is above +100 Happy or below -100 Mellow, increase the next 8 Heart Gain effects by 210..525%.",
     "passive": "<b>Mira-Cra Circle</b>\nGreatly increases the chance of drawing this card after using a Mira-Cra Park! card; increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, while this card is in your hand, increase AP recovery speed by 20%; and if Mood is above +50 Happy or below -50 Mellow, increase AP recovery speed by 20%; and if Mood is above +75 Happy or below -75 Mellow, reduce the cost of this card by 5 AP."
   },
@@ -541,8 +541,34 @@
     "type": "Moodmaker",
     "image": "./data/images/大沢瑠璃乃_WAWO!_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_WAWO!_idolized.webp",
-    "special": "<b>[8-6 AP] Repeat Ambience</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if the Mood is Happy or Mellow, swing towards the respective mood by 40..100.",
+    "special": "<b>[8-6 AP] Repeat Ambience</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if Mood is Happy or Mellow, swing towards the respective mood by 40..100.",
     "skill": "<b>[8 AP] Sound Regain</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, if Mood is above +50 Happy or below -50 Mellow, gain 84..210 Voltage Pt.; and if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 40..100 this stage; and if Mood is above +100 Happy or below -100 Mellow, increase the next 8 Heart Gain effects by 210..525%.",
     "passive": "<b>Mira-Cra Circle</b>\nGreatly increases the chance of drawing this card after using a Mira-Cra Park! card; increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, while this card is in your hand, increase max hand size by 2; and if Mood is above +50 Happy or below -50 Mellow, increase max hand size by 2; and if Mood is above +75 Happy or below -75 Mellow, reduce the cost of this card by 5 AP."
+  },
+  {
+    "id": "日野下花帆_Her-bath-rium",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Her-bath-rium",
+    "name": "Hinoshita Kaho",
+    "type": "Performer",
+    "image": "./data/images/日野下花帆_Her-bath-rium_image.webp",
+    "idolized": "./data/images/日野下花帆_Her-bath-rium_idolized.webp",
+    "special": "<b>[8-6 AP] Reboot Heart</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase the next 10 Skill Hearts gained by 14.4..36%.",
+    "skill": "<b>[4 AP] Sound Wide Heart</b>\nIncrease Heart Cap by 9..22 this stage.\nIn addition, if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 48..120 this stage.",
+    "passive": "<b>Sound: Draw: Wide Heart</b>Upon draw, if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 36 this stage."
+  },
+  {
+    "id": "",
+    "rarity": "",
+    "limited": "",
+    "title": "",
+    "name": "",
+    "type": "",
+    "image": "./data/images/.webp",
+    "idolized": "./data/images/.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
   }
 ]
