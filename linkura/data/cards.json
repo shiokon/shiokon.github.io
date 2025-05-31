@@ -556,7 +556,7 @@
     "idolized": "./data/images/日野下花帆_Her-bath-rium_idolized.webp",
     "special": "<b>[8-6 AP] Reboot Heart</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase the next 10 Skill Hearts gained by 14.4..36%.",
     "skill": "<b>[4 AP] Sound Wide Heart</b>\nIncrease Heart Cap by 9..22 this stage.\nIn addition, if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 48..120 this stage.",
-    "passive": "<b>Sound: Draw: Wide Heart</b>Upon draw, if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 36 this stage."
+    "passive": "<b>Sound: Draw: Wide Heart</b>\nUpon draw, if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 36 this stage."
   },
   {
     "id": "",
