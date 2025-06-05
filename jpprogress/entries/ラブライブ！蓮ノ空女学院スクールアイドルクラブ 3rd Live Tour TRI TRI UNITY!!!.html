@@ -18,7 +18,7 @@
                 border: 1px solid #ccc;
                 border-radius: 8px;
                 overflow: hidden;
-                height: 200px;
+                min-height: 200px;
                 align-items: top; 
             }
             .mainentry {
@@ -29,11 +29,15 @@
                 border: 1px solid #ccc;
                 border-radius: 8px;
                 overflow: hidden;
-                height: 200px;
+                min-height: 200px;
                 align-items: center; 
             }
-            .cover {
+            .entry .cover {
                 width: 120px;
+                height: 100%;
+                object-fit: cover;
+            }
+            .mainentry .cover {
                 height: 100%;
                 object-fit: cover;
             }
