@@ -1,0 +1,103 @@
+
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>アンビバレンツ - Details</title>
+        <style>
+            body {
+                font-family: sans-serif;
+                background: #121212;
+                color: #e0e0e0;
+                padding: 20px;
+            }
+            .entry {
+                display: flex;
+                margin-bottom: 20px;
+                background: #121212;
+                color: #e0e0e0;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                overflow: hidden;
+                height: 200px;
+                align-items: top; 
+            }
+            .mainentry {
+                display: flex;
+                margin-bottom: 20px;
+                background: #121212;
+                color: #e0e0e0;
+                border: 1px solid #ccc;
+                border-radius: 8px;
+                overflow: hidden;
+                height: 200px;
+                align-items: center; 
+            }
+            .cover {
+                width: 120px;
+                height: 100%;
+                object-fit: cover;
+            }
+            .info {
+                padding: 10px;
+                flex-grow: 1;
+                flex-direction: column;
+                justify-content: center;
+            }
+            a {
+                color: #007acc;
+                text-decoration: none;
+            }
+            .related {
+                margin-top: 20px;
+            }
+            .back-button {
+                position: fixed;
+                bottom: 20px; /* Distance from bottom */
+                right: 120px; /* Distance from right (to not overlap with back button) */
+                padding: 10px 20px;
+                background-color: #ff69fc;
+                color: white;
+                border-radius: 8px;
+                text-decoration: none;
+                font-size: 16px;
+                z-index: 1000; /* Ensures it appears on top of other content */
+            }
+            .main-button {
+                position: fixed;
+                bottom: 20px; /* Adjust distance from bottom */
+                right: 20px; /* Adjust distance from right */
+                padding: 10px 20px;
+                background-color: #ff69fc;
+                color: white;
+                border-radius: 8px;
+                text-decoration: none;
+                font-size: 16px;
+                z-index: 1000; /* Ensure it stays on top of other content */
+            }
+            
+        </style>
+    </head>
+    <body>
+
+    <h1>アンビバレンツ - Details</h1>
+
+    <div class="mainentry">
+        <img class="cover" src="../images/アンビバレンツ.jpg" alt="アンビバレンツ">
+        <div class="info">
+            <h2>アンビバレンツ</h2>
+            <p>Type: VN | NFSW: https://vndb.org/v35939</p>
+            <p>Start: 06/06/25 | End: 06/06/25</p>
+            <p>Score: 8 | Tags: — | Time Taken: 1h40m</p>
+            <p>Source: <a href="None">None</a></p>
+        </div>
+    </div>
+
+    <h2>Related Entries</h2>
+    <div class="related">
+    
+    </div>
+    <a href="javascript:history.back()" class="back-button">← Back</a>
+    <a href="../index.html" class="main-button">← Main</a>
+    </body>
+    </html>
+    
