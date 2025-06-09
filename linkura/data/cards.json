@@ -567,7 +567,7 @@
     "type": "Moodmaker",
     "image": "./data/images/夕霧綴理_幸せのリボン_image.webp",
     "idolized": "./data/images/夕霧綴理_幸せのリボン_idolized.webp",
-    "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Voltage</b>\nVoltage Lv. is infinite for this section; upon using skills that give Voltage Pt., gain LOVE% for this stage and recover 0-20 AP. The effect gained is based on the the activated skill and this card's Special Appeal's level, and if your deck contains less than 18 cards the effect is worsened.\nIn addition, increase Skill Hearts gained by 102% this section.",
+    "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Voltage</b>\nVoltage Lv. is infinite for this section; upon using skills that give Voltage Pt., gain LOVE% for this stage and recover 0-20 AP. The effect gained is based on the activated skill and this card's Special Appeal's level, and if your deck contains less than 18 cards the effect is worsened.\nIn addition, increase Skill Hearts gained by 102% this section.",
     "skill": "<b>[1 AP] Tomorrow Ribbon</b>\nWhen Voltage Lv. is 10 or above, gain 408..1020 Beat Hearts; increase LOVE gain by 4080..10200%; increase AP speed by 4.1..10.2%; negate Mental damage by 4.08..10.2% this stage.\nIn addition, reset Voltage Pt. to 0 and reduce the cost of all cards in your hand by 3 AP.",
     "passive": "<b>102 Evermore</b>\nUpon use, it is returned to your deck.\nIn addition, when you use a Kozue, Tsuzuri, or Megumi card, the chances of drawing this card greatly increases."
   },
@@ -593,7 +593,7 @@
     "type": "Cheerleader",
     "image": "./data/images/藤島慈_やっぱ天使！_image.webp",
     "idolized": "./data/images/藤島慈_やっぱ天使！_idolized.webp",
-    "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Spirits</b>\nMental is infinite for this section; when using Mental Restore or Mental Protect cards, gain Skill Hearts and restore 0-20 AP. The effect gained is based on the the activated skill and this card's Special Appeal's level, and if your deck contains less than 18 cards the effect is worsened.\nIn addition, increase Skill Hearts gained by 102% this section.",
+    "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Spirits</b>\nMental is infinite for this section; when using Mental Restore or Mental Protect cards, gain Skill Hearts and restore 0-20 AP. The effect gained is based on the activated skill and this card's Special Appeal's level, and if your deck contains less than 18 cards the effect is worsened.\nIn addition, increase Skill Hearts gained by 102% this section.",
     "skill": "<b>[1 AP] Angelic Bright</b>\nWhen Mental is 100% or above, gain 408..1020 Beat Hearts; increase LOVE gain this section by 4080..10200%; increase AP recovery speed by 4.08..10.2%; gain 40.8..102 Voltage Pt.\nIn addition, reduce Mental by 99% and reduce the cost of all cards in your hand by 3 AP.",
     "passive": "<b>102 Evermore</b>\nUpon use, it is returned to your deck.\nIn addition, when you use a Kozue, Tsuzuri, or Megumi card, the chances of drawing this card greatly increases."
   },
