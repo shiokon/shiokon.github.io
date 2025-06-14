@@ -439,7 +439,7 @@
     "idolized": "./data/images/百生吟子_Celebration!_idolized.webp",
     "special": "<b>[4-2 AP] Twin Cerise</b>\nAdd 2 Happiness Cherry cards to your deck.",
     "skill": "<b>[5 AP] Dress《Celebration!》</b>\nAdd 2 types of《Celebration!》dresses to your deck.\nIn addition, if your deck has 22 cards, gain 120..300 Skill Hearts.",
-    "passive": "<b>Draw: Happy/Extra Gain</b>\nWhen drawing this card with Mood above +50 Happy, increase max hand size by 3 this section, and recover 1 AP.\n\n<b>[2 AP] Happiness Cherry Card: Happiness Cherry</b>\nReduce the cost of Kaho, Ginko, Dress, and Cherry cards in your deck by 3 AP.\nIn addition, if your deck has 24 cards, gain 120..300 Skill Hearts.\n<b>Passive: Happy Theory</b>\nWhile this card is in your hand and Mood is Happy, increase AP Recovery speed by 20%, if Mood is above +50 Happy, increase Heart Cap by 2000, if Mood is +100 Happy, increase Skill Heart effects of Kaho, Ginko, Dress, and Cherry cards by 200%.\nIn addition, destroy this card after playing it twice.\n\n<b>[5 AP] Dress 《Celebration!》- Celebration! (Performer)</b>\nGain 12..30 Skill Hearts.\nIn addition, if your deck has 23 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use.\n\n<b>[5 AP] Dress 《Celebration!》- Celebration! (Trickster)</b>\nDiscard your hand and draw cards up to your max hand size.\nIncrease the chance of drawing Kaho, Ginko, Dress, and Cherry cards.\nIn addition, if your deck has 24 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use."
+    "passive": "<b>Draw: Happy/Extra Gain</b>\nWhen drawing this card with Mood above +50 Happy, increase max hand size by 3 this section, and recover 1 AP.\n\n<b>[2 AP] Happiness Cherry Card: Happiness Cherry</b>\nReduce the cost of Kaho, Ginko, Dress, and Cherry cards in your deck by 3 AP.\nIn addition, if your deck has 24 cards, gain 120..300 Skill Hearts.\n<b>Passive: Happy Theory</b>\nWhile this card is in your hand and Mood is Happy, increase AP Recovery speed by 20%, if Mood is above +50 Happy, increase Heart Cap by 2000, if Mood is +100 Happy, increase Skill Heart effects of Kaho, Ginko, Dress, and Cherry cards by 200%.\nIn addition, destroy this card after playing it twice.\n\n<b>[5 AP] Dress《Celebration!》- Celebration! (Performer)</b>\nGain 12..30 Skill Hearts.\nIn addition, if your deck has 23 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use.\n\n<b>[5 AP] Dress《Celebration!》- Celebration! (Trickster)</b>\nDiscard your hand and draw cards up to your max hand size.\nIncrease the chance of drawing Kaho, Ginko, Dress, and Cherry cards.\nIn addition, if your deck has 24 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use."
   },
   {
     "id": "日野下花帆_Celebration!",
@@ -561,41 +561,67 @@
   {
     "id": "夕霧綴理_幸せのリボン",
     "rarity": "LR",
-    "limited": "LR",
+    "limited": "Normal",
     "title": "Shiawase no Ribbon",
     "name": "Yugiri Tsuzuri",
     "type": "Moodmaker",
     "image": "./data/images/夕霧綴理_幸せのリボン_image.webp",
     "idolized": "./data/images/夕霧綴理_幸せのリボン_idolized.webp",
     "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Voltage</b>\nVoltage Lv. is infinite for this section; upon using skills that give Voltage Pt., gain LOVE% for this stage and recover 0-20 AP. The effect gained is based on the activated skill and this card's Special Appeal's level, and if your deck contains less than 18 cards the effect is worsened.\nIn addition, if Skill Level is 12..13..14, increase Skill Hearts gained by 3..33..102% this section.",
-    "skill": "<b>[1 AP] Tomorrow Ribbon</b>\nWhen Voltage Lv. is 10 or above, gain 408..1020 Beat Hearts; increase LOVE gain by 4080..10200%; increase AP speed by 4.1..10.2%; negate Mental damage by 4.08..10.2% this stage.\nIn addition, reset Voltage Pt. to 0 and if Skill Level is 12..13..14, reduce the cost of all cards in your hand by ?..?..3 AP.",
+    "skill": "<b>[1 AP] Tomorrow Ribbon</b>\nWhen Voltage Lv. is 10 or above, gain 408..1020 Skill Hearts; increase LOVE gain by 4080..10200%; increase AP speed by 4.1..10.2%; negate Mental damage by 4.08..10.2% this stage.\nIn addition, reset Voltage Pt. to 0 and if Skill Level is 12..13..14, reduce the cost of all cards in your hand by 1..2..3 AP.",
     "passive": "<b>102 Evermore</b>\nUpon use, it is returned to your deck.\nIn addition, when you use a Kozue, Tsuzuri, or Megumi card, the chances of drawing this card greatly increases."
   },
   {
     "id": "乙宗梢_be_proud",
     "rarity": "LR",
-    "limited": "LR",
+    "limited": "Normal",
     "title": "be proud",
     "name": "Otomune Kozue",
     "type": "Performer",
     "image": "./data/images/乙宗梢_be_proud_image.webp",
     "idolized": "./data/images/乙宗梢_be_proud_idolized.webp",
     "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Force</b>\nAP is infinite for this section.\nIn addition, if Skill Level is 12..13..14, increase Skill Hearts gained by 3..33..102% this section.",
-    "skill": "<b>[99 AP] Mermaid Pride</b>\nGain 408..1020 Beat Hearts; increase LOVE gain by 4080..10200% this section; gain 41..102 Voltage Pt.; restore 4.08..10.2% Mental.\nIn addition, reset AP to 0 and if Skill Level is 12..13..14, reduce the cost of all cards in your hand by ?..?..3 AP.",
+    "skill": "<b>[99 AP] Mermaid Pride</b>\nGain 408..1020 Skill Hearts; increase LOVE gain by 4080..10200% this section; gain 41..102 Voltage Pt.; restore 4.08..10.2% Mental.\nIn addition, reset AP to 0 and if Skill Level is 12..13..14, reduce the cost of all cards in your hand by 1..2..3 AP.",
     "passive": "<b>102 Evermore</b>\nUpon use, it is returned to your deck.\nIn addition, when you use a Kozue, Tsuzuri, or Megumi card, the chances of drawing this card greatly increases."
   },
   {
     "id": "藤島慈_やっぱ天使！",
     "rarity": "LR",
-    "limited": "LR",
+    "limited": "Normal",
     "title": "Yappa Tenshi!",
     "name": "Fujishima Megumi",
     "type": "Cheerleader",
     "image": "./data/images/藤島慈_やっぱ天使！_image.webp",
     "idolized": "./data/images/藤島慈_やっぱ天使！_idolized.webp",
     "special": "<b>[11-0 AP] EX Special Appeal: Timeless∞Spirits</b>\nMental is infinite for this section; when using Mental Restore or Mental Protect cards, gain Skill Hearts and restore 0-20 AP. The effect gained is based on the activated skill and this card's Special Appeal's level, and if your deck contains less than 18 cards the effect is worsened.\nIn addition, if Skill Level is 12..13..14, increase Skill Hearts gained by 3..33..102% this section.",
-    "skill": "<b>[1 AP] Angelic Bright</b>\nWhen Mental is 100% or above, gain 408..1020 Beat Hearts; increase LOVE gain this section by 4080..10200%; increase AP recovery speed by 4.08..10.2%; gain 40.8..102 Voltage Pt.\nIn addition, reduce Mental by 99% and if Skill Level is 12..13..14, reduce the cost of all cards in your hand by ?..?..3 AP.",
+    "skill": "<b>[1 AP] Angelic Bright</b>\nWhen Mental is 100% or above, gain 408..1020 Skill Hearts; increase LOVE gain this section by 4080..10200%; increase AP recovery speed by 4.08..10.2%; gain 40.8..102 Voltage Pt.\nIn addition, reduce Mental by 99% and if Skill Level is 12..13..14, reduce the cost of all cards in your hand by 1..2..3 AP.",
     "passive": "<b>102 Evermore</b>\nUpon use, it is returned to your deck.\nIn addition, when you use a Kozue, Tsuzuri, or Megumi card, the chances of drawing this card greatly increases."
+  },
+  {
+    "id": "百生吟子_37.5℃のファンタジー",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "37.5℃ Fantasy",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_37.5℃のファンタジー_image.webp",
+    "idolized": "./data/images/百生吟子_37.5℃のファンタジー_idolized.webp",
+    "special": "<b>[9-7 AP] Reboot Extra</b>\nIncrease max hand size by 2 this stage; discard your hand and draw cards up to your max hand size.\nIn addition, increase the next 375 Dress Cards' Skill Hearts gained by 21..52.5%.",
+    "skill": "<b>[7 AP] Dress《37.5℃ Fantasy》</b>\nAdd 2 types of《37.5℃ Fantasy》dresses to your deck.\nIn addition, if your deck has 23 cards, gain 200..500 Skill Hearts; discard your hand and draw cards up to your max hand size.",
+    "passive": "<b>Seven Point Five</b>\nUpon draw, if Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 375 this section; reduce the cost of all Kaho, Ginko, and Dress Cards in your deck by 3 AP.\nIn addition, if your deck has 37 cards, increase AP recovery speed by 50% this section when playing this card.\n\n<b>[7 AP] Dress《37.5℃ Fantasy》</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size and greatly increases the chance of drawing Kaho, Ginko, and Dress Cards.\nIn addition, if your deck has 25 cards, increase Heart Cap by 528..1320 this section and gain 72..180 Skill Hearts; increase the next 37 Dress Cards' Skill Hearts gained by 150..375%.\n<b>Passive: Seven Point Five</b>\nAfter using this card, destroys it.\nIn addition, if Mood is above +75 or below -75 Mellow upon draw, increase Heart Cap by 375 this section and gain 37 Skill Hearts; if your deck has 37 cards when playing this card, increase AP recovery speed by 50% this section.\n\n<b>[7 AP] Dress《37.5℃ Fantasy》</b>\nGain 7..18 Skill Hearts and increase LOVE gain by 18..45% this section.\nIn addition, if your deck has 25 cards, increase Heart Cap by 528..1320 this section; gain 72..180 Skill Hearts; increase LOVE gain by 180..450% this section.\n<b>Passive: Seven Point Five</b>\nAfter using this card, destroys it.\nIn addition, if Mood is above +75 or below -75 Mellow upon draw, increase Heart Cap by 375 this section and gain 37 Skill Hearts; if your deck has 37 cards when playing this card, increase AP recovery speed by 50% this section."
+  },
+  {
+    "id": "徒町小鈴_アイマイメーデー",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "I My Mayday",
+    "name": "Kachimachi Kosuzu",
+    "type": "Cheerleader",
+    "image": "./data/images/徒町小鈴_アイマイメーデー_image.webp",
+    "idolized": "./data/images/徒町小鈴_アイマイメーデー_idolized.webp",
+    "special": "<b>[5-3 AP] Mid Wide Belief</b>\nIn Section 3, gain invulnerability to Mental Down for this section and reduce Mental by 100%.\nIn addition, increase Heart Cap by 1333..3333 this section; reduce the cost of all Sayaka and Kosuzu cards in your deck by 9 AP.",
+    "skill": "<b>[6 AP] Mayday Mellow</b>\nNegate damage equal to 6..15% of max Metal this stage.\nIn addition, when Mental is 0, increase the next 3 Sayaka and Kosuzu Heart Gain effects by 600..1500%; if Mood is below -50 Mellow, increase Heart Cap by 108..270 this stage; if Mental is 0 and Mood is below -50 Mellow, gain 90..225 Skill Hearts.",
+    "passive": "<b>I am I</b>\nIf Mental is 0 when this card is played, discard your hand and draw cards up to your max hand size and greatly increases the chance of drawing Sayaka and Kosuzu cards. If Mood is below -50 Mellow upon playing this card, reduce the cost of all Sayaka and Kosuzu cards in your deck by 3 AP.\nIn addition, if this card is in your hand when the section changes, restore 12% Mental."
   },
   {
     "id": "",
@@ -604,8 +630,8 @@
     "title": "",
     "name": "",
     "type": "",
-    "image": "./data/images/.webp",
-    "idolized": "./data/images/.webp",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/_idolized.webp",
     "special": "",
     "skill": "",
     "passive": ""
