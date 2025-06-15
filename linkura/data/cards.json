@@ -620,7 +620,7 @@
     "image": "./data/images/徒町小鈴_アイマイメーデー_image.webp",
     "idolized": "./data/images/徒町小鈴_アイマイメーデー_idolized.webp",
     "special": "<b>[5-3 AP] Mid Wide Belief</b>\nIn Section 3, gain invulnerability to Mental Down for this section and reduce Mental by 100%.\nIn addition, increase Heart Cap by 1333..3333 this section; reduce the cost of all Sayaka and Kosuzu cards in your deck by 9 AP.",
-    "skill": "<b>[6 AP] Mayday Mellow</b>\nNegate damage equal to 6..15% of max Metal this stage.\nIn addition, when Mental is 0, increase the next 3 Sayaka and Kosuzu Heart Gain effects by 600..1500%; if Mood is below -50 Mellow, increase Heart Cap by 108..270 this stage; if Mental is 0 and Mood is below -50 Mellow, gain 90..225 Skill Hearts.",
+    "skill": "<b>[6 AP] Mayday Mellow</b>\nNegate damage equal to 6..15% of max Mental this stage.\nIn addition, when Mental is 0, increase the next 3 Sayaka and Kosuzu Heart Gain effects by 600..1500%; if Mood is below -50 Mellow, increase Heart Cap by 108..270 this stage; if Mental is 0 and Mood is below -50 Mellow, gain 90..225 Skill Hearts.",
     "passive": "<b>I am I</b>\nIf Mental is 0 when this card is played, discard your hand and draw cards up to your max hand size and greatly increases the chance of drawing Sayaka and Kosuzu cards. If Mood is below -50 Mellow upon playing this card, reduce the cost of all Sayaka and Kosuzu cards in your deck by 3 AP.\nIn addition, if this card is in your hand when the section changes, restore 12% Mental."
   },
   {
