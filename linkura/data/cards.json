@@ -624,6 +624,19 @@
     "passive": "<b>I am I</b>\nIf Mental is 0 when this card is played, discard your hand and draw cards up to your max hand size and greatly increases the chance of drawing Sayaka and Kosuzu cards. If Mood is below -50 Mellow upon playing this card, reduce the cost of all Sayaka and Kosuzu cards in your deck by 3 AP.\nIn addition, if this card is in your hand when the section changes, restore 12% Mental."
   },
   {
+    "id": "セラス_柳田_リリエンフェルト_魔法少女リズミックハート３",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Magical Girl Rhythmic Heart 3",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_魔法少女リズミックハート３_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_魔法少女リズミックハート３_idolized.webp",
+    "special": "<b>[6-4 AP] Extra Scherzo Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, if the Mood is Happy or Mellow, swing towards the respective mood by 13..33.",
+    "skill": "<b>[7 AP] Ambience Heart</b>\nIf the Mood is Happy or Mellow, swing towards the respective mood by 13..33.\nIn addition, gain 6..15 Skill Hearts.",
+    "passive": "<b>Just Draw: Fever/Ritardando & Vibes & Ambience</b>\nIf drawn during Fever section, increase Beat Heart count by 1 this section; if the Mood is Happy or Mellow, swing towards the respective mood by 33; reduce AP Recovery Speed by 33% this section."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
