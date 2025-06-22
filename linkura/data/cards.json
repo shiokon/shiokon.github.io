@@ -270,7 +270,7 @@
     "idolized": "./data/images/安養寺姫芽_Her-bath-rium_idolized.webp",
     "special": "<b>[5-3 AP] Refresh Change Protect</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, negate damage equal to 5.2..13% of max Mental this stage; toggle Ignition Mode.",
     "skill": "<b>[3 AP] Sound Protect<b>\nNegate damage equal to 3.2..8% of max Mental this stage.\nIn addition, if Mood is above +75 Happy or below -75 Mellow, reduce the cost of all Mira-Cra Park! cards in your deck by 5 AP.",
-    "passive": "<b>Alternate: Ignition</b>\n<b>Sound: Ignition (Ignition Off)</b>\nWhen you play this card while Mood is above +75 Happy or below -75 Mellow, activate Ignition Mode.\n<b>Draw: Heat Up (Ignition On)</b>\nUpon draw, increase AP recovery speed by 30% this section and disable Ignition Mode."
+    "passive": "<b>Alternate: Ignition</b>\n<b>Sound: Ignition (Ignition Off)</b>\nWhen you play this card while Mood is above +75 Happy or below -75 Mellow, activate Ignition Mode.\n\n<b>Draw: Heat Up (Ignition On)</b>\nUpon draw, increase AP recovery speed by 30% this section and disable Ignition Mode."
   },
   {
     "id": "徒町小鈴_Her-bath-rium",
@@ -635,6 +635,45 @@
     "special": "<b>[6-4 AP] Extra Scherzo Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, if the Mood is Happy or Mellow, swing towards the respective mood by 13..33.",
     "skill": "<b>[7 AP] Ambience Heart</b>\nIf the Mood is Happy or Mellow, swing towards the respective mood by 13..33.\nIn addition, gain 6..15 Skill Hearts.",
     "passive": "<b>Just Draw: Fever/Ritardando & Vibes & Ambience</b>\nIf drawn during Fever section, increase Beat Heart count by 1 this section; if the Mood is Happy or Mellow, swing towards the respective mood by 33; reduce AP Recovery Speed by 33% this section."
+  },
+  {
+    "id": "安養寺姫芽_BLAST!!",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "BLAST!!",
+    "name": "Anyoji Hime",
+    "type": "Performer",
+    "image": "./data/images/安養寺姫芽_BLAST!!_image.webp",
+    "idolized": "./data/images/安養寺姫芽_BLAST!!_idolized.webp",
+    "special": "<b>[12-10 AP] Miracra・Marble・Boost!!</b>\nFor the next 22 Rurino or Hime's skills, increase Heart Gain effects by 76.5..191.3%, LOVE Attract effects by 26..65, and Voltage Gain effects by 26..65%.",
+    "skill": "<b>Alternate: Ignition</b>\n<b>[12 AP] Heroes Ignition (Ignition Off)</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, reduce the cost of all Hime cards in your deck by 9 AP; activates Ignition Mode.\n\n<b>[22 AP] Blast Attraction (Ignition On)\nGain 89..222 Skill Hearts; increase LOVE gain by 888.8..2222 this section and gain 89..222 Voltage Pt.; increase Heart Cap by 89..222 this stage.\nIn addition, reduce Mental by 22% and disable Ignition Mode.",
+    "passive": "<b>Saintess Buddy</b>\nUpon draw, reduce the AP cost of all Rurino cards in your deck by 9 AP.\nIn addition, if a Rurino skill is used when this card is in your hand and if Mood is above +22 Happy or below -22 Mellow, increase AP Recovery Speed by 22% this section."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_十六夜セレーネ",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Izayoi Selene",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_十六夜セレーネ_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_十六夜セレーネ_idolized.webp",
+    "special": "<b>[6-4 AP] Extra Mellow Vibes</b>\nFor this section, increase max hand size by 3, swing Mood towards Mellow by 40..100.\nIn addition, increase Beat Heart count by 2 this section.",
+    "skill": "<b>[4 AP] Aggressive Mellow Ambience</b>\nSwing Mood towards Mellow by 20..50 this section.\nIn addition, reduce Mental by 16%.",
+    "passive": "<b>Izayoi Lover</b>\nAfter using this card, greatly increases the chance of drawing an Izumi card.\nIn addition, if this skill has been used for 16 or less times and Mood is Mellow, increase Beat Heart count by 1 this section."
+  },
+  {
+    "id": "桂城泉_十六夜セレーネ",
+    "rarity": "SR",
+    "limited": "Summer",
+    "title": "Izayoi Selene",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_十六夜セレーネ_image.webp",
+    "idolized": "./data/images/桂城泉_十六夜セレーネ_idolized.webp",
+    "special": "<b>[4-2 AP] Wide Heart</b>\nFor this section, increase AP Recovery Speed by 6.4..16% and increase Heart Cap by 640..1600.",
+    "skill": "<b>[2 AP] Imitation Wide</b>\nSet this card on stage when played, absorbs any AP Recovery Speed effects gained. When the gained effects reaches 16%, increase Heart Cap by 640..1600 this section and discards this card.",
+    "passive": "<b>Izayoi Lover</b>\nAfter using this card, greatly increases the chance of drawing a Ceras card.\nIn addition, gain 2 AP and restore 16% Mental after playing this card, up to 16 times."
   },
   {
     "id": "",
