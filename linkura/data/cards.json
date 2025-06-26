@@ -269,7 +269,7 @@
     "image": "./data/images/安養寺姫芽_Her-bath-rium_image.webp",
     "idolized": "./data/images/安養寺姫芽_Her-bath-rium_idolized.webp",
     "special": "<b>[5-3 AP] Refresh Change Protect</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, negate damage equal to 5.2..13% of max Mental this stage; toggle Ignition Mode.",
-    "skill": "<b>[3 AP] Sound Protect<b>\nNegate damage equal to 3.2..8% of max Mental this stage.\nIn addition, if Mood is above +75 Happy or below -75 Mellow, reduce the cost of all Mira-Cra Park! cards in your deck by 5 AP.",
+    "skill": "<b>[3 AP] Sound Protect</b>\nNegate damage equal to 3.2..8% of max Mental this stage.\nIn addition, if Mood is above +75 Happy or below -75 Mellow, reduce the cost of all Mira-Cra Park! cards in your deck by 5 AP.",
     "passive": "<b>Alternate: Ignition</b>\n<b>Sound: Ignition (Ignition Off)</b>\nWhen you play this card while Mood is above +75 Happy or below -75 Mellow, activate Ignition Mode.\n\n<b>Draw: Heat Up (Ignition On)</b>\nUpon draw, increase AP recovery speed by 30% this section and disable Ignition Mode."
   },
   {
