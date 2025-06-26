@@ -676,6 +676,19 @@
     "passive": "<b>Izayoi Lover</b>\nAfter using this card, greatly increases the chance of drawing a Ceras card.\nIn addition, gain 2 AP and restore 16% Mental after playing this card, up to 16 times."
   },
   {
+    "id": "セラス_柳田_リリエンフェルト_16th_Birthday",
+    "rarity": "BR",
+    "limited": "Birthday",
+    "title": "16th Birthday",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_16th_Birthday_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_16th_Birthday_idolized.webp",
+    "special": "<b>[6-4 AP] Sound Ambience</b>\nFor this stage, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.",
+    "skill": "<b>[1 AP] Bloom Myself</b>\nFor this section, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.\nIn addition, reduce the cost of all Ceras cards in your deck by 1 AP.",
+    "passive": "<b>Birthday Candle</b>\nUpon use, recover 1 AP, up to 16 times."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
