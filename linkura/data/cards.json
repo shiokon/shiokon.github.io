@@ -359,9 +359,9 @@
     "type": "Trickster",
     "image": "./data/images/大沢瑠璃乃_Oracle_Étude_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, recover 40..99% Mental every second for this stage.",
+    "skill": "<b>[1 AP] mode:ELIXIR</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase max hand size by 7 this section.\nIn addition, restore 30.8..77% Mental and negate Mental damage by 3110.8..7777% this stage.",
+    "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
   {
     "id": "村野さやか_Oracle_Étude",
