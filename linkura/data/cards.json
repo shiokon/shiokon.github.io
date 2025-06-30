@@ -699,7 +699,7 @@
     "idolized": "./data/images/村野さやか_アイドゥーミー！_idolized.webp",
     "special": "<b>[3-1 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, gain 41..103 Voltage Pt., increase LOVE gain by 133.2..333% this section, increase Heart Cap by 133..333 this section, and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
     "skill": "<b>[33 AP] Triplet Voltage</b>\nGain 133..333 Skill Hearts.\nIn addition, if Mood is above +33 Happy or below -33 Mellow, gain 133..333 Voltage Pt., if Mental is below 33%, increase the next 3 Sayaka, Rurino, or Kaho cards' Skill Hearts gained by 412..1030%.",
-    "passive": "<b>Flower Sequence</b>\nIf Mental is below 33%, for each Sayaka, Rurino, and Kaho cards in your hand, reduce this card's AP cost by 3.\nIn addition, if Mental is below 33% when this card is played, discard your hand and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards."
+    "passive": "<b>Flower Sequence</b>\nIf Mental is below 33%, for each Sayaka, Rurino, and Kaho card in your hand, reduce this card's cost by 3 AP.\nIn addition, if Mental is below 33% when this card is played, discard your hand and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards."
   },
   {
     "id": "大沢瑠璃乃_アイドゥーミー！",
@@ -713,6 +713,19 @@
     "special": "<b>[3-1 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, increase Heart Cap by 1333..3333 this section, increase LOVE gain by 133.2..333% this section, gain 13..33 Voltage Pt., and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
     "skill": "<b>Alternate: Ignition</b>\n<b>[13 AP] Flower Ignition (Ignition Off)</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards.\nIn addition, reduce the cost of all Sayaka and Kaho cards in your deck by 9 AP and enable Ignition Mode.\n\n<b>[33 AP] Triplet Wide (Ignition On)</b>\nGain 133..333 Skill Hearts.\nIn addition, if Mood is above +33 Happy or below -33 Mellow, increase Heart Cap by 1333..3333 this section, increase the next 3 Sayaka's Voltage gain effects by 133.2..333%, increase the next 3 Kaho's Love Attract effects by 133.2..333%, and disable Ignition Mode.",
     "passive": "<b>Gaming Buddy</b>\nUpon using Hime's skill, increase the chances of drawing this card. Upon draw, reduce the cost of all Hime cards in your deck by 3 AP.\nIn addition, for each Rurino and Hime card in your hand, reduce this card's cost by 3 AP."
+  },
+  {
+    "id": "日野下花帆_アイドゥーミー！",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "I Do Me!",
+    "name": "Hinoshita Kaho",
+    "type": "Moodmaker",
+    "image": "./data/images/日野下花帆_アイドゥーミー！_image.webp",
+    "idolized": "./data/images/日野下花帆_アイドゥーミー！_idolized.webp",
+    "special": "<b>[5-3 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, increase LOVE gain by 412..1030% this section, increase Heart Cap by 133..333 this section, gain 13..33 Voltage Pt., and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
+    "skill": "<b>[33 AP] Triplet Attract</b>\nGain 133..333 Skill Hearts.\nIn addition, if Mood is above +33 Happy or below -33 Mellow, increase LOVE gain by 4120..10300% this section; if your deck has 23 or more cards, increase the next 3 Sayaka, Rurino, and Kaho card's Skill Hearts gained by 412..1030%.",
+    "passive": "<b>Flower Sequence</b>\nIf your deck has 23 or more cards, for each Sayaka, Rurino, and Kaho card in your hand, reduce this card's cost by 3 AP.\nIn addition, if your deck has 23 or more cards when playing this card, discard your hand and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards."
   },
   {
     "id": "",
