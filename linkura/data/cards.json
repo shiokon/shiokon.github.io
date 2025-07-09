@@ -645,7 +645,7 @@
     "type": "Performer",
     "image": "./data/images/安養寺姫芽_BLAST!!_image.webp",
     "idolized": "./data/images/安養寺姫芽_BLAST!!_idolized.webp",
-    "special": "<b>[12-10 AP] Miracra・Marble・Boost!!</b>\nFor the next 22 Rurino or Hime's skills, increase Heart Gain effects by 76.5..191.3%, LOVE Attract effects by 26..65, and Voltage Gain effects by 26..65%.",
+    "special": "<b>[14-12 AP] Miracra・Marble・Boost!!</b>\nFor the next 22 Rurino or Hime's skills, increase Heart Gain effects by 76.5..191.3%, LOVE Attract effects by 26..65, and Voltage Gain effects by 26..65%.",
     "skill": "<b>Alternate: Ignition</b>\n<b>[12 AP] Heroes Ignition (Ignition Off)</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, reduce the cost of all Hime cards in your deck by 9 AP; activates Ignition Mode.\n\n<b>[22 AP] Blast Attraction (Ignition On)</b>\nGain 89..222 Skill Hearts; increase LOVE gain by 888.8..2222 this section and gain 89..222 Voltage Pt.; increase Heart Cap by 89..222 this stage.\nIn addition, reduce Mental by 22% and disable Ignition Mode.",
     "passive": "<b>Saintess Buddy</b>\nUpon draw, reduce the AP cost of all Rurino cards in your deck by 9 AP.\nIn addition, if a Rurino skill is used when this card is in your hand and if Mood is above +22 Happy or below -22 Mellow, increase AP Recovery Speed by 22% this section."
   },
@@ -658,7 +658,7 @@
     "type": "Moodmaker",
     "image": "./data/images/セラス_柳田_リリエンフェルト_十六夜セレーネ_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_十六夜セレーネ_idolized.webp",
-    "special": "<b>[6-4 AP] Extra Mellow Vibes</b>\nFor this section, increase max hand size by 3, swing Mood towards Mellow by 40..100.\nIn addition, increase Beat Heart count by 2 this section.",
+    "special": "<b>[8-6 AP] Extra Mellow Vibes</b>\nFor this section, increase max hand size by 3, swing Mood towards Mellow by 40..100.\nIn addition, increase Beat Heart count by 2 this section.",
     "skill": "<b>[4 AP] Aggressive Mellow Ambience</b>\nSwing Mood towards Mellow by 20..50 this section.\nIn addition, reduce Mental by 16%.",
     "passive": "<b>Izayoi Lover</b>\nAfter using this card, greatly increases the chance of drawing an Izumi card.\nIn addition, if this skill has been used for 16 or less times and Mood is Mellow, increase Beat Heart count by 1 this section."
   },
@@ -671,7 +671,7 @@
     "type": "Trickster",
     "image": "./data/images/桂城泉_十六夜セレーネ_image.webp",
     "idolized": "./data/images/桂城泉_十六夜セレーネ_idolized.webp",
-    "special": "<b>[4-2 AP] Wide Heart</b>\nFor this section, increase AP Recovery Speed by 6.4..16% and increase Heart Cap by 640..1600.",
+    "special": "<b>[6-4 AP] Wide Heart</b>\nFor this section, increase AP Recovery Speed by 6.4..16% and increase Heart Cap by 640..1600.",
     "skill": "<b>[2 AP] Imitation Wide</b>\nSet this card on stage when played, absorbs any AP Recovery Speed effects gained. When the gained effects reaches 16%, increase Heart Cap by 640..1600 this section and discards this card.",
     "passive": "<b>Izayoi Lover</b>\nAfter using this card, greatly increases the chance of drawing a Ceras card.\nIn addition, gain 2 AP and restore 16% Mental after playing this card, up to 16 times."
   },
@@ -684,7 +684,7 @@
     "type": "Moodmaker",
     "image": "./data/images/セラス_柳田_リリエンフェルト_16th_Birthday_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_16th_Birthday_idolized.webp",
-    "special": "<b>[6-4 AP] Sound Ambience</b>\nFor this stage, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.",
+    "special": "<b>[7-5 AP] Sound Ambience</b>\nFor this stage, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.",
     "skill": "<b>[1 AP] Bloom Myself</b>\nFor this section, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.\nIn addition, reduce the cost of all Ceras cards in your deck by 1 AP.",
     "passive": "<b>Birthday Candle</b>\nUpon use, recover 1 AP, up to 16 times."
   },
@@ -697,7 +697,7 @@
     "type": "Moodmaker",
     "image": "./data/images/村野さやか_アイドゥーミー！_image.webp",
     "idolized": "./data/images/村野さやか_アイドゥーミー！_idolized.webp",
-    "special": "<b>[3-1 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, gain 41..103 Voltage Pt., increase LOVE gain by 133.2..333% this section, increase Heart Cap by 133..333 this section, and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
+    "special": "<b>[5-3 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, gain 41..103 Voltage Pt., increase LOVE gain by 133.2..333% this section, increase Heart Cap by 133..333 this section, and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
     "skill": "<b>[33 AP] Triplet Voltage</b>\nGain 133..333 Skill Hearts.\nIn addition, if Mood is above +33 Happy or below -33 Mellow, gain 133..333 Voltage Pt., if Mental is below 33%, increase the next 3 Sayaka, Rurino, or Kaho cards' Skill Hearts gained by 412..1030%.",
     "passive": "<b>Flower Sequence</b>\nIf Mental is below 33%, for each Sayaka, Rurino, and Kaho card in your hand, reduce this card's cost by 3 AP.\nIn addition, if Mental is below 33% when this card is played, discard your hand and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards."
   },
@@ -710,7 +710,7 @@
     "type": "Performer",
     "image": "./data/images/大沢瑠璃乃_アイドゥーミー！_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_アイドゥーミー！_idolized.webp",
-    "special": "<b>[3-1 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, increase Heart Cap by 1333..3333 this section, increase LOVE gain by 133.2..333% this section, gain 13..33 Voltage Pt., and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
+    "special": "<b>[5-3 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, increase Heart Cap by 1333..3333 this section, increase LOVE gain by 133.2..333% this section, gain 13..33 Voltage Pt., and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
     "skill": "<b>Alternate: Ignition</b>\n<b>[13 AP] Flower Ignition (Ignition Off)</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards.\nIn addition, reduce the cost of all Sayaka and Kaho cards in your deck by 9 AP and enable Ignition Mode.\n\n<b>[33 AP] Triplet Wide (Ignition On)</b>\nGain 133..333 Skill Hearts.\nIn addition, if Mood is above +33 Happy or below -33 Mellow, increase Heart Cap by 1333..3333 this section, increase the next 3 Sayaka's Voltage gain effects by 133.2..333%, increase the next 3 Kaho's Love Attract effects by 133.2..333%, and disable Ignition Mode.",
     "passive": "<b>Gaming Buddy</b>\nUpon using Hime's skill, increase the chances of drawing this card. Upon draw, reduce the cost of all Hime cards in your deck by 3 AP.\nIn addition, for each Rurino and Hime card in your hand, reduce this card's cost by 3 AP."
   },
@@ -726,6 +726,32 @@
     "special": "<b>[5-3 AP] S.R.K. Link</b>\nDuring this stage, whenever all Sayaka, Rurino, and Kaho skills are used, increase LOVE gain by 412..1030% this section, increase Heart Cap by 133..333 this section, gain 13..33 Voltage Pt., and gain 41..103 Skill Hearts. The strength of the effects besides Heart Cap increase are based on the total AP consumed; the AP recorded for each member is overwritten when using another skill.",
     "skill": "<b>[33 AP] Triplet Attract</b>\nGain 133..333 Skill Hearts.\nIn addition, if Mood is above +33 Happy or below -33 Mellow, increase LOVE gain by 4120..10300% this section; if your deck has 23 or more cards, increase the next 3 Sayaka, Rurino, and Kaho card's Skill Hearts gained by 412..1030%.",
     "passive": "<b>Flower Sequence</b>\nIf your deck has 23 or more cards, for each Sayaka, Rurino, and Kaho card in your hand, reduce this card's cost by 3 AP.\nIn addition, if your deck has 23 or more cards when playing this card, discard your hand and draw cards up to your max hand size; increase the chances of drawing Sayaka, Rurino, and Kaho cards."
+  },
+  {
+    "id": "桂城泉_天地黎明",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Tenchi Reimei",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_天地黎明_image.webp",
+    "idolized": "./data/images/桂城泉_天地黎明_idolized.webp",
+    "special": "<b>[6-4 AP] Groovy Heat Vibes</b>\nIncrease AP recovery speed by 12..30% this section.\nIn addition, if Voltage Level is 10 or above, increase Beat Heart count by 2 this section.",
+    "skill": "<b>[4 AP] Imitation Voltage</b>\nSet this card on stage when played, absorbs any Voltage Pt. up to 3000, then gain 1800..4500 Voltage Pt. and discard this card",
+    "passive": "<b>Sound・Saver</b>\nUpon use, if Mood is above +75 Happy or below -75 Mellow, increse the Voltage gain effects of the next Ceras card by 225%."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_天地黎明",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Tenchi Reimei",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_天地黎明_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_天地黎明_idolized.webp",
+    "special": "<b>[8-6 AP] Groovy Ambience Gain</b>\nIf the Mood is Happy or Mellow, swing towards the respective mood by 40..100 this section.\nIn addition, if Voltage level is 10 or above, gain 4..10 AP.",
+    "skill": "<b>[8 AP] Sound Voltage Vibes</b>\nIncrease Beat Heart count by 1 this section.\nIn addition, if Mood is above +75 Happy or below -75 Mellow, gain 168..420 Voltage Pt.",
+    "passive": "<b>Love Collect・Bless</b>\nUpon using Izumi's skill, increase the chances of drawing this card.\nIn addition, when collecting 200 Hearts while this card is in your hand, reduce the AP cost of this card by 7 AP and increase Voltage gain effects of the next Izumi card by 75%."
   },
   {
     "id": "",
