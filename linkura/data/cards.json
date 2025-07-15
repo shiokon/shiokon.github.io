@@ -754,6 +754,19 @@
     "passive": "<b>Love Collect・Bless</b>\nUpon using Izumi's skill, increase the chances of drawing this card.\nIn addition, when collecting 200 Hearts while this card is in your hand, reduce the AP cost of this card by 7 AP and increase Voltage gain effects of the next Izumi card by 75%."
   },
   {
+    "id": "大沢瑠璃乃_蒼のツバメ",
+    "rarity": "SR",
+    "limited": "LGP",
+    "title": "Ao no Tsubame",
+    "name": "Osawa Rurino",
+    "type": "Performer",
+    "image": "./data/images/大沢瑠璃乃_蒼のツバメ_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_蒼のツバメ_idolized.webp",
+    "special": "<b>[7-5 AP] Extra Retake Wide</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase max hand size by 2 this section; increase Heart cap by 36..90 this section.",
+    "skill": "<b>[7 AP] Retake Wide</b>\nIncrease Heart cap by 36..90 this section.\nIn addition, discard your hand and draw cards up to your max hand size.",
+    "passive": "<b>Tsubame Gaeshi</b>\nUpon use, return this card back into your deck; increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2-4, reduce this card's cost by 5 AP."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
