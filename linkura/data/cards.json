@@ -439,7 +439,7 @@
     "idolized": "./data/images/百生吟子_Celebration!_idolized.webp",
     "special": "<b>[4-2 AP] Twin Cerise</b>\nAdd 2 Happiness Cherry cards to your deck.",
     "skill": "<b>[5 AP] Dress《Celebration!》</b>\nAdd 2 types of《Celebration!》dresses to your deck.\nIn addition, if your deck has 22 cards, gain 120..300 Skill Hearts.",
-    "passive": "<b>Draw: Happy/Extra Gain</b>\nWhen drawing this card with Mood above +50 Happy, increase max hand size by 3 this section, and recover 1 AP.\n\n<b>[2 AP] Happiness Cherry Card: Happiness Cherry</b>\nReduce the cost of Kaho, Ginko, Dress, and Cherry cards in your deck by 3 AP.\nIn addition, if your deck has 24 cards, gain 120..300 Skill Hearts.\n<b>Passive: Happy Theory</b>\nWhile this card is in your hand and Mood is Happy, increase AP Recovery speed by 20%, if Mood is above +50 Happy, increase Heart Cap by 2000, if Mood is +100 Happy, increase Skill Heart effects of Kaho, Ginko, Dress, and Cherry cards by 200%.\nIn addition, destroy this card after playing it twice.\n\n<b>[5 AP] Dress《Celebration!》- Celebration! (Performer)</b>\nGain 12..30 Skill Hearts.\nIn addition, if your deck has 23 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use.\n\n<b>[5 AP] Dress《Celebration!》- Celebration! (Trickster)</b>\nDiscard your hand and draw cards up to your max hand size.\nIncrease the chance of drawing Kaho, Ginko, Dress, and Cherry cards.\nIn addition, if your deck has 24 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use."
+    "passive": "<b>Draw: Happy/Extra Gain</b>\nWhen drawing this card with Mood above +50 Happy, increase max hand size by 3 this section, and recover 1 AP.\n\n<b>[2 AP] Happiness Cherry Card: Happiness Cherry</b>\nReduce the cost of Kaho, Ginko, Dress, and Cherry cards in your deck by 3 AP.\nIn addition, if your deck has 24 cards, gain 120..300 Skill Hearts.\n<b>Passive: Happy Theory</b>\nWhile this card is in your hand and Mood is Happy, increase AP Recovery speed by 20%, if Mood is above +50 Happy, increase Heart Cap by 2000, if Mood is +100 Happy, increase Skill Heart effects of Kaho, Ginko, Dress, and Cherry cards by 200%.\nIn addition, destroy this card after playing it twice.\n\n<b>[5 AP] Dress《Celebration!》- Celebration!</b>\nGain 12..30 Skill Hearts.\nIn addition, if your deck has 23 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use.\n\n<b>[5 AP] Dress《Celebration!》- Celebration!</b>\nDiscard your hand and draw cards up to your max hand size.\nIncrease the chance of drawing Kaho, Ginko, Dress, and Cherry cards.\nIn addition, if your deck has 24 cards, increase Heart Cap by 400..1000, and gain 200..500 Skill Hearts.\n<b>Passive: Draw: Happy/Heart Capture & Instance</b>\nWhen drawing this card with +100 Happy Mood, gain 150 Skill Hearts.\nIn addition, destroy this card after use."
   },
   {
     "id": "日野下花帆_Celebration!",
@@ -765,6 +765,45 @@
     "special": "<b>[7-5 AP] Extra Retake Wide</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase max hand size by 2 this section; increase Heart cap by 36..90 this section.",
     "skill": "<b>[7 AP] Retake Wide</b>\nIncrease Heart cap by 36..90 this section.\nIn addition, discard your hand and draw cards up to your max hand size.",
     "passive": "<b>Tsubame Gaeshi</b>\nUpon use, return this card back into your deck; increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2-4, reduce this card's cost by 5 AP."
+  },
+  {
+    "id": "安養寺姫芽_蒼のツバメ",
+    "rarity": "SR",
+    "limited": "Normal",
+    "title": "Ao no Tsubame",
+    "name": "Anyoji Hime",
+    "type": "Moodmaker",
+    "image": "./data/images/安養寺姫芽_蒼のツバメ_image.webp",
+    "idolized": "./data/images/安養寺姫芽_蒼のツバメ_idolized.webp",
+    "special": "<b>[7-5 AP] Extra Reboot Voltage</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase max hand size by 2 this section, increase the effect of the next Voltage gain skill by 20..50%.",
+    "skill": "<b>[7 AP] Reboot Voltage</b>\nIncrease the next Voltage gain effect by 16.8..42%.\nIn addition, discard your hand and draw cards up to your max hand size.",
+    "passive": "<b>Tsubame Gaeshi</b>\nUpon use, return this card back into your deck; increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2-4, reduce this card's cost by 5 AP."
+  },
+  {
+    "id": "日野下花帆_フルーツパンチ",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Fruit Punch",
+    "name": "Hinoshita Kaho",
+    "type": "Performer",
+    "image": "./data/images/日野下花帆_フルーツパンチ_image.webp",
+    "idolized": "./data/images/日野下花帆_フルーツパンチ_idolized.webp",
+    "special": "<b>[5-3 AP] Double Punch</b>\nAdd 2 Heartful Punch cards to your deck.\nIn addition, increase the Skill Hearts gained from Heartful Punch cards by 40..100% this stage.",
+    "skill": "<b>[15 AP] Exact Attraction</b>\nGain 21..52 Skill Hearts; increase LOVE gain by 19.8..49.5% for this stage .\nIn addition, if your deck has 21 cards, gain 1140..2850 Skill Hearts and increase LOVE gain by 1100..2750% this stage.",
+    "passive": "<b>Sweet Dream</b>\nUpon draw, if your deck has 20 or less cards, reduce the cost of this card by 12 AP.\nIn addition, if your deck has 21 or more cards upon use, add 1 Heartful Punch card to your deck.\n\n<b>[3 AP] Heartful Punch</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chances of drawing Kaho, Ginko, Dress, and Heartful Punch cards.\n<b>Passive: Love Flavor</b>\nUpon use, destroy this card.\nIn addition, while in your hand, when you collect 1500 hearts, if your deck has 21 or more cards, gain 150 Skill Hearts and increase Beat Heart count by 1 this section; if your deck has 20 or less cards, increase AP recovery speed by 20% this section."
+  },
+  {
+    "id": "百生吟子_フルーツパンチ",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Fruit Punch",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_フルーツパンチ_image.webp",
+    "idolized": "./data/images/百生吟子_フルーツパンチ_idolized.webp",
+    "special": "<b>[5-3 AP] Double Punch</b>\nAdd 2 Heartful Punch cards to your deck.\nIn addition, increase the Skill Hearts gained from Heartful Punch cards by 40..100% this stage.",
+    "skill": "<b>[15 AP] Dress《Fruit Punch》</b>\nAdd 2 types of《Fruit Punch》cards to your deck.\nIn addition, if your deck has 21 cards, gain 1140..2850 Skill Hearts; discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chances of drawing Kaho, Ginko, Dress, and Heartful Punch cards.",
+    "passive": "<b>Sweet Trick</b>\nUpon draw, if your deck has 20 or less cards, reduce the cost of this card by 12 AP.\nIn addition, if your deck has 21 or more cards upon draw, increase Max Heart Cap by 36 this stage; increase your max hand size by 3 this section.\n\n<b>[3 AP] Heartful Punch</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chances of drawing Kaho, Ginko, Dress, and Heartful Punch cards.\n<b>Passive: Love Flavor</b>\nUpon use, destroy this card.\nIn addition, while in your hand, when you collect 1500 hearts, if your deck has 21 or more cards, gain 150 Skill Hearts and increase Beat Heart count by 1 this section; if your deck has 20 or less cards, increase AP recovery speed by 20% this section.\n\n<b>[3 AP] Dress《Fruit Punch》</b>\nGain 16..40 Skill Hearts. Increase Voltage gain effects from Dress Cards by 60..150% this stage.\nIn addition, if your deck has 22 cards, increase LOVE gain by 240..600% this stage.\n<b>Passive: Instance & Abundance: AP Reduce</b>\nUpon use, destroy this card.\nIn addition, if your deck has 22 cards upon use, reduce the cost of all Kaho, Ginko, and Dress cards in your deck by 12 AP.\n\n<b>[3 AP] Dress《Fruit Punch》</b>\nGain 64..160 Voltage Pt.; gain 16..40 Skill Hearts.\nIn addition, if your deck has 23 cards, increase Love Attract effects from Dress cards by 880..2200% for this stage.\n<b>Passive: Instance & Abundance: AP Reduce</b>\nUpon use, destroy this card.\nIn addition, if your deck has 23 cards upon use, reduce the cost of all Kaho, Ginko, and Dress cards in your deck by 12 AP."
   },
   {
     "id": "",
