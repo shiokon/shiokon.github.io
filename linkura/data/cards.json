@@ -806,6 +806,32 @@
     "passive": "<b>Sweet Trick</b>\nUpon draw, if your deck has 20 or less cards, reduce the cost of this card by 12 AP.\nIn addition, if your deck has 21 or more cards upon draw, increase Max Heart Cap by 36 this stage; increase your max hand size by 3 this section.\n\n<b>[3 AP] Heartful Punch</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chances of drawing Kaho, Ginko, Dress, and Heartful Punch cards.\n<b>Passive: Love Flavor</b>\nUpon use, destroy this card.\nIn addition, while in your hand, when you collect 1500 hearts, if your deck has 21 or more cards, gain 150 Skill Hearts and increase Beat Heart count by 1 this section; if your deck has 20 or less cards, increase AP recovery speed by 20% this section.\n\n<b>[3 AP] Dress《Fruit Punch》</b>\nGain 16..40 Skill Hearts. Increase Voltage gain effects from Dress Cards by 60..150% this stage.\nIn addition, if your deck has 22 cards, increase LOVE gain by 240..600% this stage.\n<b>Passive: Instance & Abundance: AP Reduce</b>\nUpon use, destroy this card.\nIn addition, if your deck has 22 cards upon use, reduce the cost of all Kaho, Ginko, and Dress cards in your deck by 12 AP.\n\n<b>[3 AP] Dress《Fruit Punch》</b>\nGain 64..160 Voltage Pt.; gain 16..40 Skill Hearts.\nIn addition, if your deck has 23 cards, increase Love Attract effects from Dress cards by 880..2200% for this stage.\n<b>Passive: Instance & Abundance: AP Reduce</b>\nUpon use, destroy this card.\nIn addition, if your deck has 23 cards upon use, reduce the cost of all Kaho, Ginko, and Dress cards in your deck by 12 AP."
   },
   {
+    "id": "村野さやか_太陽であれ！",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Taiyou de Are!",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_太陽であれ！_image.webp",
+    "idolized": "./data/images/村野さやか_太陽であれ！_idolized.webp",
+    "special": "<b>[12-10 AP] Backlit Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, discard your hand and draw cards up to your max hand size. Lower Mood by 40..100 this section.",
+    "skill": "<b>[5 AP] Illuminate Boost</b>\nIncrease the next skill's Skill Hearts gained by 40..100%; discard your hand and draw cards up to your max hand size.\nIn addition, if Mental is 0 and Mood is at -100 Mellow, increase the next 3 Kosuzu's Voltage gain skills by 120..300%, Love Attract effects by 360..900%, and gain 12..30 Skill Hearts.",
+    "passive": "<b>Sol Fuel</b>\nWhile in your hand, if you collect 3000 Hearts and Mood is -100 Mellow, gain invulnerability to Mental Down even if your mental reaches 0 for the current section; increase Beat Heart count by 1 for this section."
+  },
+  {
+    "id": "徒町小鈴_太陽であれ！",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Taiyou de Are!",
+    "name": "Kachimachi Kosuzu",
+    "type": "Performer",
+    "image": "./data/images/徒町小鈴_太陽であれ！_image.webp",
+    "idolized": "./data/images/徒町小鈴_太陽であれ！_idolized.webp",
+    "special": "<b>[22-20 AP] Belief Myself</b>\nFor this stage, gain invulnerability to Mental Down even if your mental reaches 0; reduce Mental by 100%.\nIn addition, increase Heart Cap by 1200..3000 for this stage.",
+    "skill": "<b>[23 AP] Radiant Attraction</b>\nGain 80..200 Skill Hearts.\nIn addition, if Mental is 0 and Mood is -100 Mellow, gain 120..300 Voltage Pt., increase LOVE% by 2000..5000% this section, and increase Heart Cap by 400..1000 this section.",
+    "passive": "<b>Sol Brave</b>\nWhile in your hand, if you collect 3000 Hearts and Mental is 0, gain 300 Skill Hearts; reduce this card's AP cost by 13."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
