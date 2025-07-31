@@ -832,6 +832,19 @@
     "passive": "<b>Sol Brave</b>\nWhile in your hand, if you collect 3000 Hearts and Mental is 0, gain 300 Skill Hearts; reduce this card's AP cost by 13."
   },
   {
+    "id": "桂城泉_蒼のツバメ",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Ao no Tsubame",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_蒼のツバメ_image.webp",
+    "idolized": "./data/images/桂城泉_蒼のツバメ_idolized.webp",
+    "special": "<b>[7-5 AP] Extra Refresh Heat</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase max hand size by 2 this section; increase AP recovery speed by 8..20% this section.",
+    "skill": "<b>[7 AP] Imitation Refresh Protect</b>\nSet this card on stage when played, absorbs any hand size increase effects. When this count reaches 2, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size; negate Mental damage by 8..20% for this stage; and discard this card.",
+    "passive": "<b>Tsubame Gaeshi</b>\nUpon use, increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2 to 4, reduce this card's AP cost by 5."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
