@@ -333,9 +333,9 @@
     "type": "Trickster",
     "image": "./data/images/徒町小鈴_Oracle_Étude_image.webp",
     "idolized": "./data/images/徒町小鈴_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, negate Mental damage by 3999.6..9999% this stage.",
+    "skill": "<b>[1 AP] mode:DEVICE</b>\nGain 8889..22222 Voltage Pt.\nIn addition, gain 889..2222 Skill Hearts; increase Heart Cap by 889..2222 this section.",
+    "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
   {
     "id": "百生吟子_Oracle_Étude",
