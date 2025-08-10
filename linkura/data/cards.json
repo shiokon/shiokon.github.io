@@ -845,6 +845,32 @@
     "passive": "<b>Tsubame Gaeshi</b>\nUpon use, increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2 to 4, reduce this card's AP cost by 5."
   },
   {
+    "id": "大沢瑠璃乃_Very!_Very!_COCO夏っ",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Very! Very! COCONuts",
+    "name": "Osawa Rurino",
+    "type": "Moodmaker",
+    "image": "./data/images/大沢瑠璃乃_Very!_Very!_COCO夏っ_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_Very!_Very!_COCO夏っ_idolized.webp",
+    "special": "<b>[4-2 AP] Solar Coconuts</b>\nDuring Sections 2-3 besides FEVER, increase Beat Heart count by 2..5 this section, increase max hand size by 5, increase AP recovery speed by 28..70%, and restore 8..20 AP.",
+    "skill": "<b>[7 AP] Coconuts Tropical</b>\nDuring Sections 2-3 besides FEVER, increase the next 55 Heart Gain effects by 7.2..18%, increase Mood by 29..72 this section; discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.\nIn addition, if Mood is +100 Happy, increase the next Hime's Voltage Gain effect by 220..550% and increase LOVE gain by 2228.8..5572% this section. If played during other sections, reduce the AP cost of all cards in your deck by 2 AP.",
+    "passive": "<b>Daytime Hot</b>\nIncrease the chances of drawing this card during Sections 2-3, prevent drawing this card in other sections.\nIn addition, when drawn during Sections 2-3 besides FEVER, gain 5 Skill Hearts, increase max hand size by 2 this section; while in your hand during Sections 2-3 besides FEVER, when you collect 550 Hearts, gain 72 Skill Hearts and increase the next Love Attract effect by 55%."
+  },
+  {
+    "id": "安養寺姫芽_Very!_Very!_COCO夏っ",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Very! Very! COCONuts",
+    "name": "Anyoji Hime",
+    "type": "Moodmaker",
+    "image": "./data/images/安養寺姫芽_Very!_Very!_COCO夏っ_image.webp",
+    "idolized": "./data/images/安養寺姫芽_Very!_Very!_COCO夏っ_idolized.webp",
+    "special": "<b>[4-2 AP] Solar Coconuts</b>\nDuring Sections 2-3 besides FEVER, increase Beat Heart count by 2..5 this section, increase max hand size by 5, increase AP recovery speed by 28..70%, and restore 8..20 AP.",
+    "skill": "<b>[7 AP] Coconuts Paradise</b>\nDuring Sections 2-3 besides FEVER, increase the next 55 Heart Gain effects by 7.2..18%, increase Mood by 29..72 this section, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.\nIn addition, if Mood is +100 Happy, gain 220..550 Voltage Pt. and increase the next Rurino's Love Attract effect by 288..720%. If played during other sections, reduce the AP cost of all cards in your deck by 2 AP.",
+    "passive": "<b>Daytime Hot</b>\nIncrease the chances of drawing this card during Sections 2-3, prevent drawing this card in other sections.\nIn addition, when drawn during Sections 2-3 besides FEVER, gain 5 Skill Hearts, increase AP recovery speed by 22% this section; while in your hand during Sections 2-3 besides FEVER, when you collect 550 Hearts, gain 72 Skill Hearts and increase the next Voltage Gain effect by 55%."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
