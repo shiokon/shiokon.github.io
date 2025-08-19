@@ -871,6 +871,58 @@
     "passive": "<b>Daytime Hot</b>\nIncrease the chances of drawing this card during Sections 2-3, prevent drawing this card in other sections.\nIn addition, when drawn during Sections 2-3 besides FEVER, gain 5 Skill Hearts, increase AP recovery speed by 22% this section; while in your hand during Sections 2-3 besides FEVER, when you collect 550 Hearts, gain 72 Skill Hearts and increase the next Voltage Gain effect by 55%."
   },
   {
+    "id": "日野下花帆_可惜夜花火",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Atarayo Hanabi",
+    "name": "Hinoshita Kaho",
+    "type": "Performer",
+    "image": "./data/images/日野下花帆_可惜夜花火_image.webp",
+    "idolized": "./data/images/日野下花帆_可惜夜花火_idolized.webp",
+    "special": "<b>[4-2 AP] Moonlight Bloom</b>\nDuring Sections 3-4 besides FEVER, increase Beat Heart count by 3..8 this section, increase AP recovery speed by 29.2..73% this section; discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.",
+    "skill": "<b>[7 AP] Fire Flower</b>\nDuring Sections 3-4 besides FEVER, gain 349..873 skill hearts, discard your hand and draw cards up to your max hand size.\nIn addition, if your deck has 23 or more cards, increase Heart Cap by 35..87, and increase the next 87 Heart Gain effects by 34.9..87.3%. If played during other sections, reduce the AP cost of all cards in your deck by 2 AP.",
+    "passive": "<b>Summer Night Flower</b>\nIncrease the chances of drawing this card during Sections 3-4, prevent drawing this card in other sections. If drawn during Sections 3-4 besides FEVER, increase the next 8 Night Queen cards' love attract effects by 730%; increase AP recovery speed by 23% this section.\nIn addition, upon use, add 1 Night Queen card to your deck.\n\n<b>[7 AP] Night Queen</b>\nGain 873 skill hearts, increase LOVE gain by 873% this stage, and increase Heart Cap by 87 this stage.\n<b>Passive: Night Grow</b>\nIncrease the chances of drawing this card in Sections 3-4, prevent drawing this card in other sections.\nIn addition, if drawn during Sections 3-4 besides FEVER, gain 8 Skill Hearts; if in your hand during Sections 3-4 besides FEVER and when you collect 720 hearts, gain 87 Skill Hearts; increase the next Night Queen card's skill hearts gained by 73%."
+  },
+  {
+    "id": "百生吟子_可惜夜花火",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Atarayo Hanabi",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_可惜夜花火_image.webp",
+    "idolized": "./data/images/百生吟子_可惜夜花火_idolized.webp",
+    "special": "<b>[4-2 AP] Moonlight Bloom</b>\nDuring Sections 3-4 besides FEVER, increase Beat Heart count by 3..8 this section, increase AP recovery speed by 29.2..73% this section; discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.",
+    "skill": "<b>[7 AP] Dress《Atarayo Hanabi》</b>\nAdd 2 types of《Atarayo Hanabi》(4 total) cards to your deck.\nIn addition, during Sections 3-4 besides FEVER, gain 349..873 Skill Hearts, discard your hand and draw cards up to your max hand size. If played during other sections, reduce the AP cost of all cards in your deck by 2 AP.",
+    "passive": "<b>Summer Night Spark</b>\nIncrease the chances of drawing this card during Sections 3-4, prevent drawing this card in other sections.\nIn addition, if drawn during Sections 3-4 besides FEVER, gain 5 Skill Hearts, increase max hand size by 2 this section; if in your hand during Sections 3-4 besides FEVER and when you collect 720 hearts, gain 87 Skill Hearts, and reduce the cost of all Kaho, Ginko, and Dress cards in your deck by 2 AP.\n\n<b>[7 AP] Dress《Atarayo Hanabi》\nGain 349..873 Skill Hearts, increase LOVE gain by 6..15% this stage.\nIn addition, if your deck has 23 or more cards, increase Heart Cap by 88..220 this stage, increase the next 87 Dress Cards' heart gain effects by 29.2..73%.\n<b>Passive: Sparkler</b>\nIncrease the chances of drawing this card during Sections 3-4. When drawn, if your deck has 23 or more cards, gain 40 Skill Hearts, increase LOVE gain by 40% this stage, increase Heart Cap by 60 this stage, increase AP recovery speed by 23% this section.\nIn addition, destroy this card after use.\n\n<b>[7 AP] Dress《Atarayo Hanabi》</b>\nIncrease LOVE gain by 6..15% this stage, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.\nIn addition, if your deck has 23 or more cards, increase Heart Cap by 88..220 this stage, increase the next 87 Dress cards' LOVE attract effects by 29.2..73%.\n<b>Passive: Sparkler</b>\nIncrease the chances of drawing this card during Sections 3-4. When drawn, if your deck has 23 or more cards, gain 40 Skill Hearts, increase LOVE gain by 40% this stage, increase Heart Cap by 60 this stage, increase max hand size by 2 this section.\nIn addition, destroy this card after use."
+  },
+  {
+    "id": "村野さやか_ブルウモーメント",
+    "rarity": "SR",
+    "limited": "Summer",
+    "title": "Blue Moment",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_ブルウモーメント_image.webp",
+    "idolized": "./data/images/村野さやか_ブルウモーメント_idolized.webp",
+    "special": "<b>[4-2 AP] Summer Dawn</b>\nDuring Sections 1-2 besides FEVER, increase AP recovery speed by 13.2..33% this section, increase max hand size by 3 this section, recovery 1..3 AP.",
+    "skill": "<b>[7 AP] Morning Glory Dew</b>\nDuring Sections 1-2 beisdes FEVER, increase the next 3 LOVE attract effects by 8..20%, swing Mood towards Mellow by 14..33 this section; in addition, if Mood is below 50 Mellow, discard your hand and draw cards up to your max hand size, grants invulnerability to Mental Down even if your mental reaches 0 for the current section. If played during other sections, reduce the AP cost of all cards in your deck by 1 AP.",
+    "passive": "<b>Morning Rise</b>\nIncrease the chances of drawing this card during Sections 1-2, prevent drawing this card in other sections.\nIn addition, if drawn during Sections 1-2 besides FEVER, recover 3 AP; if in your hand during Sections 1-2 besides FEVER and when you collect 72 hearts, gain 33 Skill Hearts."
+  },
+  {
+    "id": "徒町小鈴_ブルウモーメント",
+    "rarity": "",
+    "limited": "LGP",
+    "title": "Blue Moment",
+    "name": "Kachimachi Kosuzu",
+    "type": "",
+    "image": "./data/images/徒町小鈴_ブルウモーメント_image.webp",
+    "idolized": "./data/images/徒町小鈴_ブルウモーメント_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
