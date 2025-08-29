@@ -294,9 +294,9 @@
     "type": "Trickster",
     "image": "./data/images/セラス_柳田_リリエンフェルト_Oracle_Étude_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, if Mood is Happy or Mellow, swing towards the respective Mood by 40..90 this stage.",
+    "skill": "<b>[1 AP] mode:FUTURE</b>\nIf Mood is Happy or Mellow, swing towards the respective Mood by 4..8 this stage.\nIn addition, increase Beat Heart count by 3..8 and increase the next 88 Love Attract skill effects by 355.2..888%.",
+    "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
   {
     "id": "桂城泉_Oracle_Étude",
@@ -921,6 +921,32 @@
     "special": "<b>[4-2 AP] Summer Dawn</b>\nDuring Sections 1-2 besides FEVER, increase AP recovery speed by 13.2..33% this section, increase max hand size by 3 this section, recover 1..3 AP.",
     "skill": "<b>[7 AP] Morning Glory Dew</b>\nDuring Sections 1-2 beisdes FEVER, increase the next 3 heart gain effects by 24..60%, swing Mood towards Mellow by 14..33 this section; in addition, if Mood is below 50 Mellow, discard your hand and draw cards up to your max hand size, increase max hand size by 2 this section. If played during other sections, reduce the AP cost of all cards in your deck by 1 AP.",
     "passive": "<b>Morning Rise</b>\nIncrease the chances of drawing this card during Sections 1-2, prevent drawing this card in other sections.\nIn addition, if drawn during Sections 1-2 besides FEVER, recover 3 AP; if in your hand during Sections 1-2 besides FEVER and when you collect 72 hearts, gain 33 Skill Hearts."
+  },
+  {
+    "id": "桂城泉_フュージョンクラスト",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Fusion Crust",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_フュージョンクラスト_image.webp",
+    "idolized": "./data/images/桂城泉_フュージョンクラスト_idolized.webp",
+    "special": "<b>[11-9 AP] Summer Magic Hour</b>\nDuring FEVER, increase AP recovery speed by 39.6..99% and increase Beat Heart count by 4..9 this section.\nIn addition, increase LOVE gain by 3999.6..9999% this stage.",
+    "skill": "<b>[7 AP]Imitation Light</b>\nSet this card on stage when played, absorbs any Mood shift effects.\nAt the start of the next section, shift Mood equal to 0.48..1.2x the absorbed amount, then discard this card.",
+    "passive": "<b>Sunset Star</b>\nUpon use, increase Beat Heart count by 2 this section.\nIn addition, increase the chances of drawing this card during FEVER; if drawn during FEVER, increase Beat Heart count by 1 this section; when played during FEVER, increase Beat Heart count by 9 this section."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_フュージョンクラスト",
+    "rarity": "UR",
+    "limited": "Summer",
+    "title": "Fusion Crust",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_フュージョンクラスト_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_フュージョンクラスト_idolized.webp",
+    "special": "<b>[11-9 AP] Summer Magic Hour</b>\nDuring FEVER, if Mood is Happy or Mellow, swing towards the respective Mood by 40..99 and increase Beat Heart count by 4..9 this section.\nIn addition, increase Heart Cap by 400..999 this stage.",
+    "skill": "<b>[7 AP] Sound Fusion</b>\nIf Mood is Happy or Mellow, swing towards the respective Mood by 29..72 this section.\nIn addition, during FEVER, gain 400..999 Skill Hearts, increase the next 9 Skill Hearts gained by 14.4..36%, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. During other sections, decrease AP recovery speed by 5% and reduce Mental by 5%.",
+    "passive": "<b>Sunset Light</b>\nUpon draw, if Mood is Happy or Mellow, swing towards the respective Mood by 7.\nIn addition, increase the chances of drawing this card during FEVER; if drawn during FEVER, gain 99 Skill Hearts and increase Heart Cap by 99 this stage."
   },
   {
     "id": "",
