@@ -932,7 +932,7 @@
     "image": "./data/images/桂城泉_フュージョンクラスト_image.webp",
     "idolized": "./data/images/桂城泉_フュージョンクラスト_idolized.webp",
     "special": "<b>[11-9 AP] Summer Magic Hour</b>\nDuring FEVER, increase AP recovery speed by 39.6..99% and increase Beat Heart count by 4..9 this section.\nIn addition, increase LOVE gain by 3999.6..9999% this stage.",
-    "skill": "<b>[7 AP]Imitation Light</b>\nSet this card on stage when played, absorbs any Mood shift effects.\nAt the start of the next section, shift Mood equal to 0.48..1.2x the absorbed amount, then discard this card.",
+    "skill": "<b>[7 AP] Imitation Light</b>\nSet this card on stage when played, absorbs any Mood shift effects.\nAt the start of the next section, shift Mood equal to 0.48..1.2x the absorbed amount, then discard this card.",
     "passive": "<b>Sunset Star</b>\nUpon use, increase Beat Heart count by 2 this section.\nIn addition, increase the chances of drawing this card during FEVER; if drawn during FEVER, increase Beat Heart count by 1 this section; when played during FEVER, increase Beat Heart count by 9 this section."
   },
   {
