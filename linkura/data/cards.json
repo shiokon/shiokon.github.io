@@ -960,5 +960,18 @@
     "special": "",
     "skill": "",
     "passive": ""
+  },
+  {
+    "id": "百生吟子_蒼のツバメ",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Ao no Tsubame",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_蒼のツバメ_image.webp",
+    "idolized": "./data/images/百生吟子_蒼のツバメ_idolized.webp",
+    "special": "<b>[7-5 AP] Extra Refresh Gain</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase max hand size by 3 this section and gain 4..10 AP.",
+    "skill": "<b>[7 AP] Dress《Ao no Tsubame》</b>\nIncrease max hand size by 2 this section.\nIn addition, add 2《Ao no Tsubame》dresses to your deck.",
+    "passive": "<b>Tsubame Gaeshi</b>\nUpon use, return this card back into your deck; increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2-4, reduce this card's cost by 5 AP.\n\n<b>[5 AP] Dress《Ao no Tsubame》</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase the next Voltage gain effect by 113.2..283% andgain 4..10 Skil Hearts.\n<b>Passive: Instance</b>\nUpon use, destroy this card."
   }
 ]
