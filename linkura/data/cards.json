@@ -949,19 +949,6 @@
     "passive": "<b>Sunset Light</b>\nUpon draw, if Mood is Happy or Mellow, swing towards the respective Mood by 7.\nIn addition, increase the chances of drawing this card during FEVER; if drawn during FEVER, gain 99 Skill Hearts and increase Heart Cap by 99 this stage."
   },
   {
-    "id": "",
-    "rarity": "",
-    "limited": "",
-    "title": "",
-    "name": "",
-    "type": "",
-    "image": "./data/images/_image.webp",
-    "idolized": "./data/images/_idolized.webp",
-    "special": "",
-    "skill": "",
-    "passive": ""
-  },
-  {
     "id": "百生吟子_蒼のツバメ",
     "rarity": "UR",
     "limited": "LGP",
@@ -973,5 +960,31 @@
     "special": "<b>[7-5 AP] Extra Refresh Gain</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase max hand size by 3 this section and gain 4..10 AP.",
     "skill": "<b>[7 AP] Dress《Ao no Tsubame》</b>\nIncrease max hand size by 2 this section.\nIn addition, add 2《Ao no Tsubame》dresses to your deck.",
     "passive": "<b>Tsubame Gaeshi</b>\nUpon use, return this card back into your deck; increase AP recovery speed by 20% this section.\nIn addition, when drawn during sections 2-4, reduce this card's cost by 5 AP.\n\n<b>[5 AP] Dress《Ao no Tsubame》</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, increase the next Voltage gain effect by 113.2..283% and gain 4..10 Skill Hearts.\n<b>Passive: Instance</b>\nUpon use, destroy this card."
+  },
+  {
+    "id": "大沢瑠璃乃_18th_Birthday",
+    "rarity": "BR",
+    "limited": "Birthday",
+    "title": "18th Birthday",
+    "name": "Osawa Rurino",
+    "type": "Trickster",
+    "image": "./data/images/大沢瑠璃乃_18th_Birthday_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_18th_Birthday_idolized.webp",
+    "special": "<b>[7-5 AP] Solace</b>\nRecover 8..20% Mental every second for this section.",
+    "skill": "<b>[3 AP] Bloom Myself</b>\nDiscard your hand and draw cards up to your max hand size; greatly increase the chances of drawing a Rurino card.\nIn addition, increase the next 3 Rurino's Mental Recovery skill effects by 32..80% and reduce the cost of all Rurino cards in your deck by 3 AP.",
+    "passive": "<b>Birthday Candle</b>\nUpon use, restore 3 AP, up to 18 times."
+  },
+  {
+    "id": "",
+    "rarity": "",
+    "limited": "",
+    "title": "",
+    "name": "",
+    "type": "",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
   }
 ]
