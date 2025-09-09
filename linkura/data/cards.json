@@ -975,6 +975,32 @@
     "passive": "<b>Birthday Candle</b>\nUpon use, restore 3 AP, up to 18 times."
   },
   {
+    "id": "安養寺姫芽_ニャオシグニャル",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Nyao Signyal",
+    "name": "Anyoji Hime",
+    "type": "Moodmaker",
+    "image": "./data/images/安養寺姫芽_ニャオシグニャル_image.webp",
+    "idolized": "./data/images/安養寺姫芽_ニャオシグニャル_idolized.webp",
+    "special": "<b>[10-8 AP] Dream Jockey</b>\nIncrease AP recovery speed by 8.8..22% this stage; if Mood is Happy or Mellow, swing towards the respective Mood by 26..64 this section.\nIn addition, if Mood is above 64 Happy or below 64 Mellow, increase Heart Cap by 128..320 this stage and gain 168..420 Voltage Pt.",
+    "skill": "<b>[16 AP] Groovy Signyal</b>\nGain 102..256 Voltage Pt.\nIn addition, if Voltage Lvl is 4 or above, increase AP recovery speed by 8.8..22% this section; if Voltage Lvl is 8 or above, increase the next 4 Rurino's Voltage Gain skill effects by 409.6..1024%; if Voltage Lvl is 16 or above, discard your hand and draw cards up to your max hand size; if Voltage Lvl is 32 or above, increase Heart Cap by 410..1024 this stage.",
+    "passive": "<b>Sound Groovy Heart</b>\nWhile in your hand and Mood is above 64 Happy or below 64 Mellow, reduce the cost of this card by 8 AP.\nIn addition, upon draw, gain up to 1024 Skill Hearts based on your Voltage Lvl."
+  },
+  {
+    "id": "大沢瑠璃乃_ニャオシグニャル",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Nyao Signyal",
+    "name": "Osawa Rurino",
+    "type": "Moodmaker",
+    "image": "./data/images/大沢瑠璃乃_ニャオシグニャル_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_ニャオシグニャル_idolized.webp",
+    "special": "<b>[10-8 AP] Dream Jockey</b>\nIncrease max hand size by 2 this stage, if Mood is Happy or Mellow, swing towards the respective Mood by 26..64 this section.\nIn addition, if Mood is above 64 Happy or below 64 Mellow, increase Heart Cap by 128..320 this stage and gain 168..420 Voltage Pt.",
+    "skill": "<b>[16 AP] Groovy Signyal</b>\nGain 102..256 Voltage Pt.\nIn addition, if Voltage Lvl is 4 or above, increase max hand size by 2 this section; if Voltage Lvl is 8 or above, increase the next 4 Hime's Voltage Gain skill effects by 409.6..1024%; if Voltage Lvl is 16 or above, discard your hand and draw cards up to your max hand size; if Voltage Lvl is 32 or above, increase Heart Cap by 1024.",
+    "passive": "<b>Sound Grooby Heart</b>\nWhile in your hand and Mood is above 64 Happy or below 64 Mellow, reduce the cost of this card by 8 AP.\nIn addition, upon draw, gain up to 1024 Skill Hearts based on your Voltage Lvl."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
