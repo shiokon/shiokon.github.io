@@ -1001,6 +1001,19 @@
     "passive": "<b>Sound Grooby Heart</b>\nWhile in your hand and Mood is above 64 Happy or below 64 Mellow, reduce the cost of this card by 8 AP.\nIn addition, upon draw, gain up to 1024 Skill Hearts based on your Voltage Lvl."
   },
   {
+    "id": "村野さやか_四蓮琴之虎",
+    "rarity": "SR",
+    "limited": "LGP",
+    "title": "Tiger of the Four Lotus Koto",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_四蓮琴之虎_image.webp",
+    "idolized": "./data/images/村野さやか_四蓮琴之虎_idolized.webp",
+    "special": "<b>[6-4 AP] Sanxian</b>\nDuring Section 3 except for FEVER, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase max hand size by 4 this section and gain 1..4 AP.",
+    "skill": "<b>[4 AP] Tetra Gain</b>\nDuring Section 3 except for FEVER, gain 40..100 Voltage Pt; increase Heart Cap by 24..60 and gain 10..25% LOVE this stage; and gain 10..25 Skill Hearts. If played in other sections, reduce the AP cost of all Kaho cards in your deck by 4 AP.",
+    "passive": "<b>Sifang Zhihua</b>\nIncrease the chances of drawing this card in Section 3, except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 3 except for FEVER, increase the next 4 Voltage Gain effects by 40%; if Mood is Happy or Mellow, swing towards the respective Mood by 44 this section."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
