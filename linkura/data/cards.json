@@ -1048,7 +1048,7 @@
     "type": "Performer",
     "image": "./data/images/日野下花帆_四蓮琴之武_image.webp",
     "idolized": "./data/images/日野下花帆_四蓮琴之武_idolized.webp",
-    "special": "<b>[6-4 AP] Si Xian</b>\nDuring Section 4 except for FEVER, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase max hand size by 4 this section and gain 1..4 AP.",
+    "special": "<b>[6-4 AP] Sixian</b>\nDuring Section 4 except for FEVER, discard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase max hand size by 4 this section and gain 1..4 AP.",
     "skill": "<b>[4 AP] Tetra Heart</b>\nDuring Section 4 except for FEVER, gain 10..25 Skill Hearts, increase Heart Cap by 24..60 and gain 10..25% LOVE this stage; and gain 40..100 Voltage Pt. If played in other sections, reduce the AP cost of all Izumi cards in your deck by 4 AP.",
     "passive": "<b>Beifeng Zhi Hua</b>\nIncrease the chances of drawing this card in Section 4, except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 4 except for FEVER, increase the next 4 Skill Heart gain effects by 120%, if Mood is Happy or Mellow, swing towards the respective Mood by 44 this section."
   },
