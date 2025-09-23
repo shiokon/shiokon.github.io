@@ -1053,6 +1053,19 @@
     "passive": "<b>Beifeng Zhi Hua</b>\nIncrease the chances of drawing this card in Section 4, except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 4 except for FEVER, increase the next 4 Skill Heart gain effects by 120%, if Mood is Happy or Mellow, swing towards the respective Mood by 44 this section."
   },
   {
+    "id": "安養寺姫芽_17th_Birthday",
+    "rarity": "BR",
+    "limited": "Birthday",
+    "title": "17th Birthday",
+    "name": "Anyoji Hime",
+    "type": "Trickster",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/安養寺姫芽_17th_Birthday_idolized.webp",
+    "special": "<b>[7-4 AP] Groove Ignition</b>\nGain Voltage Pt. based on the amount of times Hime's Ignition has been activated.",
+    "skill": "<b>[2 AP] Bloom Myself</b>\nToggles Hime's Ignition Mode.\nIn addition, increase the next 2 Hime's Voltage Gain skill effects by 36..90%; reduce the cost of all Hime cards in your deck by 2 AP.",
+    "passive": "<b>Birthday Candle</b>\nUpon use, recover 2 AP, up to 17 times."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
