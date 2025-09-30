@@ -1066,6 +1066,45 @@
     "passive": "<b>Birthday Candle</b>\nUpon use, recover 2 AP, up to 17 times."
   },
   {
+    "id": "日野下花帆_想造の地平から",
+    "rarity": "UR",
+    "limited": "Party",
+    "title": "Souzou no Chihei kara",
+    "name": "Hinoshita Kaho",
+    "type": "Performer",
+    "image": "./data/images/日野下花帆_想造の地平から_image.webp",
+    "idolized": "./data/images/日野下花帆_想造の地平から_idolized.webp",
+    "special": "<b>[22-20 AP] Genesis Realm</b>\nGenesis Progress fluctuates based on AP, Voltage, and Mental change; Hearts change into Flowers. Change to Genesis Progress scales with this Skill Level; LOVE gained when collecting Flowers is based on the current Genesis Progress.\nIn addition, upon playing a card, there will be a cooldown before another can be played; the cooldown is based on the song's length.",
+    "skill": "<b>[20 AP] Blooming Horizon</b>\nGain 120..300 Skill Hearts.\nIn addition, increase AP recovery speed by 12..30% this stage, gain 1200..3000 Voltage Pt., and recover 120..300% Mental.",
+    "passive": "<b>Grand Design</b>\nUpon draw, reduce AP recovery speed by 10% this section, lose 100 Voltage Pt., and lower Mental by 10%.\nIn addition, when 3000 Hearts are collected while this card is in your hand, gain 3000 Skill Hearts."
+  },
+  {
+    "id": "村野さやか_醒悟の地平から",
+    "rarity": "UR",
+    "limited": "Party",
+    "title": "Seigo no Chihei kara",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_醒悟の地平から_image.webp",
+    "idolized": "./data/images/村野さやか_醒悟の地平から_idolized.webp",
+    "special": "<b>[12-10 AP] Awaking Gaia</b>\nIncrease every skills' effects by 20..50% this stage.",
+    "skill": "<b>[3 AP] Blooming Fuel</b>\nGain 120..300 Skill Hearts and gain 5..13 AP.\nIn addition, if Voltage Lvl is 20 or above, increase the next 3 Voltage Gain effects by 120..300%; if Mental is 100% or above, increase the next 3 Mental Recovery effects by 120..300%.",
+    "passive": "<b>Scorching</b>\nWhen in your hand, increase Skill Hearts gained by 300% and reduce max hand size by 3."
+  },
+  {
+    "id": "大沢瑠璃乃_眺望の地平から",
+    "rarity": "UR",
+    "limited": "Party",
+    "title": "Choubou no Chihei kara",
+    "name": "Osawa Rurino",
+    "type": "Trickster",
+    "image": "./data/images/大沢瑠璃乃_眺望の地平から_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_眺望の地平から_idolized.webp",
+    "special": "<b>[12-10 AP] Second Sight</b>\nAdd every member into the Special Appeal screen, for [3 AP], reset and reshuffle your hand and deck and greatly increase the chances of drawing the selected member's card; there is a cooldown to use this skill again.\nIn addition, hand size is maxed for this stage.",
+    "skill": "<b>[3 AP] Blooming Path</b>Gain 120..300 Skill Hearts, shuffle your hand, increase max hand size by 3 this section, and if Mood is Happy or Mellow, swing towards the respective Mood by 6..13.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 412..1030% LOVE and increase Heart Cap by 120..300 for this stage.",
+    "passive": "<b>Bleed Battery<b>\nUpon draw, increase the next Love Attract effect by 300%, Heart Cap increase effect by 30%, Mood change effect by 13%, and lose 3 AP."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
