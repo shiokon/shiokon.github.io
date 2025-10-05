@@ -294,7 +294,7 @@
     "type": "Trickster",
     "image": "./data/images/セラス_柳田_リリエンフェルト_Oracle_Étude_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_Oracle_Étude_idolized.webp",
-    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, if Mood is Happy or Mellow, swing towards the respective Mood by 40..90 this stage.",
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, if Mood is Happy or Mellow, swing towards the respective Mood by 40..90 this stage.",
     "skill": "<b>[1 AP] mode:FUTURE</b>\nIf Mood is Happy or Mellow, swing towards the respective Mood by 4..8 this stage.\nIn addition, increase Beat Heart count by 3..8 and increase the next 88 Love Attract skill effects by 355.2..888%.",
     "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
@@ -320,7 +320,7 @@
     "type": "Trickster",
     "image": "./data/images/安養寺姫芽_Oracle_Étude_image.webp",
     "idolized": "./data/images/安養寺姫芽_Oracle_Étude_idolized.webp",
-    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, increase Beat Heart count by 99 this stage.",
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, increase Beat Heart count by 99 this stage.",
     "skill": "<b>[1 AP] mode:DESTROYER</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size.\nIn addition, gain 2666..6666 Skill Hearts and increase LOVE gain by 2666..6666% this section.",
     "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
@@ -333,7 +333,7 @@
     "type": "Trickster",
     "image": "./data/images/徒町小鈴_Oracle_Étude_image.webp",
     "idolized": "./data/images/徒町小鈴_Oracle_Étude_idolized.webp",
-    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, negate Mental damage by 3999.6..9999% this stage.",
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, negate Mental damage by 3999.6..9999% this stage.",
     "skill": "<b>[1 AP] mode:DEVICE</b>\nGain 8889..22222 Voltage Pt.\nIn addition, gain 889..2222 Skill Hearts; increase Heart Cap by 889..2222 this section.",
     "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
@@ -346,9 +346,9 @@
     "type": "Trickster",
     "image": "./data/images/百生吟子_Oracle_Étude_image.webp",
     "idolized": "./data/images/百生吟子_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, increase max hand size by 40..99 this stage.",
+    "skill": "<b>[1 AP] mode:ARCHITECTURE</b>\nAdd 11 Dress《Oracle Étude》cards to your deck.\n\n<b>[1 AP] Dress《Oracle Étude》</b>\nGain 444..1111 Skill Hearts.\nIn addition, increase Heart Cap by 444..1111 this stage.\n<b>Passive: Eclipse</b>\nUpon use, reduce max hand size by 1 this stage and destroy this card.",
+    "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
   {
     "id": "大沢瑠璃乃_Oracle_Étude",
@@ -359,7 +359,7 @@
     "type": "Trickster",
     "image": "./data/images/大沢瑠璃乃_Oracle_Étude_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_Oracle_Étude_idolized.webp",
-    "special": "<b>[1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, recover 40..99% Mental every second for this stage.",
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, recover 40..99% Mental every second for this stage.",
     "skill": "<b>[1 AP] mode:ELIXIR</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase max hand size by 7 this section.\nIn addition, restore 30.8..77% Mental and negate Mental damage by 3110.8..7777% this stage.",
     "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
@@ -1103,6 +1103,45 @@
     "special": "<b>[12-10 AP] Second Sight</b>\nAdd every member into the Special Appeal screen, for [3 AP], reset and reshuffle your hand and deck and greatly increase the chances of drawing the selected member's card; there is a cooldown to use this skill again.\nIn addition, hand size is maxed for this stage.",
     "skill": "<b>[3 AP] Blooming Path</b>Gain 120..300 Skill Hearts, shuffle your hand, increase max hand size by 3 this section, and if Mood is Happy or Mellow, swing towards the respective Mood by 6..13.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 412..1030% LOVE and increase Heart Cap by 120..300 for this stage.",
     "passive": "<b>Bleed Battery</b>\nUpon draw, increase the next Love Attract effect by 300%, Heart Cap increase effect by 30%, Mood change effect by 13%, and lose 3 AP."
+  },
+  {
+    "id": "大沢瑠璃乃_一生に夢が咲くように",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Hitoyo ni Yume ga Saku you ni",
+    "name": "Osawa Rurino",
+    "type": "Performer",
+    "image": "./data/images/大沢瑠璃乃_一生に夢が咲くように_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_一生に夢が咲くように_idolized.webp",
+    "special": "<b>[10-8 AP] Cheerful Wide Extend</b>\nIncrease max hand size by 2 this stage.\nIn addition, if Mental is 100%, increase heart cap by 355..888 this stage.",
+    "skill": "<b>[8 AP] Cheerful Boosted Heart</b>\nIncrease heart cap by 75..188 this stage; if mental is 100%, increase the next 3 Love Attract effects by 355.2..888% and gain 355..888 Skill Hearts.\nIn addition, reduce Mental by 8%.",
+    "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, increase max hand size by 3 this section and increase the next 8 Voltage gain effects by 88%.\nIn addition, upon use, gain 8 AP, up to 8 times."
+  },
+  {
+    "id": "百生吟子_一生に夢が咲くように",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Hitoyo ni Yume ga Saku you ni",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_一生に夢が咲くように_image.webp",
+    "idolized": "./data/images/百生吟子_一生に夢が咲くように_idolized.webp",
+    "special": "<b>[10-8 AP] Dream Bloom Link</b>\nDuring this stage, when all Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Izumi/Ceras skills are used, gain 3555.2..8888% LOVE this section, increase Beat Heart count by 3..8 this section, and increase Heart Cap by 355..888 this section.\nThe Love Attract effect depends on the total amount of AP spent on the skills used. When the same member's skill is used again, the AP spent recorded is overwritten.",
+    "skill": "<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nAdd 2 Dress《Hitoyo ni Yume ga Saku you ni》cards to your deck.\nIn addition, shuffle your hand.\n\n<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》\nShuffle your hand and gain 75..188 Voltage Pt.\nIn addition, if Mental is 100%, gain 355..888 Skill Hearts.\n<b>Passive: Cross Anima</b>\nThe more Mental you have, the more this card's AP cost is reduced by, up to 6.\nIn addition, when this car has been used twice, increase the next Ginko's Love Attract skill effect by 888% and destroy this card.",
+    "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, gain 8 AP and increase the next 8 Heart Cap increase effects by 88%.\nIn addition, when used, gain 8 AP, up to 8 times."
+  },
+  {
+    "id": "徒町小鈴_一生に夢が咲くように",
+    "rarity": "",
+    "limited": "LGP",
+    "title": "Hitoyo ni Yume ga Saku you ni",
+    "name": "Kachimachi Kosuzu",
+    "type": "",
+    "image": "./data/images/徒町小鈴_一生に夢が咲くように_image.webp",
+    "idolized": "./data/images/徒町小鈴_一生に夢が咲くように_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
   },
   {
     "id": "",
