@@ -1127,21 +1127,21 @@
     "image": "./data/images/百生吟子_一生に夢が咲くように_image.webp",
     "idolized": "./data/images/百生吟子_一生に夢が咲くように_idolized.webp",
     "special": "<b>[10-8 AP] Dream Bloom Link</b>\nDuring this stage, when all Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Izumi/Ceras skills are used, gain 3555.2..8888% LOVE this section, increase Beat Heart count by 3..8 this section, and increase Heart Cap by 355..888 this section.\nThe Love Attract effect depends on the total amount of AP spent on the skills used. When the same member's skill is used again, the AP spent recorded is overwritten.",
-    "skill": "<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nAdd 2 Dress《Hitoyo ni Yume ga Saku you ni》cards to your deck.\nIn addition, shuffle your hand.\n\n<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》\nShuffle your hand and gain 75..188 Voltage Pt.\nIn addition, if Mental is 100%, gain 355..888 Skill Hearts.\n<b>Passive: Cross Anima</b>\nThe more Mental you have, the more this card's AP cost is reduced by, up to 6.\nIn addition, when this car has been used twice, increase the next Ginko's Love Attract skill effect by 888% and destroy this card.",
+    "skill": "<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nAdd 2 Dress《Hitoyo ni Yume ga Saku you ni》cards to your deck.\nIn addition, shuffle your hand.\n\n<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nShuffle your hand and gain 75..188 Voltage Pt.\nIn addition, if Mental is 100%, gain 355..888 Skill Hearts.\n<b>Passive: Cross Anima</b>\nThe more Mental you have, the more this card's AP cost is reduced by, up to 6.\nIn addition, when this car has been used twice, increase the next Ginko's Love Attract skill effect by 888% and destroy this card.",
     "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, gain 8 AP and increase the next 8 Heart Cap increase effects by 88%.\nIn addition, when used, gain 8 AP, up to 8 times."
   },
   {
     "id": "徒町小鈴_一生に夢が咲くように",
-    "rarity": "",
+    "rarity": "UR",
     "limited": "LGP",
     "title": "Hitoyo ni Yume ga Saku you ni",
     "name": "Kachimachi Kosuzu",
-    "type": "",
+    "type": "Cheerleader",
     "image": "./data/images/徒町小鈴_一生に夢が咲くように_image.webp",
     "idolized": "./data/images/徒町小鈴_一生に夢が咲くように_idolized.webp",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "special": "<b>[10-8 AP] Cheerful Recover Vibes</b>\nRecover 35.2..88% Mental.\nIn addition, if Mental is 100%, increase Beat Heart count by 3..8 this section.",
+    "skill": "<b>[8 AP] Early Vortex Protect</b>\nRecover 7.2..18% Mental and negate damage equal to 7.2..18% Mental for this stage.\nIn addition, during Sections 1-2 besides FEVER, gain 355..888 Voltage Pt.",
+    "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, increase AP recovery speed by 8% this section and increase the next 8 Mental Protect effects by 88%.\nIn addition, when used, gain 8 AP, up to 8 times."
   },
   {
     "id": "",
