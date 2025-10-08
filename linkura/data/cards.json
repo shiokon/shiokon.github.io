@@ -1101,7 +1101,7 @@
     "image": "./data/images/大沢瑠璃乃_眺望の地平から_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_眺望の地平から_idolized.webp",
     "special": "<b>[12-10 AP] Second Sight</b>\nAdd every member into the Special Appeal screen, for [3 AP], reset and reshuffle your hand and deck and greatly increase the chances of drawing the selected member's card; there is a cooldown to use this skill again.\nIn addition, hand size is maxed for this stage.",
-    "skill": "<b>[3 AP] Blooming Path</b>Gain 120..300 Skill Hearts, shuffle your hand, increase max hand size by 3 this section, and if Mood is Happy or Mellow, swing towards the respective Mood by 6..13.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 412..1030% LOVE and increase Heart Cap by 120..300 for this stage.",
+    "skill": "<b>[3 AP] Blooming Path</b>\nGain 120..300 Skill Hearts, shuffle your hand, increase max hand size by 3 this section, and if Mood is Happy or Mellow, swing towards the respective Mood by 6..13.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 412..1030% LOVE and increase Heart Cap by 120..300 for this stage.",
     "passive": "<b>Bleed Battery</b>\nUpon draw, increase the next Love Attract effect by 300%, Heart Cap increase effect by 30%, Mood change effect by 13%, and lose 3 AP."
   },
   {
