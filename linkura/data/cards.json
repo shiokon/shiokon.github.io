@@ -1144,6 +1144,45 @@
     "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, increase AP recovery speed by 8% this section and increase the next 8 Mental Protect effects by 88%.\nIn addition, when used, gain 8 AP, up to 8 times."
   },
   {
+    "id": "野下花帆_乙女詞華集",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Otome Shikashuu",
+    "name": "Hinoshita Kaho",
+    "type": "Trickster",
+    "image": "./data/images/野下花帆_乙女詞華集_image.webp",
+    "idolized": "./data/images/野下花帆_乙女詞華集_idolized.webp",
+    "special": "<b>[14-12 AP] Maiden Writer</b>\nFor this stage, increase Skill Hearts gained from Manuscript/Cerise Anthology cards by 192..480%.\nIn addition, if your deck has 32 or more cards, add 1 Manuscript card to your deck.",
+    "skill": "<b>[4 AP] Rewrite Page<b>\nShuffle your hand into your deck, restore 6.4..16% Mental.\nIn addition, if Mental is at 100%, increase the next Heart Cap increase skill effect by 19.2..48%, the next Manuscript/Cerise Anthology card's Skill Hearts gained by 128..320% and LOVE attract effects by 44.8..112%.",
+    "passive": "<b>Girls Poetry</b>\nAfter using this card 16 times, add 1 Manuscript card to your deck.\nIn addition, if Mental is at 100% when drawn, increase the next 2 Heart Cap increase skill effects by 32%.\n\n<b>[16 AP] Manuscript</b>\nGain 77..192 Skill Hearts.\nIn addition, increase Heart Cap by 77..192 and increase LOVE by 768..1920% for this stage.\n<b>Passive: Sentimental Lyric</b>\nOnly be able to draw this card after using a Kaho or Ginko card. The more this skill is used, the higher its effects and the lower its AP cost will be.\nIn addition, after using this skill 48 times, destroy it and add 1 Cerise Anthology card to your deck.\n\n<b>[1 AP] Cerise Anthology</b>\nGain 768..1920 Skill Hearts.\nIn addition, increase Heart Cap by 768..1920 and increase LOVE by 7680..19200% for this stage.\n<b>Passive: Flowering Lyric</b>\nThe more this skill is used, the stronger its effects will be.\nIn addition, while this card is in your hand and when 100000 Hearts are collected, increase Heart Count by 4 this section, gain 192 Skill Hearts, and reshuffle your hand."
+  },
+  {
+    "id": "百生吟子_乙女詞華集",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Otome Shikashuu",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_乙女詞華集_image.webp",
+    "idolized": "./data/images/百生吟子_乙女詞華集_idolized.webp",
+    "special": "<b>[14-12 AP] Maiden Writer</b>\nFor this stage, increase Love Attract effects from Manuscript/Cerise Anthology cards by 76.8..192%.\nIn addition, if your deck has 32 or more cards, add 1 Manuscript card to your deck.",
+    "skill": "<b>[8 AP] Dress《Otome Shikashuu》</b>Add 4《Otome Shikashuu》Dresses (2 Types) to your deck.\n\n<b>[8 AP]《Otome Shikashuu》</b>\nGain 154..384 Skill Hearts, increase Heart Cap by 77..192 this stage.\nIn addition, if Mental is at 100%, increase the next Heart Cap increase skill effect by 76.8..192%, the next Manuscript/Cerise Anthology card's Skill Hearts gained by 307.2..768%.\n<b>Passive: Ephemeral</b>\nDestroy this card after use.\nIn addition, if Mental is 100% when drawn, increase the next Heart Cap increase skill effect by 48%.\n\n<b>[8 AP]《Otome Shikashuu》</b>\nIncrease Heart Cap by 77..192 this stage, increase LOVE% by 153.6..384%.\nIn addition, if Mental is at 100%, increase the next Heart Cap increase skill effect by 76.8..192%, the next Manuscript/Cerise Anthology card's Love Attract effects by 307.2..768%.\n<b>Passive: Ephemeral</b>\nDestroy this card after use.\nIn addition, if Mental is 100% when drawn, increase the next Heart Cap increase skill effect by 48%.",
+    "passive": "<b>Girls Poetry</b>\nAfter using this card 4 times, add 1 Manuscript card to your deck.\nIn addition, if Mental is at 100% when drawn, increase max hand size by 4 this section and reduce the AP cost of all Manuscript cards in your deck by 8 AP.\n\n<b>[16 AP] Manuscript</b>\nGain 77..192 Skill Hearts.\nIn addition, increase Heart Cap by 77..192 and increase LOVE by 768..1920% for this stage.\n<b>Passive: Sentimental Lyric</b>\nOnly be able to draw this card after using a Kaho or Ginko card. The more this skill is used, the higher its effects and the lower its AP cost will be.\nIn addition, after using this skill 48 times, destroy it and add 1 Cerise Anthology card to your deck.\n\n<b>[1 AP] Cerise Anthology</b>\nGain 768..1920 Skill Hearts.\nIn addition, increase Heart Cap by 768..1920 and increase LOVE by 7680..19200% for this stage.\n<b>Passive: Flowering Lyric</b>\nThe more this skill is used, the stronger its effects will be.\nIn addition, while this card is in your hand and when 100000 Hearts are collected, increase Heart Count by 4 this section, gain 192 Skill Hearts, and reshuffle your hand."
+  },
+  {
+    "id": "",
+    "rarity": "",
+    "limited": "",
+    "title": "",
+    "name": "",
+    "type": "",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
