@@ -517,7 +517,7 @@
     "idolized": "./data/images/日野下花帆_18th_Birthday_idolized.webp",
     "special": "<b>[6-5 AP] Heart Boost</b>\nIncrease Skill Hearts gained by 40..100% this section.",
     "skill": "<b>[3 AP] Bloom Myself</b>\nIncrease the next 3 Kaho cards' Skill Hearts gained by 80..200%.\nIn addition, reduce the cost of Kaho cards in your deck by 3 AP.",
-    "passive": "<b>Birthday Candle</b>\nRestore 3 AP when playing this card, up to 18 times."
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 3 AP, up to 18 times."
   },
   {
     "id": "安養寺姫芽_WAWO!",
@@ -686,7 +686,7 @@
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_16th_Birthday_idolized.webp",
     "special": "<b>[7-5 AP] Sound Ambience</b>\nFor this stage, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.",
     "skill": "<b>[1 AP] Bloom Myself</b>\nFor this section, if the Mood is Happy or Mellow, swing towards the respective mood by 4..10.\nIn addition, reduce the cost of all Ceras cards in your deck by 1 AP.",
-    "passive": "<b>Birthday Candle</b>\nUpon use, recover 1 AP, up to 16 times."
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 1 AP, up to 16 times."
   },
   {
     "id": "村野さやか_アイドゥーミー！",
@@ -972,7 +972,7 @@
     "idolized": "./data/images/大沢瑠璃乃_18th_Birthday_idolized.webp",
     "special": "<b>[7-5 AP] Solace</b>\nRecover 8..20% Mental every second for this section.",
     "skill": "<b>[3 AP] Bloom Myself</b>\nDiscard your hand and draw cards up to your max hand size; greatly increase the chances of drawing a Rurino card.\nIn addition, increase the next 3 Rurino's Mental Recovery skill effects by 32..80% and reduce the cost of all Rurino cards in your deck by 3 AP.",
-    "passive": "<b>Birthday Candle</b>\nUpon use, restore 3 AP, up to 18 times."
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 3 AP, up to 18 times."
   },
   {
     "id": "安養寺姫芽_ニャオシグニャル",
@@ -1063,7 +1063,7 @@
     "idolized": "./data/images/安養寺姫芽_17th_Birthday_idolized.webp",
     "special": "<b>[7-4 AP] Groove Ignition</b>\nGain Voltage Pt. based on the amount of times Hime's Ignition has been activated.",
     "skill": "<b>[2 AP] Bloom Myself</b>\nToggles Hime's Ignition Mode.\nIn addition, increase the next 2 Hime's Voltage Gain skill effects by 36..90%; reduce the cost of all Hime cards in your deck by 2 AP.",
-    "passive": "<b>Birthday Candle</b>\nUpon use, recover 2 AP, up to 17 times."
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 2 AP, up to 17 times."
   },
   {
     "id": "日野下花帆_想造の地平から",
@@ -1170,17 +1170,17 @@
     "passive": "<b>Girls Poetry</b>\nAfter using this card 4 times, add 1 Manuscript card to your deck.\nIn addition, if Mental is at 100% when drawn, increase max hand size by 4 this section and reduce the AP cost of all Manuscript cards in your deck by 8 AP.\n\n<b>[16 AP] Manuscript</b>\nGain 77..192 Skill Hearts.\nIn addition, increase Heart Cap by 77..192 and increase LOVE by 768..1920% for this stage.\n<b>Passive: Sentimental Lyric</b>\nOnly be able to draw this card after using a Kaho or Ginko card. The more this skill is used, the higher its effects and the lower its AP cost will be.\nIn addition, after using this skill 48 times, destroy it and add 1 Cerise Anthology card to your deck.\n\n<b>[1 AP] Cerise Anthology</b>\nGain 768..1920 Skill Hearts.\nIn addition, increase Heart Cap by 768..1920 and increase LOVE by 7680..19200% for this stage.\n<b>Passive: Flowering Lyric</b>\nThe more this skill is used, the stronger its effects will be.\nIn addition, while this card is in your hand and when 100000 Hearts are collected, increase Heart Count by 4 this section, gain 192 Skill Hearts, and reshuffle your hand."
   },
   {
-    "id": "",
-    "rarity": "",
-    "limited": "",
-    "title": "",
-    "name": "",
-    "type": "",
-    "image": "./data/images/_image.webp",
-    "idolized": "./data/images/_idolized.webp",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "id": "百生吟子_17th_Birthday",
+    "rarity": "BR",
+    "limited": "Birthday",
+    "title": "17th Birthday",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_17th_Birthday_image.webp",
+    "idolized": "./data/images/百生吟子_17th_Birthday_idolized.webp",
+    "special": "<b>[7-5 AP] Dresser</b>\nBe able to switch between a deck of only Dress cards and a deck without them.\nIn addition, add 1《17th Birthday》Dress card to your deck.\n\n<b>[2 AP]《17th Birthday》</b>\nGain 8..20 AP.\n<b>Passive: Instance & Draw: Extend Band</b>\nUpon use, destroy this card.\nIn addition, when drawn, increase max hand size by 2 this section.",
+    "skill": "<b>[2 AP] Bloom Myself</b>\nIncrease the next 2 Ginko or Dress cards' Heart Cap increase skill effects by 20..50%.\nIn addition, reduce the AP cost of all Ginko and Dress cards in your deck by 2 AP.",
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 2 AP, up to 17 times."
   },
   {
     "id": "",
