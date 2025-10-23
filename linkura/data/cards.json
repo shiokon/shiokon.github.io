@@ -1183,6 +1183,58 @@
     "passive": "<b>Birthday Candle</b>\nUpon use, gain 2 AP, up to 17 times."
   },
   {
+    "id": "セラス_柳田_リリエンフェルト_四蓮琴之雀",
+    "rarity": "SR",
+    "limited": "LGP",
+    "title": "Si Lianqin Zhi Que",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_四蓮琴之雀_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_四蓮琴之雀_idolized.webp",
+    "special": "<b>[6-4 AP]Liangxian</b>\nDuring Section 2 except for FEVER, reshuffle your hand, increase max hand size by 4 this section, and gain 1..4 AP.",
+    "skill": "<b>[4 AP] Tetra Vibes</b>\nDuring Section 2 except for FEVER, increase Beat Heart count by 2..4 this section.\nIf played in other sections, reduce the cost of all Sayaka cards in your deck by 4 AP.",
+    "passive": "<b>Nanfeng Zhi Hua</b>\nIncrease the chances of drawing this card in Section 2 except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 2 except for FEVER, increase the next 4 Mood change effects by 40%; if Mood is Happy or Mellow, swing towards the respective Mood by 44."
+  },
+  {
+    "id": "大沢瑠璃乃_バイタルサイン",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Vital Sign",
+    "name": "Osawa Rurino",
+    "type": "Cheerleader",
+    "image": "./data/images/大沢瑠璃乃_バイタルサイン_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_バイタルサイン_idolized.webp",
+    "special": "<b>[3-1 AP] Revitalization</b>\nFor this section, increase Mental Recover effects by 133.2..333% and Mental Protect effects by 133.2..333%; increase max hand size by 1 this section.",
+    "skill": "<b>[9 AP] Stimulation</b>\nNegate Mental damage equal to 10..25% of your max mental this stage.\nIn addition, if Mental is 99% and above, increase the next 9 Skill Heart gain effects by 399.6..999% and reduce Mental by 33%; if Mental is 66% and above, increase the next 9 Voltage gain effects by 266.4..666% and reduce Mental by 22%; if Mental is 33% and above, shuffle your hand, increase the next 9 Mental Recovery effects by 133.2..333% and reduce Mental by 11%.",
+    "passive": "<b>Mira-Cra Medicine</b>\nWhile in your hand and Mental is 100%, reduce the cost of this card by 6 AP and increase max hand size by 4.\nIn addition, if Mental is 99% and below when played, add 1 QQ Box card to your deck.\n\n<b>[9 AP] QQ Box</b>\nRecover 100% Mental and negate Mental damage equal to 100% of your max Mental for this stage.\nIn addition, shuffle your hand into your deck and draw new cards.\n<b>Passive: First Aid</b>\nWhile in your hand, if Mental is 99% and below, reduce the cost of this card by 8 AP.\nIn addition, destroy this card when played."
+  },
+  {
+    "id": "安養寺姫芽_バイタルサイン",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Vital Sign",
+    "name": "Anyoji Hime",
+    "type": "Cheerleader",
+    "image": "./data/images/安養寺姫芽_バイタルサイン_image.webp",
+    "idolized": "./data/images/安養寺姫芽_バイタルサイン_idolized.webp",
+    "special": "<b>[3-1 AP] Revitalization</b>\nFor this section, increase Mental Recover effects by 133.2..333% and Mental Protect effects by 133.2..333%; reduce AP recovery speed by 9% this section.",
+    "skill": "<b>[9 AP] Stimulation</b>\nNegate Mental damage equal to 10..25% of your max mental this stage.\nIn addition, if Mental is 99% and above, increase the next 9 Skill Heart gain effects by 399.6..999% and reduce Mental by 33%; if Mental is 66% and above, increase the next 9 Love Attract effects by 266.4..666% and reduce Mental by 22%; if Mental is 33% and above, shuffle your hand, increase the next 9 Mental Protect effects by 133.2..333% and reduce Mental by 11%.",
+    "passive": "<b>Mira-Cra Medicine</b>\nWhile in your hand and Mental is 100%, reduce the cost of this card by 6 AP and increase AP recovery speed by 40%.\nIn addition, if Mental is 99% and below when played, add 1 QQ Box card to your deck.\n\n<b>[9 AP] QQ Box</b>\nRecover 100% Mental and negate Mental damage equal to 100% of your max Mental for this stage.\nIn addition, shuffle your hand into your deck and draw new cards.\n<b>Passive: First Aid</b>\nWhile in your hand, if Mental is 99% and below, reduce the cost of this card by 8 AP.\nIn addition, destroy this card when played."
+  },
+  {
+    "id": "桂城泉_四蓮琴之龍",
+    "rarity": "SR",
+    "limited": "Normal",
+    "title": "Si Lianqin Zhi Long",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_四蓮琴之龍_image.webp",
+    "idolized": "./data/images/桂城泉_四蓮琴之龍_idolized.webp",
+    "special": "<b>[6-4 AP] Yixian</b>\nDuring Section 1 except for FEVER, shuffle your hand into your deck and draw new cards, increase max hand size by 4 this section, and gain 1..4 AP.",
+    "skill": "<b>[4 AP] Tetra Imitation</b>\nDuring Section 1 except for FEVER, set this card on stage and absorbs Heart Cap increase effects. Upon reaching 400 Heart Cap increase, increase Heart Cap by 640..1600 this stage and discard this card. If played in other sections, set this card on stage and absorb AP gain effects. Upon reaching 4 AP gained, reduce the cost of all Ceras cards in your deck by 4 AP and discard this card.",
+    "passive": "<b>Dongfeng Zhi Hua</b>\nIncrease the chances of drawing this card in Section 1, except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 1 except for FEVER, increase the next 4 Heart Cap increase effects by 40%; if Mood is Happy or Mellow, swing towards the respective Mood by 44 this section."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
