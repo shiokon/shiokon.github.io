@@ -1191,7 +1191,7 @@
     "type": "Moodmaker",
     "image": "./data/images/セラス_柳田_リリエンフェルト_四蓮琴之雀_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_四蓮琴之雀_idolized.webp",
-    "special": "<b>[6-4 AP]Liangxian</b>\nDuring Section 2 except for FEVER, reshuffle your hand, increase max hand size by 4 this section, and gain 1..4 AP.",
+    "special": "<b>[6-4 AP] Liangxian</b>\nDuring Section 2 except for FEVER, reshuffle your hand, increase max hand size by 4 this section, and gain 1..4 AP.",
     "skill": "<b>[4 AP] Tetra Vibes</b>\nDuring Section 2 except for FEVER, increase Beat Heart count by 2..4 this section.\nIf played in other sections, reduce the cost of all Sayaka cards in your deck by 4 AP.",
     "passive": "<b>Nanfeng Zhi Hua</b>\nIncrease the chances of drawing this card in Section 2 except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 2 except for FEVER, increase the next 4 Mood change effects by 40%; if Mood is Happy or Mellow, swing towards the respective Mood by 44."
   },
