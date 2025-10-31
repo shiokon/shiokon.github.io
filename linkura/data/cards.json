@@ -372,9 +372,9 @@
     "type": "Trickster",
     "image": "./data/images/村野さやか_Oracle_Étude_image.webp",
     "idolized": "./data/images/村野さやか_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, gain 4000..9999 Voltage Pt every second throughout this stage.",
+    "skill": "<b>[1 AP] mode:TERMINAL</b>\nIncrease the next 33 Skill Hearts gained by 133.2..333%, Love Attract effects by 133.2..333%, or Heart Cap increase effects by 133.2..333%.",
+    "passive": "<b>Radioactive</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, after using this card 8 times, it is destroyed."
   },
   {
     "id": "日野下花帆_Oracle_Étude",
