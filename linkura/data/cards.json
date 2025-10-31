@@ -1235,6 +1235,45 @@
     "passive": "<b>Dongfeng Zhi Hua</b>\nIncrease the chances of drawing this card in Section 1, except for FEVER, prevent drawing this card in any other sections.\nIn addition, when drawn during Section 1 except for FEVER, increase the next 4 Heart Cap increase effects by 40%; if Mood is Happy or Mellow, swing towards the respective Mood by 44 this section."
   },
   {
+    "id": "安養寺姫芽_はじまりの羽音",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Hajimari no Haneoto",
+    "name": "Anyoji Hime",
+    "type": "Cheerleader",
+    "image": "./data/images/安養寺姫芽_はじまりの羽音_image.webp",
+    "idolized": "./data/images/安養寺姫芽_はじまりの羽音_idolized.webp",
+    "special": "<b>[12-10 AP] Cheerful Voltage Boost</b>\nIf Mental is above 100%, increase the next 8 Voltage Gain skill effects by 34..85%.",
+    "skill": "<b>[15 AP] Wing Beat Mentor</b>\nRecover 48..120% Mental.\nIn addition, if Mental is above 100%, shuffle your hand, gain 120..300 Skill Hearts, and negate Mental damage equal to 22..55% of your Max Mental for this stage.",
+    "passive": "<b>Recover Wing</b>\nReduce the AP cost of this card based on the current amount of Mental (-10 AP max).\nIn addition, upon draw, increase the next 3 Mental Recovery skill effects by 32%."
+  },
+  {
+    "id": "徒町小鈴_はじまりの羽音",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Hajimari no Haneoto",
+    "name": "Kachimachi Kosuzu",
+    "type": "Cheerleader",
+    "image": "./data/images/徒町小鈴_はじまりの羽音_image.webp",
+    "idolized": "./data/images/徒町小鈴_はじまりの羽音_idolized.webp",
+    "special": "<b>[12-10 AP] Dancing Voltage</b>\nVoltage Lv is infinite for this section. When gaining Voltage Pt, increase LOVE% for this section and gain 0-20 AP. This effect is increased based on the activated skill and this card's special appeal level; the fewer cards your deck has below 18, the weaker the effect becomes.",
+    "skill": "<b>[15 AP] Wing Beat Challenger</b>\nRestore 48..120% Mental.\nIn addition, if Mental is above 100%, shuffle your hand, gain 120..300 Skill Hearts, increase the next 3 Sayaka's Love Attract skill effects by 320..800% or Voltage Gain skill effects by 120..300%, reduce the cost of all Sayaka cards in your deck by 8 AP, and reduce Mental by 99%.",
+    "passive": "<b>Inherit Wing</b>\nReduce the AP cost of this card based on the current amount of Mental (-10 AP max).\nIn addition, when Mental is above 100% when drawn, increase Beat Heart count by 1 for this section."
+  },
+  {
+    "id": "村野さやか_はじまりの羽音",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Hajimari no Haneoto",
+    "name": "Murano Sayaka",
+    "type": "Cheerleader",
+    "image": "./data/images/村野さやか_はじまりの羽音_image.webp",
+    "idolized": "./data/images/村野さやか_はじまりの羽音_idolized.webp",
+    "special": "<b>[12-10 AP] Dancing Voltage</b>\nVoltage Lv is infinite for this section. When gaining Voltage Pt, gain Skill Hearts and gain 0-20 AP. This effect is increased based on the activated skill and this card's special appeal level; the fewer cards your deck has below 18, the weaker the effect becomes.",
+    "skill": "<b>[30 AP] Wing Beat Attraction</b>\nRestore 120..300% Mental.\nIn addition, if Mental is above 100%, gain 1200..3000 Skill Hearts, increase LOVE% by 3200..8000% for this section, gain 320..800 Voltage Pt, grants invulnerability to Mental Down even if Mental reaches 0 for this section, and reduce Mental by 99%.",
+    "passive": "<b>Freedom Wing</b>\nReduce the AP cost of this card based on the current amount of Mental (-20 AP max).\nIn addition, when using this skill, up to 3 times, add 1 Selfish Feather card to your deck.\n\n<b>[1 AP] Selfish Feather</b>\nReset and shuffle your hand.\nIn addition, increase AP recovery speed by 80% for this section.\n<b>Passive: Soarer</b>\nUpon draw, recover 30% Mental and negate damage equal to 10% of your Max Mental for this stage. If Mental is above 100% while this card is in your hand, when 2000 Hearts are collected, gain 80 Skill Hearts; when 20000 Hearts are collected, increase the next 8 Skill Hearts gained by 300%; when 200000 Hearts are collected, gain 800 Skill Hearts.\nIn addition, this card is destroyed upon use."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
