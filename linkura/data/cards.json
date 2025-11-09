@@ -1274,6 +1274,32 @@
     "passive": "<b>Freedom Wing</b>\nReduce the AP cost of this card based on the current amount of Mental (-20 AP max).\nIn addition, when using this skill, up to 3 times, add 1 Selfish Feather card to your deck.\n\n<b>[1 AP] Selfish Feather</b>\nReset and shuffle your hand.\nIn addition, increase AP recovery speed by 80% for this section.\n<b>Passive: Soarer</b>\nUpon draw, recover 30% Mental and negate damage equal to 10% of your Max Mental for this stage. If Mental is above 100% while this card is in your hand, when 2000 Hearts are collected, gain 80 Skill Hearts; when 20000 Hearts are collected, increase the next 8 Skill Hearts gained by 300%; when 200000 Hearts are collected, gain 800 Skill Hearts.\nIn addition, this card is destroyed upon use."
   },
   {
+    "id": "町小鈴_ガランドFlash",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Garand Flash",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/町小鈴_ガランドFlash_image.webp",
+    "idolized": "./data/images/町小鈴_ガランドFlash_idolized.webp",
+    "special": "<b>[2-0 AP] Don't Be Shy</b>\nRecover 40..100% Mental.\nIn addition, increase the next 5 Mental Recovery skill effects by 40..100% and increase max hand size by 2 for this section.",
+    "skill": "<b>[11 AP] Roman Heart</b>\nGain 4..11 Skill Hearts, 80..200 Voltage Pt, and recover 20..50% Mental.\nIn addition, if Mental is above 100%, increase the next Sayaka's Voltage Gain skill effect by 400..1000%, reduce the cost of all Sayaka cards in your deck by 3 AP, and reduce Mental by 50% of the max.",
+    "passive": "<b>Garand Trash</b>\nIf Voltage Lv is 20 or above while in your hand, when using a skill with a main effect of Mental Protect or Mental Recovery, gain 200 Skill Hearts and reset and shuffle your hand."
+  },
+  {
+    "id": "村野さやか_ガランドFlash",
+    "rarity": "UR",
+    "limited": "Autumn",
+    "title": "Garand Flash",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_ガランドFlash_image.webp",
+    "idolized": "./data/images/村野さやか_ガランドFlash_idolized.webp",
+    "special": "<b>[2-0 AP] Don't Be Shy</b>\nRecover 40..100% Mental.\nIn addition, increase the next 5 Mental Recovery skill effects by 40..100% and reduce AP recovery speed by 20% for this section.",
+    "skill": "<b>[11 AP] Roman Protection</b>\nNegate damage equal to 4.4..11% of your max Mental for this stage, gain 80..200 Voltage Pt, and recover 20..50% Mental.\nIn addition, if Mental is above 100%, increase the next Kosuzu's Voltage Gain skill effect by 400..1000%, reduce the cost of all Kosuzu cards om ypir deck by 3 AP, and reduce Mental by 50% of the max.",
+    "passive": "<b>Garand Trash</b>\nIf Voltage Lv is 20 or above while in your hand, when using a skill with a main effect of Skill Heart gain or Mental Recovery, increase Beat Heart count by 1 for this section and reset and shuffle your hand."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
