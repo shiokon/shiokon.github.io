@@ -1347,7 +1347,7 @@
     "type": "Cheerleader",
     "image": "./data/images/安養寺姫芽_Poupée en Lotus_image.webp",
     "idolized": "./data/images/安養寺姫芽_Poupée en Lotus_idolized.webp",
-    "special": "<b>[7-5 AP] Alter Ego<b>\nAdd 1 Poupée en Lotus/Hime dress card to your deck.",
+    "special": "<b>[7-5 AP] Alter Ego</b>\nAdd 1 Poupée en Lotus/Hime dress card to your deck.",
     "skill": "<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.",
     "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Hime dress card to your deck.\nIn addition, upon draw, increase the next Hime's Voltage gain skill effect by 75%.\n\n<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.\n<b>Passive: Mimicry</b>\nUpon draw, increase the next Hime's Voltage gain skill effect by 75%."
   },
