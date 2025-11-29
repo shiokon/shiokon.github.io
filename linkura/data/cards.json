@@ -561,7 +561,7 @@
   {
     "id": "夕霧綴理_幸せのリボン",
     "rarity": "LR",
-    "limited": "Normal",
+    "limited": "",
     "title": "Shiawase no Ribbon",
     "name": "Yugiri Tsuzuri",
     "type": "Moodmaker",
@@ -574,7 +574,7 @@
   {
     "id": "乙宗梢_be_proud",
     "rarity": "LR",
-    "limited": "Normal",
+    "limited": "",
     "title": "be proud",
     "name": "Otomune Kozue",
     "type": "Performer",
@@ -587,7 +587,7 @@
   {
     "id": "藤島慈_やっぱ天使！",
     "rarity": "LR",
-    "limited": "Normal",
+    "limited": "",
     "title": "Yappa Tenshi!",
     "name": "Fujishima Megumi",
     "type": "Cheerleader",
@@ -1354,7 +1354,7 @@
   {
     "id": "乙宗梢_Reflection in the mirror/102",
     "rarity": "LR",
-    "limited": "Normal",
+    "limited": "",
     "title": "Reflection in the mirror/102",
     "name": "Otomune Kozue",
     "type": "Moodmaker",
@@ -1367,7 +1367,7 @@
   {
     "id": "夕霧綴理_Sparkly Spot/102",
     "rarity": "LR",
-    "limited": "Normal",
+    "limited": "",
     "title": "Sparkly Spot/102",
     "name": "Yugiri Tsuzuri",
     "type": "Moodmaker",
@@ -1380,13 +1380,13 @@
   {
     "id": "藤島慈_On your mark/102",
     "rarity": "LR",
-    "limited": "Normal",
+    "limited": "",
     "title": "On your mark/102",
     "name": "Fujishima Megumi",
     "type": "Cheerleader",
     "image": "./data/images/藤島慈_On your mark102_image.webp",
     "idolized": "./data/images/藤島慈_On your mark102_idolized.webp",
-    "special": "<b>[7-5 AP] Low Edge Spirits</b>For this section, recover 40.8..102% Mental per second; reduce max hand size by 3 this section.\nIn addition, if Skill Level is 12..14, reduce the cost of all cards in your deck by 3 AP.",
+    "special": "<b>[7-5 AP] Low Edge Spirits</b>\nFor this section, recover 40.8..102% Mental per second; reduce max hand size by 3 this section.\nIn addition, if Skill Level is 12..14, reduce the cost of all cards in your deck by 3 AP.",
     "skill": "<b>[1 AP] Stubborn Charming</b>\nRecover 408..1020% Mental, negate damage equal to 408..1020% of your max Mental for this stage, reduce AP by 10, reduce Voltage Pt by 1020.\nIn addition, gain 408..1020 Skill Hearts / if Skill Level is 11..14, increase the next 3 Kozue or Tsuzuri Skill Heart gain effects by 85.7..102%.",
     "passive": "<b>102 Overture</b>\nPrevent drawing this card unless a Kozue, Tsuzuri, Megumi, or Sachi card is played.\nIn addition, while in your hand and 102000 Hearts are collected, gain 1020 Skill Hearts and recover 102% Mental."
   },
