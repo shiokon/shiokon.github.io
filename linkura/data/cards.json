@@ -1296,7 +1296,7 @@
     "image": "./data/images/村野さやか_ガランドFlash_image.webp",
     "idolized": "./data/images/村野さやか_ガランドFlash_idolized.webp",
     "special": "<b>[2-0 AP] Don't Be Shy</b>\nRecover 40..100% Mental.\nIn addition, increase the next 5 Mental Recovery skill effects by 40..100% and reduce AP recovery speed by 20% for this section.",
-    "skill": "<b>[11 AP] Roman Protection</b>\nNegate damage equal to 4.4..11% of your max Mental for this stage, gain 80..200 Voltage Pt, and recover 20..50% Mental.\nIn addition, if Mental is above 100%, increase the next Kosuzu's Voltage Gain skill effect by 400..1000%, reduce the cost of all Kosuzu cards om ypir deck by 3 AP, and reduce Mental by 50% of the max.",
+    "skill": "<b>[11 AP] Roman Protection</b>\nNegate damage equal to 4.4..11% of your max Mental for this stage, gain 80..200 Voltage Pt, and recover 20..50% Mental.\nIn addition, if Mental is above 100%, increase the next Kosuzu's Voltage Gain skill effect by 400..1000%, reduce the cost of all Kosuzu cards in your deck by 3 AP, and reduce Mental by 50% of the max.",
     "passive": "<b>Garand Trash</b>\nIf Voltage Lv is 20 or above while in your hand, when using a skill with a main effect of Skill Heart gain or Mental Recovery, increase Beat Heart count by 1 for this section and reset and shuffle your hand."
   },
   {
@@ -1337,6 +1337,58 @@
     "special": "<b>[10-8 AP] Leading Actor</b>\nSwing Mood towards the current Mood by 40..100 this section, and increase max hand size by 4 this section.\nIn addition, reduce the cost of all cards in your deck by 8 AP.",
     "skill": "<b>[8 AP] Celestial Rise</b>\nSwing Mood towards the current Mood by 4..8 this stage.\nIn addition, if Mood is above 100 Happy or below 100 Mellow, increase the next 2 Izumi or Ceras Skill Heart gain effects by 210..525%.",
     "passive": "<b>Duality Note</b>\nIf Mood is between 50 Happy and 50 Mellow when drawn, reduce the cost of all Izumi cards in your deck by 2 AP and Ceras cards by 8 AP; if Mood is above 50 Happy or below 50 Mellow when drawn, reduce all Izumi cards in your deck by 8 AP and Ceras cards by 2 AP."
+  },
+  {
+    "id": "安養寺姫芽_Poupée en Lotus",
+    "rarity": "SR",
+    "limited": "Normal",
+    "title": "Poupée en Lotus",
+    "name": "Anyoji Hime",
+    "type": "Cheerleader",
+    "image": "./data/images/安養寺姫芽_Poupée en Lotus_image.webp",
+    "idolized": "./data/images/安養寺姫芽_Poupée en Lotus_idolized.webp",
+    "special": "<b>[7-5 AP] Alter Ego<b>\nAdd 1 Poupée en Lotus/Hime dress card to your deck.",
+    "skill": "<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.",
+    "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Hime dress card to your deck.\nIn addition, upon draw, increase the next Hime's Voltage gain skill effect by 75%.\n\n<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.\n<b>Passive: Mimicry</b>\nUpon draw, increase the next Hime's Voltage gain skill effect by 75%."
+  },
+  {
+    "id": "乙宗梢_Reflection in the mirror/102",
+    "rarity": "LR",
+    "limited": "Normal",
+    "title": "Reflection in the mirror/102",
+    "name": "Otomune Kozue",
+    "type": "Moodmaker",
+    "image": "./data/images/乙宗梢_Reflection in the mirror102_image.webp",
+    "idolized": "./data/images/乙宗梢_Reflection in the mirror102_idolized.webp",
+    "special": "<b>[2-0 AP] Low Edge Force</b>\nIncrease AP recovery speed by 40.8..102% this section; reduce max hand size by 3 this section.\n In addition, if Skill Level is 1..11, gain 8..16 AP / if Skill Level is 12..13..14, gain 17..18..20 AP and reduce the cost of all cards in your deck by 20 AP.",
+    "skill": "<b>[1 AP] Stubborn Passion</b>\nGain 8..20 AP, reduce Voltage Pt by 1020, and reduce Mental by 102%.\nIn addition, gain 408..1020 Skill Hearts / if Skill Level is 11..14, increase the next 3 Tsuzuri or Megumi Skill Heart gain effects by 85.7..102%.",
+    "passive": "<b>102 Overture</b>\nPrevent drawing this card unless a Kozue, Tsuzuri, Megumi, or Sachi card is played.\nIn addition, while in your hand and 102000 Hearts are collected, gain 10200 Skill Hearts and gain 10 AP."
+  },
+  {
+    "id": "夕霧綴理_Sparkly Spot/102",
+    "rarity": "LR",
+    "limited": "Normal",
+    "title": "Sparkly Spot/102",
+    "name": "Yugiri Tsuzuri",
+    "type": "Moodmaker",
+    "image": "./data/images/夕霧綴理_Sparkly Spot102_image.webp",
+    "idolized": "./data/images/夕霧綴理_Sparkly Spot102_idolized.webp",
+    "special": "<b>[17-15 AP] Low Edge Voltage</b>\nFor this section, gain 40800..102000 Voltage Pt every second; reduce max hand size by 3 this section.\nIn addition, if Skill Level is 12..14, reduce the cost of all cards in your deck by 3 AP.",
+    "skill": "<b>[1 AP] Stubborn Purity</b>\nGain 4080..10200 Voltage Pt, reduce AP by 10, and reduce Mental by 102%.\nIn addition, gain 408..1020 Skill Hearts / if Skill Level is 11..14, increase the next 3 Kozue or Megumi Skill Heart gain effects by 85.7..102%.",
+    "passive": "<b>102 Overture</b>\nPrevent drawing this card unless a Kozue, Tsuzuri, Megumi, or Sachi card is played.\nIn addition, while in your hand and 102000 Hearts are collected, gain 1020 Skill Hearts and gain 1020 Voltage Pt."
+  },
+  {
+    "id": "藤島慈_On your mark/102",
+    "rarity": "LR",
+    "limited": "Normal",
+    "title": "On your mark/102",
+    "name": "Fujishima Megumi",
+    "type": "Cheerleader",
+    "image": "./data/images/藤島慈_On your mark102_image.webp",
+    "idolized": "./data/images/藤島慈_On your mark102_idolized.webp",
+    "special": "<b>[7-5 AP] Low Edge Spirits</b>For this section, recover 40.8..102% Mental per second; reduce max hand size by 3 this section.\nIn addition, if Skill Level is 12..14, reduce the cost of all cards in your deck by 3 AP.",
+    "skill": "<b>[1 AP] Stubborn Charming</b>\nRecover 408..1020% Mental, negate damage equal to 408..1020% of your max Mental for this stage, reduce AP by 10, reduce Voltage Pt by 1020.\nIn addition, gain 408..1020 Skill Hearts / if Skill Level is 11..14, increase the next 3 Kozue or Tsuzuri Skill Heart gain effects by 85.7..102%.",
+    "passive": "<b>102 Overture</b>\nPrevent drawing this card unless a Kozue, Tsuzuri, Megumi, or Sachi card is played.\nIn addition, while in your hand and 102000 Hearts are collected, gain 1020 Skill Hearts and recover 102% Mental."
   },
   {
     "id": "",
