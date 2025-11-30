@@ -1417,6 +1417,19 @@
     "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Rurino card to your deck.\nIn addition, upon draw, increase Heart Cap for this stage and gain Skill Hearts depending on how much Mental you have.\n\n<b>[5 AP] Dolls Guard Wide</b>\nNegate damage equal to 5..12.5% of your max Mental for this stage.\nIn addition, if Mental is above 100%, shuffle your hand and increase max hand size by 1 this section; if Mental is above 200%, negate damage by 50..125% of your max Mental for this stage and increase Heart Cap by 120..300 for this stage.\n<b>Passive: Mimicry</b>\nUpon draw, increase Heart Cap for this stage and gain Skill Hearts depending on how much Mental you have."
   },
   {
+    "id": "桂城泉_17th Birthday",
+    "rarity": "BR",
+    "limited": "Birthday",
+    "title": "17th Birthday",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_17th Birthday_image.webp",
+    "idolized": "./data/images/桂城泉_17th Birthday_idolized.webp",
+    "special": "<b>[7-5 AP] All Round Boost</b>\nIncrease all Izumi's skill effects by 40..100% for this section.",
+    "skill": "<b>[2 AP] Bloom Myself</b>\nSet this card on stage, absorb all Mood change effects. When the absorbed amount reaches 50, increase the next Izumi's skill effect by 40..100%, and discard this card.\nIn addition, reduce the cost of all Izumi cards in your deck by 2 AP.",
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 2 AP, up to 17 times."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
