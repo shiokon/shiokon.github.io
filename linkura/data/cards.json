@@ -1347,9 +1347,9 @@
     "type": "Cheerleader",
     "image": "./data/images/安養寺姫芽_Poupée en Lotus_image.webp",
     "idolized": "./data/images/安養寺姫芽_Poupée en Lotus_idolized.webp",
-    "special": "<b>[7-5 AP] Alter Ego</b>\nAdd 1 Poupée en Lotus/Hime dress card to your deck.",
+    "special": "<b>[7-5 AP] Alter Ego</b>\nAdd 1 Poupée en Lotus/Hime card to your deck.",
     "skill": "<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.",
-    "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Hime dress card to your deck.\nIn addition, upon draw, increase the next Hime's Voltage gain skill effect by 75%.\n\n<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.\n<b>Passive: Mimicry</b>\nUpon draw, increase the next Hime's Voltage gain skill effect by 75%."
+    "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Hime card to your deck.\nIn addition, upon draw, increase the next Hime's Voltage gain skill effect by 75%.\n\n<b>[5 AP] Vortex Guard</b>\nNegate damage equal to 4..10% of your max Mental for this stage.\nIn addition, if Mental is above 100%, gain 40..100 Voltage Pt.\n<b>Passive: Mimicry</b>\nUpon draw, increase the next Hime's Voltage gain skill effect by 75%."
   },
   {
     "id": "乙宗梢_Reflection in the mirror/102",
@@ -1389,6 +1389,32 @@
     "special": "<b>[7-5 AP] Low Edge Spirits</b>\nFor this section, recover 40.8..102% Mental per second; reduce max hand size by 3 this section.\nIn addition, if Skill Level is 12..14, reduce the cost of all cards in your deck by 3 AP.",
     "skill": "<b>[1 AP] Stubborn Charming</b>\nRecover 408..1020% Mental, negate damage equal to 408..1020% of your max Mental for this stage, reduce AP by 10, reduce Voltage Pt by 1020.\nIn addition, gain 408..1020 Skill Hearts / if Skill Level is 11..14, increase the next 3 Kozue or Tsuzuri Skill Heart gain effects by 85.7..102%.",
     "passive": "<b>102 Overture</b>\nPrevent drawing this card unless a Kozue, Tsuzuri, Megumi, or Sachi card is played.\nIn addition, while in your hand and 102000 Hearts are collected, gain 1020 Skill Hearts and recover 102% Mental."
+  },
+  {
+    "id": "日野下花帆_Poupée en Lotus",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Poupée en Lotus",
+    "name": "Hinoshita Kaho",
+    "type": "Cheerleader",
+    "image": "./data/images/日野下花帆_Poupée en Lotus_image.webp",
+    "idolized": "./data/images/日野下花帆_Poupée en Lotus_idolized.webp",
+    "special": "<b>[7-5 AP] Alter Ego</b>\nAdd 1 Poupée en Lotus/Kaho card to your deck.",
+    "skill": "<b>[5 AP] Dolls Guard Heart</b>\nNegate damage equal to 5..12.5% of your max Mental for this stage.\nIn addition, if Mental is above 100%, shuffle your hand and increase max hand size by 1 this section; if Mental is above 200%, negate damage equal to 50..125% of your max Mental for this stage and gain 52..130 Skill Hearts.",
+    "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Kaho card to your deck.\nIn addition, upon draw, gain AP and Skill Hearts depending on how much Mental you have.\n\n<b>[5 AP] Dolls Guard Heart</b>\nNegate damage equal to 5..12.5% of your max Mental for this stage.\nIn addition, if Mental is above 100%, shuffle your hand and increase max hand size by 1 this section; if Mental is above 200%, negate damage equal to 50..125% of your max Mental for this stage and gain 52..130 Skill Hearts.\n<b>Passive: Mimicry</b>Upon draw, gain AP and Skill Hearts depending on how much Mental you have."
+  },
+  {
+    "id": "大沢瑠璃乃_Poupée en Lotus",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Poupée en Lotus",
+    "name": "Osawa Rurino",
+    "type": "Cheerleader",
+    "image": "./data/images/大沢瑠璃乃_Poupée en Lotus_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_Poupée en Lotus_idolized.webp",
+    "special": "<b>[7-5 AP] Alter Ego</b>\nAdd 1 Poupée en Lotus/Rurino card to your deck.",
+    "skill": "<b>[5 AP] Dolls Guard Wide</b>\nNegate damage equal to 5..12.5% of your max Mental for this stage.\nIn addition, if Mental is above 100%, shuffle your hand and increase max hand size by 1 this section; if Mental is above 200%, negate damage by 50..125% of your max Mental for this stage and increase Heart Cap by 120..300 for this stage.",
+    "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Rurino card to your deck.\nIn addition, upon draw, increase Heart Cap for this stage and gain Skill Hearts depending on how much Mental you have.\n\n<b>[5 AP] Dolls Guard Wide</b>\nNegate damage equal to 5..12.5% of your max Mental for this stage.\nIn addition, if Mental is above 100%, shuffle your hand and increase max hand size by 1 this section; if Mental is above 200%, negate damage by 50..125% of your max Mental for this stage and increase Heart Cap by 120..300 for this stage.\n<b>Passive: Mimicry</b>\nUpon draw, increase Heart Cap for this stage and gain Skill Hearts depending on how much Mental you have."
   },
   {
     "id": "",
