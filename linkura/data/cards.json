@@ -1430,6 +1430,32 @@
     "passive": "<b>Birthday Candle</b>\nUpon use, gain 2 AP, up to 17 times."
   },
   {
+    "id": "徒町小鈴_Poupée en Lotus",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Poupée en Lotus",
+    "name": "Kachimachi Kosuzu",
+    "type": "Cheerleader",
+    "image": "./data/images/徒町小鈴_Poupée en Lotus_image.webp",
+    "idolized": "./data/images/徒町小鈴_Poupée en Lotus_idolized.webp",
+    "special": "<b>[7-5 AP] Alter Ego</b>\nAdd 1 Poupée en Lotus/Kosuzu card to your deck.",
+    "skill": "<b>[5 AP] Dolls Guard Attract</b>Negate damage equal to 5..12.5% of your max Mental for this stage.\nIn addition, if Mental is above 100%, shuffle your hand and increase max hand size by 1 this section; if Mental is above 200%, negate damage equal to 50..125% of your max Mental for this stage and increase LOVE gain by 120..300% this section.",
+    "passive": "<b>Alter Ego</b>\nWhen using this card for the first time, add 1 Poupée en Lotus/Kosuzu card to your deck.\nIn addition, upon draw, based on how much Mental you have, increase LOVE gain for this section and gain Skill Hearts."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_105/刹那&セラニャン",
+    "rarity": "UR",
+    "limited": "Ongeki",
+    "title": "Setsuna & Ceranyan",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Trickster",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_105刹那&セラニャン_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_105刹那&セラニャン_idolized.webp",
+    "special": "<b>[2-0 AP] Guilty Attack</b>\nIf Mental is above 200%, increase all skill effects by 30.8..77% for this section.",
+    "skill": "<b>[6 AP] Imitation O.N.G.E.K.I.</b>\nSet this card on stage, absorb all love attract effects. When the absorbed amount reaches 777%, gain 311..777 Voltage Pt, swing Mood towards the current Mood by 31..77 this section, increase Beat Heart count by 2 this section, and discard this card.",
+    "passive": "<b>Draw: Setsuna & Ceranyan</b>\nUpon draw, increase AP recovery speed by 7% this section and swing Mood towards the current Mood by 7."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
