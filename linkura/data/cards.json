@@ -1456,6 +1456,45 @@
     "passive": "<b>Draw: Setsuna & Ceranyan</b>\nUpon draw, increase AP recovery speed by 7% this section and swing Mood towards the current Mood by 7."
   },
   {
+    "id": "大沢瑠璃乃_Hip, hip, hooray!",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Hip, hip, hooray!",
+    "name": "Osawa Rurino",
+    "type": "Cheerleader",
+    "image": "./data/images/大沢瑠璃乃_Hip, hip, hooray!_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_Hip, hip, hooray!_idolized.webp",
+    "special": "<b>[12-10 AP] Go for it!</b>\nSwing Mood towards happy by 40..100 this section, increase max hand size by 2..5 this section.\nIn addition, recover 80..200% Mental.",
+    "skill": "<b>[15 AP] Angelic Hero</b>\nRecover 32..80% Mental, swing Mood towards Happy by 6..15 this section.\nIn addition, if Mood is 100 Happy, shuffle your hand, if Mental is above 200%, negate damage equal to 220..550% of your max Mental this stage, gain 240..600 Skill Hearts, increase the next 5 Voltage gain effects by 240..600%, and increase max hand size by 2 this section.",
+    "passive": "<b>Mira-Cra Cheering</b>\nIf Mood is not 100 Happy when drawn, reduce the cost of all Hime cards in your deck by 10 AP and increase the next Hime's Mood change skill effect by 100%; if Mood is 100 Happy when drawn, increase the next 5 Skill Heart gain effects based on how much Mental you currently have."
+  },
+  {
+    "id": "安養寺姫芽_Hip, hip, hooray!",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Hip, hip, hooray!",
+    "name": "Anyoji Hime",
+    "type": "Cheerleader",
+    "image": "./data/images/安養寺姫芽_Hip, hip, hooray!_image.webp",
+    "idolized": "./data/images/安養寺姫芽_Hip, hip, hooray!_idolized.webp",
+    "special": "<b>[12-10 AP] Go for it!</b>\nSwing Mood towards happy by 40..100 this section, increase AP recovery speed by 20..50% this section.\nIn addition, recover 80..200% Mental.",
+    "skill": "<b>[15 AP] Angelic Yell</b>\nRecover 32..80% Mental, swing Mood towards happy by 6..15 this section.\nIn addition, if Mood is 100 Happy, shuffle your hand, if Mental is above 200%, negate damage equal to 220..550% of your max Mental this stage, increase Heart Cap by 560..1400 this stage, increase the next 5 Love Attract effects by 240..600%, and increase AP recovery speed by 8..20% this section.",
+    "passive": "<b>Mira-Cra Cheering</b>\nIf Mood is not 100 Happy when drawn, reduce the cost of all Rurino cards in your deck by 10 AP and increase the next Rurino's Mood change skill effect by 100%; if Mood is 100 Happy when drawn, gain Skill Hearts based on how much Mental you currently have."
+  },
+  {
+    "id": "百生吟子_My Lucky Clover",
+    "rarity": "SR",
+    "limited": "LGP",
+    "title": "My Lucky Clover",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_My Lucky Clover_image.webp",
+    "idolized": "./data/images/百生吟子_My Lucky Clover_idolized.webp",
+    "special": "<b>[2-0 AP] Four's Stage</b>\nIf used during Section 4, gain 3..8 AP; increase max hand size by 2 this section.",
+    "skill": "<b>[4 AP] Dress《My Lucky Clover》</b>\nAdd 2《My Lucky Clover》dress cards to your deck, swing Mood towards Happy by 8..20 this section.\nIn addition, if Mood is 100 Happy, reset and shuffle your hand. Increase the chances of drawing Kaho [My Lucky Clover] pair card and dress cards.",
+    "passive": "<b>Clover Pair Power Spread</b>\nWhen used for the first time, add 1 Kaho [My Lucky Clover] pair card to your deck.\nIn addition, when collecting 4000 Hearts while in your hand, gain 40 Skill Hearts and increase the next 4 Heart Cap increase effects by 40%.\n\n<b>[4 AP]《My Lucky Clover》</b>\nIncrease Heart Cap by 8..20 this stage.\nIn addition, gain 4 AP.\n<b>Passive: Heart Collect: Wide Boost</b>\nWhen collecting 4000 Hearts while in your hand, increase the next 4 Heart Cap increase effects by 40%.\nIn addition, destroy this card upon use.\n\n<b>Kaho [My Lucky Clover] pair card</b>\n<b>[4 AP] King Wide Happy</b>\nIncrease Heart Cap by 8..20 this stage, swing Mood towards Happy by 8..20 this section.\nIn addition, if Mood is 100 Happy, increase Heart Cap by 80..200 this stage and gain 32..80 Skill Hearts.\n<b>Passive: Clover Pair Power Spread</b>\nWhen collecting 4000 Hearts while in your hand, gain 40 Skill Hearts and increase Heart Cap by 400 this stage."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
