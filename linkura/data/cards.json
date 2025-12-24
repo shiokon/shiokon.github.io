@@ -1495,6 +1495,45 @@
     "passive": "<b>Clover Pair Power Spread</b>\nWhen used for the first time, add 1 Kaho [My Lucky Clover] pair card to your deck.\nIn addition, when collecting 4000 Hearts while in your hand, gain 40 Skill Hearts and increase the next 4 Heart Cap increase effects by 40%.\n\n<b>[4 AP]《My Lucky Clover》</b>\nIncrease Heart Cap by 8..20 this stage.\nIn addition, gain 4 AP.\n<b>Passive: Heart Collect: Wide Boost</b>\nWhen collecting 4000 Hearts while in your hand, increase the next 4 Heart Cap increase effects by 40%.\nIn addition, destroy this card upon use.\n\n<b>Kaho [My Lucky Clover] pair card</b>\n<b>[4 AP] King Wide Happy</b>\nIncrease Heart Cap by 8..20 this stage, swing Mood towards Happy by 8..20 this section.\nIn addition, if Mood is 100 Happy, increase Heart Cap by 80..200 this stage and gain 32..80 Skill Hearts.\n<b>Passive: Clover Pair Power Spread</b>\nWhen collecting 4000 Hearts while in your hand, gain 40 Skill Hearts and increase Heart Cap by 400 this stage."
   },
   {
+    "id": "桂城泉_令嬢モブ！",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Reijou Mob!",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_令嬢モブ！_image.webp",
+    "idolized": "./data/images/桂城泉_令嬢モブ！_idolized.webp",
+    "special": "<b>[9-7 AP] Mission #Ce</b>\nFor this section, increase max hand size by 2 and increase AP recovery speed by 15.6..39%.\nIn addition, reset and shuffle your hand. Increase the chances of drawing a Ceras card.",
+    "skill": "<b>p7 AP] Imitation Spy</b>\nSet this card on stage and absorb Hearts. When 831 Hearts have been absorbed, for this stage, increase AP recovery speed by 6.8..17%, increase Heart Cap by 575..1437, reset and shuffle your hand, and discard this card.",
+    "passive": "<b>Runaway</b>\nIf Mood is 100 Mellow when drawn, gain 2 AP.\nIn addition, after using this card 7 times, increase Beat Heart count by 7 this stage and destroy this card."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_令嬢モブ！",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Reijou Mob!",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_令嬢モブ！_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_令嬢モブ！_idolized.webp",
+    "special": "<b>[9-7 AP] Mission#Iz</b>\nFor this section, increase max hand size by 2 and swing Mood towards Mellow by 58..143.\nIn addition, reset and shuffle your hand. Increase the chances of drawing an Izumi card.",
+    "skill": "<b>[7 AP] Sweet Trap</b>\nFor this stage, swing Mood towards Mellow by 14..33; increase max hand size by 2 this section.\nIn addition, if Mood is 100 Mellow, increase Beat Heart count by 1 this stage, and reset and shuffle your hand.",
+    "passive": "<b>Abduction</b>\nOnly be able to draw this card after playing an Izumi card; when drawn, reduce the cost of all Edel Note cards in your deck by 5 AP.\nIn addition, when playing this card, add 1 Imitation Lady card to your deck.\n\n<b>[3 AP] Imitation Lady</b>\nSet this card on stage and absorb Mental recovery effects. When 8312% worth of recovery effects have been absorbed, gain 13329..33322 Voltage Pt and discard this card.\n<b>Passive: Elope</b>\nWhen this skill activates, increase max hand size by 1 for this stage and destroy this card."
+  },
+  {
+    "id": "徒町小鈴_diamondz",
+    "rarity": "SR",
+    "limited": "Normal",
+    "title": "diamondz",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/徒町小鈴_diamondz_image.webp",
+    "idolized": "./data/images/徒町小鈴_diamondz_idolized.webp",
+    "special": "<b>[2-0 AP] Second Stage</b>\nWhen used in Section 2, gain 3..8 AP, and increase max hand size by 2 this section.",
+    "skill": "<b>[4 AP] Jack Voltage Mellow</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8% and swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is 100 Mellow, reset and shuffle your hand. Increase the chances of drawing Sayaka [diamondz] pair card.",
+    "passive": "<b>Diamond Pair Power Spread</b>\nWhen used for the first time, add 1 Sayaka [diamondz] pair card to your deck.\nIn addition, while in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 400 Voltage Pt.\n\n[4 AP]《diamondz》</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8%, swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is 100 Mellow, gain 128..320 Voltage Pt, and gain 32..80 Skill Hearts.\n<b>Passive: Diamond Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase the next 4 Voltage gain skill effects by 40%."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
