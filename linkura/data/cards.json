@@ -1534,6 +1534,45 @@
     "passive": "<b>Diamond Pair Power Spread</b>\nWhen used for the first time, add 1 Sayaka [diamondz] pair card to your deck.\nIn addition, while in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 400 Voltage Pt.\n\n<b>Sayaka [diamondz] pair card</b>\n<b>[4 AP] Jack Voltage Mellow</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8%, swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is 100 Mellow, gain 128..320 Voltage Pt, and gain 32..80 Skill Hearts.\n<b>Passive: Diamond Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase the next 4 Voltage gain skill effects by 40%."
   },
   {
+    "id": "日野下花帆_雪舞う空と二秒の永遠",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Yuki Mau Sora to Nibyou no Eien",
+    "name": "Hinoshita Kaho",
+    "type": "Trickster",
+    "image": "./data/images/日野下花帆_雪舞う空と二秒の永遠_image.webp",
+    "idolized": "./data/images/日野下花帆_雪舞う空と二秒の永遠_idolized.webp",
+    "special": "<b>[10-8 AP] Snowmelt Bloom Link</b>\nDuring this stage, when all Ginko, Kaho, Kosuzu, Sayaka, Hime, Rurino, Ceras, and Izumi skills are used, gain 200..500 Voltage Pt, increase AP recovery speed by 12..30% this stage, and negate damage equal to 120..300% of your max Mental for this stage. The Voltage gain effect strength is based on how much AP is consumed by each member; when using skills of the same member, only the latest AP cost is recorded.",
+    "skill": "<b>[0 AP] Tsunagaru Chikara</b>\nUse every skill in your hand.\nIn addition, gain 8..20 AP. This skill's AP cost is equal to the AP costs of all other cards in your hand added together minus the number of destroyed cards.",
+    "passive": "<b>Fallen Snow</b>\nWhen this card is used with less than 50 cards destroyed, add 1 Snowflake card to your deck; and reduce AP recovery speed by 3% this stage.\nIn addition, if there are 50 or more destroyed cards, when 300000 Hearts are collected while this card is in your hand, gain 1050 Skill Hearts and gain 5 AP.\n\n<b>[0 AP] Snowflake</b>\nUse every skill in your hand. This skill's AP cost is equal to the AP costs of all other cards in your hand added together.\n<b>Passive: Snow Melt</b>\nUpon draw, reduce the cost of all Snowflake cards in your deck by 8 AP.\nIn addition, when played, increase AP recovery speed by 1% this stage; and destroy this card."
+  },
+  {
+    "id": "村野さやか_雪舞う空と二秒の永遠",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Yuki Mau Sora to Nibyou no Eien",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_雪舞う空と二秒の永遠_image.webp",
+    "idolized": "./data/images/村野さやか_雪舞う空と二秒の永遠_idolized.webp",
+    "special": "<b>[10-8 AP] Starring Voltage</b>\nFor this section, gain 2100..5250 Voltage Pt every second. This effect is amplified for every 10 cards that are destroyed, up to a 20x amplification at 100 cards destroyed.",
+    "skill": "<b>[5 AP] Snowgazer Boost</b>\nIncrease the next 5 Voltage Gain effects by 6..15%. This effect is amplified for every 10 cards that are destroyed, up to a 200x amplification at 100 cards destroyed.\nIn addition, if there are 20 or more cards destroyed, reset and shuffle your hand.",
+    "passive": "<b>Fallen Snow</b>\nWhen this card is used with less than 30 cards destroyed, add 1 Snowflake card to your deck; reduce AP recovery speed by 1% this stage; if there are 30 or more destroyed cards, when 100000 Hearts are collected while this card is in your hand, gain 105 Skill Hearts and gain 1050 Voltage Pt.\nIn addition, when drawn, reduce the cost of all Kaho cards in your deck by 8 AP.\n\n<b>[0 AP] Snowflake</b>\nUse every skill in your hand. This skill's AP cost is equal to the AP costs of all other cards in your hand added together.\n<b>Passive: Snow Melt</b>\nUpon draw, reduce the cost of all Snowflake cards in your deck by 8 AP.\nIn addition, when played, increase AP recovery speed by 1% this stage; and destroy this card."
+  },
+  {
+    "id": "大沢瑠璃乃_雪舞う空と二秒の永遠",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Yuki Mau Sora to Nibyou no Eien",
+    "name": "Osawa Rurino",
+    "type": "Cheerleader",
+    "image": "./data/images/大沢瑠璃乃_雪舞う空と二秒の永遠_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_雪舞う空と二秒の永遠_idolized.webp",
+    "special": "<b>[10-8 AP] Starring Recover</b>\nFor this section, recover 21..52.5% Mental every second. This effect is amplified for every 10 cards that are destroyed, up to a 20x amplification at 100 cards destroyed.",
+    "skill": "<b>[5 AP] Snowgazer Recover</b>\nRecover 2..5% Mental. This effect is amplified for every 10 cards that are destroyed, up to a 200x amplification at 100 cards destroyed.\nIn addition, if there are 20 or more cards destroyed, increase max hand size by 5 this section.",
+    "passive": "<b>Fallen Snow</b>\nWhen this card is used with less than 40 cards destroyed, add 1 Snowflake card to your deck; reduce AP recovery speed by 2% this stage; if there are 40 or more destroyed cards, when 200000 Hearts are collected while this card is in your hand, gain 300 Skill Hearts and negate damage equal to 105% of your max Mental for this stage.\nIn addition, when drawn, reduce the cost of all Kaho cards in your deck by 8 AP.\n\n<b>[0 AP] Snowflake</b>\nUse every skill in your hand. This skill's AP cost is equal to the AP costs of all other cards in your hand added together.\n<b>Passive: Snow Melt</b>\nUpon draw, reduce the cost of all Snowflake cards in your deck by 8 AP.\nIn addition, when played, increase AP recovery speed by 1% this stage; and destroy this card."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
