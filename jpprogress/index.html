@@ -16,6 +16,8 @@
         .bar.finished   { background-color: #2D4276; }
         .bar.planto     { background-color: #747474; }
         .stats p { margin: 5px 0; }
+        .page-footer {margin-top: 80px; text-align: center; opacity: 0.8; justify-content: center;}
+        .page-footer object {width: 100%; max-width: 1080px; height: auto;}
     </style>
 </head>
 <body>
@@ -45,6 +47,17 @@
     <div style="width: 100%; max-width: 1000px; margin: auto;">
         <canvas id="cardsChart"></canvas>
     </div>
+
+
+    <footer class="page-footer">
+        <object
+        data="../hasuprogress/progress.svg"
+        type="image/svg+xml"
+        width="100%">
+        </object>
+    </footer>
+
+
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.3/build/global/luxon.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-luxon@1.3.1/dist/chartjs-adapter-luxon.umd.min.js"></script>
