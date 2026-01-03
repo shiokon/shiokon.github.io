@@ -1504,7 +1504,7 @@
     "image": "./data/images/桂城泉_令嬢モブ！_image.webp",
     "idolized": "./data/images/桂城泉_令嬢モブ！_idolized.webp",
     "special": "<b>[9-7 AP] Mission #Ce</b>\nFor this section, increase max hand size by 2 and increase AP recovery speed by 15.6..39%.\nIn addition, reset and shuffle your hand. Increase the chances of drawing a Ceras card.",
-    "skill": "<b>p7 AP] Imitation Spy</b>\nSet this card on stage and absorb Hearts. When 831 Hearts have been absorbed, for this stage, increase AP recovery speed by 6.8..17%, increase Heart Cap by 575..1437, reset and shuffle your hand, and discard this card.",
+    "skill": "<b>[7 AP] Imitation Spy</b>\nSet this card on stage and absorb Hearts. When 831 Hearts have been absorbed, for this stage, increase AP recovery speed by 6.8..17%, increase Heart Cap by 575..1437, reset and shuffle your hand, and discard this card.",
     "passive": "<b>Runaway</b>\nIf Mood is 100 Mellow when drawn, gain 2 AP.\nIn addition, after using this card 7 times, increase Beat Heart count by 7 this stage and destroy this card."
   },
   {
