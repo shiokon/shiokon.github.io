@@ -1573,6 +1573,58 @@
     "passive": "<b>Fallen Snow</b>\nWhen this card is used with less than 40 cards destroyed, add 3 Snowflake cards to your deck; reduce AP recovery speed by 2% this stage; if there are 40 or more destroyed cards, when 200000 Hearts are collected while this card is in your hand, gain 300 Skill Hearts and negate damage equal to 105% of your max Mental for this stage.\nIn addition, when drawn, reduce the cost of all Kaho cards in your deck by 8 AP.\n\n<b>[0 AP] Snowflake</b>\nUse every skill in your hand. This skill's AP cost is equal to the AP costs of all other cards in your hand added together.\n<b>Passive: Snow Melt</b>\nUpon draw, reduce the cost of all Snowflake cards in your deck by 8 AP.\nIn addition, when played, increase AP recovery speed by 1% this stage; and destroy this card."
   },
   {
+    "id": "百生吟子_もういちど ルミナス",
+    "rarity": "UR",
+    "limited": "Bandori",
+    "title": "Mou Ichido Luminous",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_もういちど ルミナス_image.webp",
+    "idolized": "./data/images/百生吟子_もういちど ルミナス_idolized.webp",
+    "special": "<b>[6-4 AP] Cerise*Palettes</b>\nFor this section, increase Skill Hearts gained by Kaho, Ginko, and Dress Cards by 160..400%.",
+    "skill": "<b>[6 AP] Add 3 Dress《Mou Ichido Luminous》to your deck.\nIn addition, reset and shuffle your hand. Increase the chances of drawing Kaho, Ginko, or Dress Cards.",
+    "passive": "<b>Road to Dream</b>\nIncrease the chances of drawing this card after using a skill that shuffles your hand.\nIn addition, when drawn and if your deck has 22 or more cards, increase Heart Cap by 50 this stage; while in your hand and if your deck has 22 or more cards when the section changes, increase max hand size by 2 this stage, and increase all Skill Heart gain and Heart Cap increase effects by 50% this section.\n\n<b>[2 AP]《Mou Ichido Luminous》</b>\nDiscard your hand and draw cards up to your max hand size.\nIn addition, gain 6..15 Skill Hearts.\n</b>Passive: Road to Dream</b>\nDestroy this card after use.\nIn addition, when drawn and if your deck has 22 or more cards, gain 10..25 Skill Hearts; while in your hand and if your deck has 22 or more cards when the section changes, increase all Skill Heart gain and Heart Cap increase effects by 40..100% this section."
+  },
+  {
+    "id": "徒町小鈴_壱雫空",
+    "rarity": "UR",
+    "limited": "Bandori",
+    "title": "Hitoshizuku",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/徒町小鈴_壱雫空_image.webp",
+    "idolized": "./data/images/徒町小鈴_壱雫空_idolized.webp",
+    "special": "<b>[7-5 AP] MyDOLL</b>\nSwing Mood towards Mellow by 40..100 this section.\nIn addition, increase all Kosuzu and Sayaka's Love Attract and Voltage Gain skill effects by 200..500% this section.",
+    "skill": "<b>[5 AP] After Rain</b>\nSwing Mood towards Mellow by 12..30 this section.\nIn addition, if Mood is below 50 Mellow, gain 100..250 Voltage Pt, reduce Mental by 20%; if Mood is below 100 Mellow, increase LOVE gain by 40..100% this stage and reduce Mental by 30%.",
+    "passive": "<b>Scream From Heart</b>\nIncrease the chances of drawing this card after using a Love Attract or Voltage Gain skill.\nIn addition, if Voltage Lv is 20 or above when drawn, gain 25 Skill Hearts, recover 50% Mental; if Voltage Lv is 20 or above while this card is in your hand when the section changes, swing Mood towards Mellow by 100 this section, and increase all Love Attract and Voltage Gain skill effects by 100% for this section."
+  },
+  {
+    "id": "安養寺姫芽_キミがいなくちゃっ！",
+    "rarity": "UR",
+    "limited": "Bandori",
+    "title": "Kimi ga Inakucha!",
+    "name": "Anyoji Hime",
+    "type": "Cheerleader",
+    "image": "./data/images/安養寺姫芽_キミがいなくちゃっ！_image.webp",
+    "idolized": "./data/images/安養寺姫芽_キミがいなくちゃっ！_idolized.webp",
+    "special": "<b>[9-7 AP] Happy Park!</b>\nSwing Mood towards Happy by 48..120 this section.\nIn addition, increase all Rurino and Hime's Love Attract and Heart Cap increase skill effects by 280...700%.",
+    "skill": "<b>[7 AP] Gotta Be You</b>\nRecover 14.4..36% Mental.\nIn addition, if Mood is above 50 Happy, increase LOVE gain by 30..75% this stage, gain 2 AP; if Mood is above 100 Happy, increase Heart Cap by 176..440 this stage, gain 2 AP.",
+    "passive": "<b>Shiny Sun</b>\nIncrease the chances of drawing this card after using a Mental recovery, protect, or guard skill.\nIn addition, if Mental is above 150% when drawn, gain 25 Skill Hearts, swing Mood towards Happy by 10 this section; if Mental is above 150% while this card is in your hand when the section changes, swing Mood towards Happy by 100 this section, increase Mental recovery skill effects by 30% this section, and negate damage equal to 300% of your max Mental."
+  },
+  {
+    "id": "桂城泉_FIRE BIRD",
+    "rarity": "UR",
+    "limited": "Bandori",
+    "title": "FIRE BIRD",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_FIRE BIRD_image.webp",
+    "idolized": "./data/images/桂城泉_FIRE BIRD_idolized.webp",
+    "special": "<b>[6-4 AP] Edel Rose</b>\nGrants invulnerability to Mental Down even if your mental reaches 0 for the current section.\nIn addition, increase all Izumi and Ceras' skill effects by 160..400%.",
+    "skill": "<b>[4 AP] Imitation Phoenix</b>\nSet this card on stage and absorb Voltage Pt. When 600 Voltage Pt are absorbed, grants invulnerability to Mental Down even if your mental reaches 0 for the current section, reduce Mental by 100%, gain 20..50 Skill Hearts, and discard this card.\nIn addition, if Mental is 0, gain 80..200 Voltage Pt, and increase Beat Heart count by 3 for this section.",
+    "passive": "<b>Voice of Creation</b>\nIncrease the chances of drawing this card after using an imitation or Mood change skill.\nIn addition, if Mental is below 25% when drawn, gain 25 Skill Hearts, increase Voltage Gain skill effects by 20% this section; if Mental is below 25% while this card is in your hand when the section changes, grants invulnerability to Mental Down even if your mental reaches 0 for the current section, and increase all skill effects by 20% for this section."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
