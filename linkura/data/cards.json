@@ -1625,6 +1625,32 @@
     "passive": "<b>Voice of Creation</b>\nIncrease the chances of drawing this card after using an imitation or Mood change skill.\nIn addition, if Mental is below 25% when drawn, gain 25 Skill Hearts, increase Voltage Gain skill effects by 20% this section; if Mental is below 25% while this card is in your hand when the section changes, grants invulnerability to Mental Down even if your mental reaches 0 for the current section, and increase all skill effects by 20% for this section."
   },
   {
+    "id": "百生吟子_Sayo-Shigure",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Sayo-Shigure",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_Sayo-Shigure_image.webp",
+    "idolized": "./data/images/百生吟子_Sayo-Shigure_idolized.webp",
+    "special": "<b>[6-4 AP] Sayo Shigure</b>\nAdd 1《Hanagasa》card to your deck.\nIn addition, increase the next 10 Cerise Bouquet or Dress card's Skill Hearts gained by 30..75%.",
+    "skill": "<b>[4 AP] Dress《Sayo-Shigure》</b>\nAdd 4《Sayo-Shigure》(2 types) dresses to your deck.\nIn addition, if Mood is 100 Happy or -100 Mellow, shuffle your hand.",
+    "passive": "<b>Electro Dance</b>\nUpon draw, increase AP recovery speed by 4.5% this section. This effect is amplified for every 15 Voltage Levels, up to a 20x amplification at Voltage Lv 150.\n\n<b>[4 AP]《Sayo-Shigure》</b>\nSwing Mood towards the respective Mood by 16..40.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 160..400 Voltage Pt, and gain 40..100 Skill Hearts.\n<b>Passive: Electro Dress</b>\nUpon draw, gain 8 Skill Hearts. This effect is amplified for every 15 Voltage Levels, up to a 20x amplification at Voltage Lv 150.\nIn addition, destroy this card after use.\n\n<b>[4 AP]《Sayo-Shigure》</b>Increase the next 4 Cerise Bouquet or Dress Card's Skill Hearts gained by 30..75%.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 160..400 Voltage Pt, and gain 40..100 Skill Hearts.\n<b>Passive: Electro Dress</b>\nUpon draw, gain 8 Skill Hearts. This effect is amplified for every 15 Voltage Levels, up to a 20x amplification at Voltage Lv 150.\nIn addition, destroy this card after use.\n\n<b>[4 AP] Hanagasa</b>\nShuffle your hand.\nIn addition, increase the next Voltage gain effect by 6.8..17%. This effect is amplified for every 15 Voltage Levels, up to a 200x amplification at Voltage Lv 150.\n<b>Passive: Electro Shower</b>\nUpon draw, gain 8 Skill Hearts. This effect is amplified for every 15 Voltage Levels, up to a 20x amplification at Voltage Lv 150.\nIn addition, while this card is in your hand and 40000 Hearts are collected, gain 1000 Skill Hearts."
+  },
+  {
+    "id": "日野下花帆_Sayo-Shigure",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Sayo-Shigure",
+    "name": "Hinoshita Kaho",
+    "type": "Performer",
+    "image": "./data/images/日野下花帆_Sayo-Shigure_image.webp",
+    "idolized": "./data/images/日野下花帆_Sayo-Shigure_idolized.webp",
+    "special": "<b>[6-4 AP] Sayo Shigure</b>\nAdd 1《Hanagasa》card to your deck.\nIn addition, increase the next 10 Cerise Bouquet or Dress card's Voltage gain effects by 10..25%.",
+    "skill": "<b>[4 AP] Nocturnal Code</b>\nGain 3..8 Skill Hearts. This effect is amplified for every 15 Voltage Levels, up to a 200x amplification at Voltage Lv 150.\nIn addition, if Mood is 100 Happy or -100 Mellow, gain 160..400 Voltage Pt.",
+    "passive": "<b>Rain Fragment</b>\nWhen this card is played 4 times, add 1《Hanagasa》card to your deck; when played 10 times, for this stage, increase all Kaho, Ginko, and Hanagasa cards' Skill Hearts gained and Voltage gain effects by 400%.\nIn addition, upon use, increase the AP cost of this card, up to +6 max.\n\n<b>[4 AP] Hanagasa</b>\nShuffle your hand.\nIn addition, increase the next Voltage gain effect by 6.8..17%. This effect is amplified for every 15 Voltage Levels, up to a 200x amplification at Voltage Lv 150.\n<b>Passive: Electro Shower</b>\nUpon draw, gain 8 Skill Hearts. This effect is amplified for every 15 Voltage Levels, up to a 20x amplification at Voltage Lv 150.\nIn addition, while this card is in your hand and 40000 Hearts are collected, gain 1000 Skill Hearts."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
