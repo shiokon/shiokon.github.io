@@ -1651,6 +1651,19 @@
     "passive": "<b>Rain Fragment</b>\nWhen this card is played 4 times, add 1《Hanagasa》card to your deck; when played 10 times, for this stage, increase all Kaho, Ginko, and Hanagasa cards' Skill Hearts gained and Voltage gain effects by 400%.\nIn addition, upon use, increase the AP cost of this card, up to +6 max.\n\n<b>[4 AP] Hanagasa</b>\nShuffle your hand.\nIn addition, increase the next Voltage gain effect by 6.8..17%. This effect is amplified for every 15 Voltage Levels, up to a 200x amplification at Voltage Lv 150.\n<b>Passive: Electro Shower</b>\nUpon draw, gain 8 Skill Hearts. This effect is amplified for every 15 Voltage Levels, up to a 20x amplification at Voltage Lv 150.\nIn addition, while this card is in your hand and 40000 Hearts are collected, gain 1000 Skill Hearts."
   },
   {
+    "id": "村野さやか_18th Birthday",
+    "rarity": "BR",
+    "limited": "Birthday",
+    "title": "18th Birthday",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_18th Birthday_image.webp",
+    "idolized": "./data/images/村野さやか_18th Birthday_idolized.webp",
+    "special": "<b>[7-5 AP] Voltage Boost</b>\nFor this section, increase Voltage gain effects by 40..100%.",
+    "skill": "<b>[3 AP] Bloom Myself</b>\nIncrease the next 3 Sayaka's Love Attract or Voltage gain skill effects by 32..80%.\nIn addition, reduce the cost of all Sayaka cards in your deck by 3 AP.",
+    "passive": "<b>Birthday Candle</b>\nUpon use, gain 3 AP, up to 18 times."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
