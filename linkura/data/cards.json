@@ -1664,6 +1664,58 @@
     "passive": "<b>Birthday Candle</b>\nUpon use, gain 3 AP, up to 18 times."
   },
   {
+    "id": "安養寺姫芽_ハートにQ",
+    "rarity": "SR",
+    "limited": "LGP",
+    "title": "Heart ni Q",
+    "name": "Anyoji Hime",
+    "type": "Moodmaker",
+    "image": "./data/images/安養寺姫芽_ハートにQ_image.webp",
+    "idolized": "./data/images/安養寺姫芽_ハートにQ_idolized.webp",
+    "special": "<b>[2-0 AP] First Stage</b>\nGain 3..8 AP if used in Section 1; for this section, increase max hand size by 2.",
+    "skill": "<b>[4 AP] Queen Attract Happy</b>\nIncrease the next 4 LOVE attract skill effects by 4.3..10.8%, swing Mood towards happy by 8..20 this section.\nIn addition, if Mood is 100 Happy, reset and shuffle your hand. Increase the chances of drawing Rurino [Heart ni Q] pair card.",
+    "passive": "<b>Heart Pair Power Spread</b>\nWhen used for the first time, add 1 Rurino [Heart ni Q] pair card to your deck.\nIn addition, while this card is in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase LOVE gain by 400% this stage.\n\n<b>Heart ni Q</b>\n<b>[4 AP] Queen Attract Happy</b>\nIncrease the next 4 LOVE attract skill effects by 4.3..10.8%, swing Mood towards happy by 8..20 this section.\nIn addition, if Mood is 100 Happy, increase LOVE gain by 32..80%, and gain 40..100 Skill Hearts.\n<b>Passive: Heart Pair Power Spread</b>\nWhile this card is in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase the next 4 LOVE attract skill effects by 40%."
+  },
+  {
+    "id": "桂城泉_ドライブ・スペード・クレイジー",
+    "rarity": "SR",
+    "limited": "Normal",
+    "title": "Drive・Spade・Crazy",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_ドライブ・スペード・クレイジー_image.webp",
+    "idolized": "./data/images/桂城泉_ドライブ・スペード・クレイジー_idolized.webp",
+    "special": "<b>[2-0 AP] Third Stage</b>\nGain 3..8 AP if used in Section 3; for this section, increase max hand size by 2.",
+    "skill": "<b>[4 AP] Spade Imitation Mellow</b>\nSet this card on stage, absorb AP gain effects. When 4 AP is absorbed, increase Beat Heart count by 2 this section, swing Mood towards Mellow by 8..20, and discard this card.\nIn addition, if Mood is 100 Mellow, reset and shuffle your hand. Increase the chances of drawing Ceras [Drive・Spade・Crazy] pair card.",
+    "passive": "<b>Spade Pair Power Spread</b>\nWhen used for the first time, add 1 Ceras [Drive・Spade・Crazy] pair card to your deck.\nIn addition, while this card is in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase AP recovery speed by 10%.\n\n<b>Drive・Spade・Crazy</b>\n<b>[4 AP] Spade Vibes Mellow</b>\nIncrease Beat Heart count by 2 this section, swing Mood towards Mellow by 8..20.\nIn addition, if Mood is 100 Mellow, swing Mood towards Mellow by 8..20 this section and gain 40..100 Skill Hearts.\n<b>Passive: Spade Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 4 AP."
+  },
+  {
+    "id": "安養寺姫芽_Echoes Beyond",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Echoes Beyong",
+    "name": "Anyoji Hime",
+    "type": "Trickster",
+    "image": "./data/images/安養寺姫芽_Echoes Beyond_image.webp",
+    "idolized": "./data/images/安養寺姫芽_Echoes Beyond_idolized.webp",
+    "special": "<b>[12-10 AP] Captivate Spirits</b>\nFor this section, when using Mental recovery or protect skills, gain Skill Hearts. The amount gained is based on this Special Appeal's level. If your deck has less than 18 cards, the amount will be reduced.",
+    "skill": "<b>[20 AP] Echoes RuriMegu</b>\nReset and shuffle your hand, recover 72..180% Mental. Increase the chances of drawing a Rurino or Megumi card.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase the next 8 Skill Heart gain effects by 72..180%.",
+    "passive": "<b>Road to Mira-Cra Park!</b>\nReduce the AP cost of this skill based on how much Mental you currently have. When drawn, reduce the cost of all Rurino and Megumi cards in your deck by 8 AP, and gain Skill Hearts. While in your hand and a Rurino or Megumi skill is used, reset and shuffle your hand. Increase the chances of drawing a Rurino or Megumi card."
+  },
+  {
+    "id": "大沢瑠璃乃_Echoes Beyond",
+    "rarity": "UR",
+    "limited": "Winter",
+    "title": "Echoes Beyong",
+    "name": "Osawa Rurino",
+    "type": "Cheerleader",
+    "image": "./data/images/大沢瑠璃乃_Echoes Beyond_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_Echoes Beyond_idolized.webp",
+    "special": "<b>[12-10 AP] Captivate Spirits</b>\nFor this section, when using Mental recovery or protect skills, gain Voltage Pt. The amount gained is based on this Special Appeal's level. If your deck has less than 18 cards, the amount will be reduced.",
+    "skill": "<b>[1 AP] Recover 40..100% Mental.\nIn addition, if Mental is above 200%, increase Heart cap by 40..100 this stage, increase LOVE gain by 400..1000% this stage, gain 400..1000 Voltage Pt, and gain 400..1000 Skill Hearts.",
+    "passive": "<b>Strong is Fragile</b>\nIncrease the AP cost of this skill based on how much Mental you currently have. If drawn when Mental is above 200% and while in your hand, grants invulnerability to Mental Down even if your mental reaches 0, reduce Mental every second, and increase this card's effects by 10000%."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
