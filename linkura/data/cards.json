@@ -1712,7 +1712,7 @@
     "image": "./data/images/大沢瑠璃乃_Echoes Beyond_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_Echoes Beyond_idolized.webp",
     "special": "<b>[12-10 AP] Captivate Spirits</b>\nFor this section, when using Mental recovery or protect skills, gain Voltage Pt. The amount gained is based on this Special Appeal's level. If your deck has less than 18 cards, the amount will be reduced.",
-    "skill": "<b>[1 AP] Recover 40..100% Mental.\nIn addition, if Mental is above 200%, increase Heart cap by 40..100 this stage, increase LOVE gain by 400..1000% this stage, gain 400..1000 Voltage Pt, and gain 400..1000 Skill Hearts.",
+    "skill": "<b>[1 AP] Beyond Healing</b>\nRecover 40..100% Mental.\nIn addition, if Mental is above 200%, increase Heart cap by 40..100 this stage, increase LOVE gain by 400..1000% this stage, gain 400..1000 Voltage Pt, and gain 400..1000 Skill Hearts.",
     "passive": "<b>Strong is Fragile</b>\nIncrease the AP cost of this skill based on how much Mental you currently have. If drawn when Mental is above 200% and while in your hand, grants invulnerability to Mental Down even if your mental reaches 0, reduce Mental every second, and increase this card's effects by 10000%."
   },
   {
