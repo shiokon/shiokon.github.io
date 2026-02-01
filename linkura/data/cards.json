@@ -1505,7 +1505,7 @@
     "idolized": "./data/images/桂城泉_令嬢モブ！_idolized.webp",
     "special": "<b>[9-7 AP] Mission #Ce</b>\nFor this section, increase max hand size by 2 and increase AP recovery speed by 15.6..39%.\nIn addition, reset and shuffle your hand. Increase the chances of drawing a Ceras card.",
     "skill": "<b>[7 AP] Imitation Spy</b>\nSet this card on stage and absorb Hearts. When 831 Hearts have been absorbed, for this stage, increase AP recovery speed by 6.8..17%, increase Heart Cap by 575..1437, reset and shuffle your hand, and discard this card.",
-    "passive": "<b>Runaway</b>\nIf Mood is 100 Mellow when drawn, gain 2 AP.\nIn addition, after using this card 7 times, increase Beat Heart count by 7 this stage and destroy this card."
+    "passive": "<b>Runaway</b>\nIf Mood is -100 Mellow when drawn, gain 2 AP.\nIn addition, after using this card 7 times, increase Beat Heart count by 7 this stage and destroy this card."
   },
   {
     "id": "セラス_柳田_リリエンフェルト_令嬢モブ！",
@@ -1517,7 +1517,7 @@
     "image": "./data/images/セラス_柳田_リリエンフェルト_令嬢モブ！_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_令嬢モブ！_idolized.webp",
     "special": "<b>[9-7 AP] Mission#Iz</b>\nFor this section, increase max hand size by 2 and swing Mood towards Mellow by 58..143.\nIn addition, reset and shuffle your hand. Increase the chances of drawing an Izumi card.",
-    "skill": "<b>[7 AP] Sweet Trap</b>\nFor this stage, swing Mood towards Mellow by 14..33; increase max hand size by 2 this section.\nIn addition, if Mood is 100 Mellow, increase Beat Heart count by 1 this stage, and reset and shuffle your hand.",
+    "skill": "<b>[7 AP] Sweet Trap</b>\nFor this stage, swing Mood towards Mellow by 14..33; increase max hand size by 2 this section.\nIn addition, if Mood is -100 Mellow, increase Beat Heart count by 1 this stage, and reset and shuffle your hand.",
     "passive": "<b>Abduction</b>\nOnly be able to draw this card after playing an Izumi card; when drawn, reduce the cost of all Edel Note cards in your deck by 5 AP.\nIn addition, when playing this card, add 1 Imitation Lady card to your deck.\n\n<b>[3 AP] Imitation Lady</b>\nSet this card on stage and absorb Mental recovery effects. When 8312% worth of recovery effects have been absorbed, gain 13329..33322 Voltage Pt and discard this card.\n<b>Passive: Elope</b>\nWhen this skill activates, increase max hand size by 1 for this stage and destroy this card."
   },
   {
@@ -1530,8 +1530,8 @@
     "image": "./data/images/徒町小鈴_diamondz_image.webp",
     "idolized": "./data/images/徒町小鈴_diamondz_idolized.webp",
     "special": "<b>[2-0 AP] Second Stage</b>\nWhen used in Section 2, gain 3..8 AP, and increase max hand size by 2 this section.",
-    "skill": "<b>[4 AP] Jack Voltage Mellow</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8% and swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is 100 Mellow, reset and shuffle your hand. Increase the chances of drawing Sayaka [diamondz] pair card.",
-    "passive": "<b>Diamond Pair Power Spread</b>\nWhen used for the first time, add 1 Sayaka [diamondz] pair card to your deck.\nIn addition, while in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 400 Voltage Pt.\n\n<b>Sayaka [diamondz] pair card</b>\n<b>[4 AP] Jack Voltage Mellow</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8%, swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is 100 Mellow, gain 128..320 Voltage Pt, and gain 32..80 Skill Hearts.\n<b>Passive: Diamond Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase the next 4 Voltage gain skill effects by 40%."
+    "skill": "<b>[4 AP] Jack Voltage Mellow</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8% and swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is -100 Mellow, reset and shuffle your hand. Increase the chances of drawing Sayaka [diamondz] pair card.",
+    "passive": "<b>Diamond Pair Power Spread</b>\nWhen used for the first time, add 1 Sayaka [diamondz] pair card to your deck.\nIn addition, while in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 400 Voltage Pt.\n\n<b>Sayaka [diamondz] pair card</b>\n<b>[4 AP] Jack Voltage Mellow</b>\nIncrease the next 4 Voltage gain skill effects by 4.3..10.8%, swing Mood towards Mellow by 8..20 this section.\nIn addition, if Mood is -100 Mellow, gain 128..320 Voltage Pt, and gain 32..80 Skill Hearts.\n<b>Passive: Diamond Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase the next 4 Voltage gain skill effects by 40%."
   },
   {
     "id": "日野下花帆_雪舞う空と二秒の永遠",
@@ -1686,8 +1686,8 @@
     "image": "./data/images/桂城泉_ドライブ・スペード・クレイジー_image.webp",
     "idolized": "./data/images/桂城泉_ドライブ・スペード・クレイジー_idolized.webp",
     "special": "<b>[2-0 AP] Third Stage</b>\nGain 3..8 AP if used in Section 3; for this section, increase max hand size by 2.",
-    "skill": "<b>[4 AP] Spade Imitation Mellow</b>\nSet this card on stage, absorb AP gain effects. When 4 AP is absorbed, increase Beat Heart count by 2 this section, swing Mood towards Mellow by 8..20, and discard this card.\nIn addition, if Mood is 100 Mellow, reset and shuffle your hand. Increase the chances of drawing Ceras [Drive・Spade・Crazy] pair card.",
-    "passive": "<b>Spade Pair Power Spread</b>\nWhen used for the first time, add 1 Ceras [Drive・Spade・Crazy] pair card to your deck.\nIn addition, while this card is in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase AP recovery speed by 10%.\n\n<b>Drive・Spade・Crazy</b>\n<b>[4 AP] Spade Vibes Mellow</b>\nIncrease Beat Heart count by 2 this section, swing Mood towards Mellow by 8..20.\nIn addition, if Mood is 100 Mellow, swing Mood towards Mellow by 8..20 this section and gain 40..100 Skill Hearts.\n<b>Passive: Spade Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 4 AP."
+    "skill": "<b>[4 AP] Spade Imitation Mellow</b>\nSet this card on stage, absorb AP gain effects. When 4 AP is absorbed, increase Beat Heart count by 2 this section, swing Mood towards Mellow by 8..20, and discard this card.\nIn addition, if Mood is -100 Mellow, reset and shuffle your hand. Increase the chances of drawing Ceras [Drive・Spade・Crazy] pair card.",
+    "passive": "<b>Spade Pair Power Spread</b>\nWhen used for the first time, add 1 Ceras [Drive・Spade・Crazy] pair card to your deck.\nIn addition, while this card is in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and increase AP recovery speed by 10%.\n\n<b>Drive・Spade・Crazy</b>\n<b>[4 AP] Spade Vibes Mellow</b>\nIncrease Beat Heart count by 2 this section, swing Mood towards Mellow by 8..20.\nIn addition, if Mood is -100 Mellow, swing Mood towards Mellow by 8..20 this section and gain 40..100 Skill Hearts.\n<b>Passive: Spade Pair Power Spread</b>\nWhile in your hand and 4000 Hearts are collected, gain 40 Skill Hearts and gain 4 AP."
   },
   {
     "id": "安養寺姫芽_Echoes Beyond",
@@ -1714,6 +1714,45 @@
     "special": "<b>[12-10 AP] Captivate Spirits</b>\nFor this section, when using Mental recovery or protect skills, gain Voltage Pt. The amount gained is based on this Special Appeal's level. If your deck has less than 18 cards, the amount will be reduced.",
     "skill": "<b>[1 AP] Beyond Healing</b>\nRecover 40..100% Mental.\nIn addition, if Mental is above 200%, increase Heart cap by 40..100 this stage, increase LOVE gain by 400..1000% this stage, gain 400..1000 Voltage Pt, and gain 400..1000 Skill Hearts.",
     "passive": "<b>Strong is Fragile</b>\nIncrease the AP cost of this skill based on how much Mental you currently have. If drawn when Mental is above 200% and while in your hand, grants invulnerability to Mental Down even if your mental reaches 0, reduce Mental every second, and increase this card's effects by 10000%."
+  },
+  {
+    "id": "徒町小鈴_Jolie Mademoiselle",
+    "rarity": "UR",
+    "limited": "LGP",
+    "title": "Jolie Mademoiselle",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/徒町小鈴_Jolie Mademoiselle_image.webp",
+    "idolized": "./data/images/徒町小鈴_Jolie Mademoiselle_idolized.webp",
+    "special": "<b>[11-9 AP] Mellow Ambience Boost</b>\nSwing Mood towards Mellow by 20..50 this section.\nIn addition, if Mood is -100 Mellow, increase the next 3 Love Attract skill effects by 176..440%.",
+    "skill": "<b>[9 AP] Imitation Mademoiselle</b>\nSwing Mood towards Mellow by 12..30 this section.\nIn addition, if Mood is -100 Mellow, set this card on stage and absorb Love Attract effects. When 1000% Love Attract effects are absorbed, increase LOVE gain by 1000..2500% for this stage and discard this card.",
+    "passive": "<b>Warm Attract</b>\nGreatly increase the chances of drawing this card after playing an Izumi card.\nIn addition, if Mood is -100 Mellow when drawn, increase the next Love Attract skill effect by 100%."
+  },
+  {
+    "id": "桂城泉_蓮ノ空歌留多",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Hasunosora Karuta",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_蓮ノ空歌留多_image.webp",
+    "idolized": "./data/images/桂城泉_蓮ノ空歌留多_idolized.webp",
+    "special": "<b>[4-2 AP] Groovy Hit Boost</b>\nIncrease AP recovery speed by 4..10% this stage.\nIn addition, if Voltage Lv. is 8 or above, increase Skill Heart gain effects by 8..20% this stage; if Voltage Lv. is 55 or above, increase Skill Heart gain effects by 80..200% this stage.",
+    "skill": "<b>[5 AP] Immitation Refresh Heart</b>\nSet this card on stage and absorb AP recovery speed effects. When 20% AP recovery speed is absorbed, gain 20..50 Skill Hearts, shuffle your hand, and discard this card.",
+    "passive": "<b>Oversection : Voltage Gain & AP Gain & AP Reduce & Heart Boost : Izumi</b>\nWhile in your hand and the section changes, gain 20 Voltage Pt and gain 3 AP; if Voltage Lv. is 55 or above, increase AP recovery speed by 55% and gain 15 AP.\nIn addition, while in your hand and an Izumi card is played, reduce the cost of all Izumi cards in your deck by 5 AP and increase the next Izumi's Skill Heart gain effects by 450%."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_蓮ノ空歌留多",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Hasunosora Karuta",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Moodmaker",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_蓮ノ空歌留多_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_蓮ノ空歌留多_idolized.webp",
+    "special": "<b>[4-2 AP] Groovy Sound Vibes</b>\nSwing Mood towards the respective Mood by 8..20 for this stage.\nIn addition, if Voltage Lv. is 8 or above, increase Beat Heart count by 2 this stage; if Voltage Lv. is 55 or above, increase Beat Heart count by 8..20 this stage.",
+    "skill": "<b>[5 AP] Ambience Extra Wide</b>\nSwing Mood towards the respective Mood by 8..20 for this section.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase max hand size by 2 this section, and increase Heart Cap by 120..300 this stage.",
+    "passive": "<b>Oversection : Voltage Gain & AP Gain & AP Reduce & Mood Boost : Ceras</b>\nWhile in your hand and the section changes, gain 20 Voltage Pt and gain 3 AP; if Voltage Lv. is 55 or above, increase Beat Heart count by 5 this section and gain 15 AP.\nIn addition, while in your hand and a Ceras card is played, reduce the cost of all Ceras cards in your deck by 5 AP and increase the next Ceras' Mood change skill effect by 150%."
   },
   {
     "id": "",
