@@ -1755,6 +1755,32 @@
     "passive": "<b>Oversection : Voltage Gain & AP Gain & AP Reduce & Mood Boost : Ceras</b>\nWhile in your hand and the section changes, gain 20 Voltage Pt and gain 3 AP; if Voltage Lv. is 55 or above, increase Beat Heart count by 5 this section and gain 15 AP.\nIn addition, while in your hand and a Ceras card is played, reduce the cost of all Ceras cards in your deck by 5 AP and increase the next Ceras' Mood change skill effect by 150%."
   },
   {
+    "id": "桂城泉_廻天の車窓",
+    "rarity": "UR",
+    "limited": "Party",
+    "title": "Kaiten no Shasou",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_廻天の車窓_image.webp",
+    "idolized": "./data/images/桂城泉_廻天の車窓_idolized.webp",
+    "special": "<b>[2-0 AP] Design Reality</b>\nEnable the use of the Design Reality Special Appeal.\n<b>[11 AP] Design Reality</b>\nForce activate the Imitation card currently set on stage.",
+    "skill": "<b>[11 AP] True Imitation</b>\nGain 14..35 Skill Hearts. Increase AP recovery speed by 8..20% this section.\nIn addition, if Mood is 100 Happy or -100 Mellow, set this card on stage, absorb any Mood change effects for the current section. When the section changes, for this stage, increase Heart Cap, LOVE gain, and Voltage Pt; and discard this card. The effects of this gain is based on how much Mood was absorbed.",
+    "passive": "<b>Bloom Operator</b>\nUpon draw, increase the next 2 Mood change effects by 20%.\nIn addition, if Mood is 0 when drawn, gain 5 AP and reduce the cost of this card by 5 AP; if Mood is 100 Happy or -100 Mellow when drawn, reduce the cost of this card by 8 AP, increase Beat Heart count by 1 this stage, and gain Skill Hearts based on your Voltage Lv."
+  },
+  {
+    "id": "セラス_柳田_リリエンフェルト_再臨の車窓",
+    "rarity": "UR",
+    "limited": "Party",
+    "title": "Sairin no Shasou",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Trickster",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_再臨の車窓_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_再臨の車窓_idolized.webp",
+    "special": "<b>[13-11 AP] Concert Mistress</b>\nEnable the use of Concert Mistress Special Appeals.\n<b>[0 AP] Concert Mistress (3 types)</b>\nSwing Mood to 100 Happy / 0 / -100 Mellow.",
+    "skill": "<b>[11 AP] Poetic Performance</b>\nWhen Mood is 0, increase the next 2 Love Attract or Voltage gain skill effects by 800..2000%; reset and shuffle your hand. If Mood is 100 Happy, gain 80..200 Skill Hearts and increase LOVE gain by 800..2000% this stage. If Mood is -100 Mellow, gain 80..200 Skill Hearts and gain 240..600 Voltage Pt.",
+    "passive": "<b>Bloom Conductor</b>\nWhen Mood is 0 upon draw, increase Beat Heart count by 2 this stage, gain Skill Hearts based on your Mental, and reduce the cost of this skill by 8 AP. If Mood is 100 Happy when drawn, recover 100% Mental, increase the next 2 Heart Cap increase skill effects by 100%, swing Mood towards Happy by 100, and reduce the cost of this card by 5 AP. If Mood is -100 Mellow when drawn, increase max hand size by 2 this section, increase the next 2 Mental recovery skill effects by 100%, swing Mood towards Mellow by 100, and reduce the cost of this card by 5 AP."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
