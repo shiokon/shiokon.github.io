@@ -217,7 +217,7 @@
     "image": "./data/images/セラス_柳田_リリエンフェルト_Dream_Believers_image.webp",
     "idolized": "./data/images/セラス_柳田_リリエンフェルト_Dream_Believers_idolized.webp",
     "special": "<b>[8-6 AP] Wide Sound Vibes</b>\nIncrease Beat Heart count by 2 this section. In addition, if the Mood is above +75 Happy or below -75 Mellow, increase Heart Cap by 400..1000 this section.",
-    "skill": "<b>[4 AP] Sound Ambience</b>\nIf the Mood is Happy or Mellow, swing towards the respective mood by 16..40.",
+    "skill": "<b>[4 AP] Sound Ambience</b>\nIf the Mood is Happy or Mellow, swing towards the respective Mood by 16..40.",
     "passive": "<b>Sound Vibes</b>\nWhile in your hand, if the Mood is above +75 Happy or below -75 Mellow, increase Beat Heart count by 1."
   },
   {
@@ -489,8 +489,8 @@
     "type": "Performer",
     "image": "./data/images/徒町小鈴_アンペア_image.webp",
     "idolized": "./data/images/徒町小鈴_アンペア_idolized.webp",
-    "special": "<b>[10-8 AP] Aggressive Wide Belief</b>\nGrants invulnerability to Mental Down even if your mental reaches 0 for the current section.\nIn addition, increase Heart Cap by 29..72 this stage and reduce Mental by 100%.",
-    "skill": "<b>[22 AP] Brave Wide Attraction</b>\nGain 40..101 Skill Hearts.\nIn addition, if mental is below 50%, increase Heart Cap by 140..350 this stage; if mental is 0%, increase LOVE Gain by 358.4..896% this stage.",
+    "special": "<b>[10-8 AP] Aggressive Wide Belief</b>\nGrants invulnerability to Mental Down even if your Mental reaches 0 for the current section.\nIn addition, increase Heart Cap by 29..72 this stage and reduce Mental by 100%.",
+    "skill": "<b>[22 AP] Brave Wide Attraction</b>\nGain 40..101 Skill Hearts.\nIn addition, if Mental is below 50%, increase Heart Cap by 140..350 this stage; if Mental is 0%, increase LOVE Gain by 358.4..896% this stage.",
     "passive": "<b>UN-PAIR</b>\nYou can only draw this card after playing a Sayaka card.\nUpon draw, increase the next 2 Heart Gain effects from Sayaka and Kosuzu cards by 100%.\nIn addition, if Mood is below -50 Mellow, reduce this card's cost by 9 AP, and when playing this card, gain invulnerability to Mental Down for this section and reduce Mental by 100%."
   },
   {
@@ -502,8 +502,8 @@
     "type": "Moodmaker",
     "image": "./data/images/村野さやか_アンペア_image.webp",
     "idolized": "./data/images/村野さやか_アンペア_idolized.webp",
-    "special": "<b>[6-4 AP] Aggressive Wide Belief</b>\nGrants invulnerability to Mental Down even if your mental reaches 0 for the current section.\nIn addition, increase Heart Cap by 12..30 this stage and reduce Mental by 100%.",
-    "skill": "<b>[2 AP] Brave Wide Attraction</b>\nIncrease LOVE Gain by 1.7..4.32% this stage.\nIn addition, if mental is below 50%, increase Heart Cap by 8..20 this stage; if mental is 0%, gain 24..60 Skill Hearts.",
+    "special": "<b>[6-4 AP] Aggressive Wide Belief</b>\nGrants invulnerability to Mental Down even if your Mental reaches 0 for the current section.\nIn addition, increase Heart Cap by 12..30 this stage and reduce Mental by 100%.",
+    "skill": "<b>[2 AP] Brave Wide Attraction</b>\nIncrease LOVE Gain by 1.7..4.32% this stage.\nIn addition, if Mental is below 50%, increase Heart Cap by 8..20 this stage; if Mental is 0%, gain 24..60 Skill Hearts.",
     "passive": "<b>UN-PAIR</b>\nGreatly increases the chance of drawing this card in sections 2 and 4.\nIn addition, when playing this card while Mood is below -50 Mellow, increase the next 2 Heart Gain effects from Sayaka and Kosuzu cards by 67.5%; and reduce the cost of Kosuzu cards in your deck by 9 AP."
   },
   {
@@ -816,7 +816,7 @@
     "idolized": "./data/images/村野さやか_太陽であれ！_idolized.webp",
     "special": "<b>[12-10 AP] Backlit Ambience</b>\nIncrease max hand size by 3 this section.\nIn addition, discard your hand and draw cards up to your max hand size. Lower Mood by 40..100 this section.",
     "skill": "<b>[5 AP] Illuminate Boost</b>\nIncrease the next skill's Skill Hearts gained by 40..100%; discard your hand and draw cards up to your max hand size.\nIn addition, if Mental is 0 and Mood is at -100 Mellow, increase the next 3 Kosuzu's Voltage gain skills by 120..300%, Love Attract effects by 360..900%, and gain 12..30 Skill Hearts.",
-    "passive": "<b>Sol Fuel</b>\nWhile in your hand, if you collect 3000 Hearts and Mood is -100 Mellow, gain invulnerability to Mental Down even if your mental reaches 0 for the current section; increase Beat Heart count by 1 for this section."
+    "passive": "<b>Sol Fuel</b>\nWhile in your hand, if you collect 3000 Hearts and Mood is -100 Mellow, gain invulnerability to Mental Down even if your Mental reaches 0 for the current section; increase Beat Heart count by 1 for this section."
   },
   {
     "id": "徒町小鈴_太陽であれ！",
@@ -1779,6 +1779,32 @@
     "special": "<b>[13-11 AP] Concert Mistress</b>\nEnable the use of Concert Mistress Special Appeals.\n<b>[0 AP] Concert Mistress (3 types)</b>\nSwing Mood to 100 Happy / 0 / -100 Mellow.",
     "skill": "<b>[11 AP] Poetic Performance</b>\nWhen Mood is 0, increase the next 2 Love Attract or Voltage gain skill effects by 800..2000%; reset and shuffle your hand. If Mood is 100 Happy, gain 80..200 Skill Hearts and increase LOVE gain by 800..2000% this stage. If Mood is -100 Mellow, gain 80..200 Skill Hearts and gain 240..600 Voltage Pt.",
     "passive": "<b>Bloom Conductor</b>\nWhen Mood is 0 upon draw, increase Beat Heart count by 2 this stage, gain Skill Hearts based on your Mental, and reduce the cost of this skill by 8 AP. If Mood is 100 Happy when drawn, recover 100% Mental, increase the next 2 Heart Cap increase skill effects by 100%, swing Mood towards Happy by 100, and reduce the cost of this card by 5 AP. If Mood is -100 Mellow when drawn, increase max hand size by 2 this section, increase the next 2 Mental recovery skill effects by 100%, swing Mood towards Mellow by 100, and reduce the cost of this card by 5 AP."
+  },
+  {
+    "id": "徒町小鈴_リブウト",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Reboot",
+    "name": "Kachimachi Kosuzu",
+    "type": "Trickster",
+    "image": "./data/images/徒町小鈴_リブウト_image.webp",
+    "idolized": "./data/images/徒町小鈴_リブウト_idolized.webp",
+    "special": "<b>[5-3 AP] Darkness Sun</b>\nGrants invulnerability to Mental Down even if your Mental reaches 0 for this stage; gain 1334..3333 Voltage Pt every second.\nIn addition, reduce max hand size by 3 this section.",
+    "skill": "<b>[22 AP] Reboot Voltage</b>\nShuffle your hand.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase the next 5 Sayaka's Voltage Gain skill effects by 800..2000%; if Mental is 0, swing towards the respective Mood by 20 this section; if Mood is 100 Happy or -100 Mellow and Mental is 0, increase LOVE gain by 800..2000% this stage.",
+    "passive": "<b>Wild Soul</b>\nWhile in your hand and a Sayaka skill is played, shuffle your hand, grants invulnerability to Mental Down even if your Mental reaches 0 for this section, reduce Mental by 100%, and reduce the cost of all Kosuzu cards in your deck by 20 AP."
+  },
+  {
+    "id": "村野さやか_リブウト",
+    "rarity": "UR",
+    "limited": "Normal",
+    "title": "Reboot",
+    "name": "Murano Sayaka",
+    "type": "Trickster",
+    "image": "./data/images/村野さやか_リブウト_image.webp",
+    "idolized": "./data/images/村野さやか_リブウト_idolized.webp",
+    "special": "<b>[5-3 AP] Frozen Sun</b>\nGrants invulnerability to Mental Down even if your Mental reaches 0 for this stage; gain 1334..3333 Voltage Pt every second.\nIn addition, reduce AP recovery speed by 33% this section.",
+    "skill": "<b>[22 AP] Reboot Attract</b>\nShuffle your hand.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase the next 5 Kosuzu's Love Attract skill effects by 800..2000%; if Mental is 0, swing towards the respective Mood by 20 this section; if Mood is 100 Happy or -100 Mellow and Mental is 0, gain 480..1200 Voltage Pt.",
+    "passive": "<b>Wild Dream</b>\nWhile in your hand and a Kosuzu skill is played, shuffle your hand, grants invulnerability to Mental Down even if your Mental reaches 0 for this section, reduce Mental by 100%, and reduce the cost of all Sayaka cards in your deck by 20 AP."
   },
   {
     "id": "",
