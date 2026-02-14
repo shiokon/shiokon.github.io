@@ -1807,6 +1807,32 @@
     "passive": "<b>Wild Dream</b>\nWhile in your hand and a Kosuzu skill is played, shuffle your hand, grants invulnerability to Mental Down even if your Mental reaches 0 for this section, reduce Mental by 100%, and reduce the cost of all Sayaka cards in your deck by 20 AP."
   },
   {
+    "id": "安養寺姫芽_IcHiGo milK love",
+    "rarity": "UR",
+    "limited": "Shuffle",
+    "title": "IcHiGo milK love",
+    "name": "Anyoji Hime",
+    "type": "Trickster",
+    "image": "./data/images/安養寺姫芽_IcHiGo milK love_image.webp",
+    "idolized": "./data/images/安養寺姫芽_IcHiGo milK love_idolized.webp",
+    "special": "<b>[17-15 AP] Fleeting Love</b>\nIncrease AP recovery speed by 60..150% this section and increase Beat Heart count by 6..15 this section.\nIn addition, reset and shuffle your hand.",
+    "skill": "<b>[15 AP]PRINCEε>ε></b>\nReset and shuffle your hand; if Mental is above 200%, gain 228..570 Skill Hearts and increase Heart Cap by 547..1368 this stage.\nIn addition, set this card on stage and absorb Hearts. When 150 Hearts have been absorbed, gain 148..369 Skill Hearts, and discard this card.",
+    "passive": "<b>Sugary Dream</b>\nWhile in your hand and 150 Hearts are collected, gain 15 Skill Hearts, and reduce the cost of this card by 9 AP. When 1530 Hearts are collected, gain 50 Skill Hearts and recover 50% Mental. When 15360 Hearts are collected, gain 150 Skill Hearts and increase AP recovery speed by 15% for this section. When 153690 Hearts are collected, gain 500 Skill Hearts and increase the next 15 Heart Cap increase skill effects by 369%."
+  },
+  {
+    "id": "大沢瑠璃乃_平成ギャルズ!!!!",
+    "rarity": "UR",
+    "limited": "Shuffle",
+    "title": "Heisei Galz!!!!",
+    "name": "Osawa Rurino",
+    "type": "Trickster",
+    "image": "./data/images/大沢瑠璃乃_平成ギャルズ!!!!_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_平成ギャルズ!!!!_idolized.webp",
+    "special": "<b>[10-8 AP] Gals' History</b>\nSwing Mood towards Happy by 19..46 for this stage.\nIn addition, recover 19..46% Mental and gain 190..460 Voltage Pt every second during this stage.",
+    "skill": "<b>[8 AP] Ruri&To</b>\nReset and shuffle your hand and swing Mood towards Happy by 19..46 for this section.\nIn addition, if Mood is 100 Happy, gain 336..840 Voltage Pt, and increase LOVE gain by 80..200% this stage.",
+    "passive": "<b>Theory of Evolution</b>\nIf in your hand when the Section changes, lose 8 AP; if in Section 1, increase max hand size by 1 for this stage, increase Beat Heart count by 5 this stage, increase Mood change effects by 365%; if in Section 2, grants invulnerability to Mental Down even if your Mental reaches 0 for this stage, increase Beat Heart count by 10 this stage, increase Heart Cap skill effects by 365%; if in Section 3, increase max hand size by 2 this stage, increase Beat Heart count by 20 this stage, increase Love Attract and Voltage gain skill effects by 1040%; if in Section 4, increase Beat Heart count by 40 this stage, and increase all skill effects by 46%."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
