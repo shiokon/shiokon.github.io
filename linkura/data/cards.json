@@ -1833,6 +1833,58 @@
     "passive": "<b>Theory of Evolution</b>\nIf in your hand when the Section changes, lose 8 AP; if in Section 1, increase max hand size by 1 for this stage, increase Beat Heart count by 5 this stage, increase Mood change effects by 365%; if in Section 2, grants invulnerability to Mental Down even if your Mental reaches 0 for this stage, increase Beat Heart count by 10 this stage, increase Heart Cap skill effects by 365%; if in Section 3, increase max hand size by 2 this stage, increase Beat Heart count by 20 this stage, increase Love Attract and Voltage gain skill effects by 1040%; if in Section 4, increase Beat Heart count by 40 this stage, and increase all skill effects by 46%."
   },
   {
+    "id": "セラス_柳田_リリエンフェルト_いちご123",
+    "rarity": "SR",
+    "limited": "LGP",
+    "title": "Ichigo 123",
+    "name": "Ceras Yanagida Lilienfeld",
+    "type": "Cheerleader",
+    "image": "./data/images/セラス_柳田_リリエンフェルト_いちご123_image.webp",
+    "idolized": "./data/images/セラス_柳田_リリエンフェルト_いちご123_idolized.webp",
+    "special": "<b>[7-5 AP] 123 Happiness</b>\nSwing Mood towards Happy by 6..15 for this stage.\nIn addition, reduce the cost of all Rurino, Kosuzu, and Ceras cards in your deck by 1, 2, and 3 AP respectively.",
+    "skill": "<b>[15 AP] Short and Sweet</b>\nRecover 60.4..151% Mental and gain 61..152 Skill Hearts.\n In addition, swing Mood towards Happy by 62..153 and reduce AP recovery speed by 15% for this section.",
+    "passive": "<b>Happy Strawberry</b>\nWhile in your hand and Mood is 100 Happy, upon using a Ceras, Rurino, or Kosuzu skill, increase the next 15 Mental Recovery, Skill Heart gain, or Mood change skill effects by 15%; reduce this card's cost by 10 AP."
+  },
+  {
+    "id": "徒町小鈴_拝啓、未来の君へ",
+    "rarity": "SR",
+    "limited": "Graduation",
+    "title": "Haikei, Mirai no Kimi e",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/徒町小鈴_拝啓、未来の君へ_image.webp",
+    "idolized": "./data/images/徒町小鈴_拝啓、未来の君へ_idolized.webp",
+    "special": "<b>[8-6 AP] P.S.</b>\nAdd 1 Letter card to your deck.",
+    "skill": "<b>[6 AP] Just for Future</b>\nSwing Mood towards the respective Mood by 8..20 for this section, reset and shuffle your hand. Increase the chances of drawing a Letter card.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase the Skill Hearts gained from Letter cards by 400% this stage.",
+    "passive": "<b>Messenger</b>\nUpon the first use, add 1 Letter card to your deck.\nIn addition, if Mood is 100 Happy or -100 Mellow, reduce the cost of all Letter cards in your deck by 3 AP.\n\n<b>[6 AP] Letter</b>\nGain 10..25 Skill Hearts and 40..100 Voltage Pt, increase LOVE gain by 10..25% this stage, and increase Heart Cap by 24..60 this stage.\n<b>Passive: Shield Emotion</b>\nIf Mood is 100 Happy or -100 Mellow when drawn, gain 25 Skill Hearts and 100 Voltage Pt, increase LOVE gain by 25% this stage, and increase Heart Cap by 60 this stage."
+  },
+  {
+    "id": "安養寺姫芽_トモダチになれる場所",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Tomodachi ni Nareru Basho",
+    "name": "Anyoji Hime",
+    "type": "Cheerleader",
+    "image": "./data/images/安養寺姫芽_トモダチになれる場所_image.webp",
+    "idolized": "./data/images/安養寺姫芽_トモダチになれる場所_idolized.webp",
+    "special": "<b>[5-3 AP] Painful Smile</b>\nIncrease AP recovery speed by 20..50% this stage.\nIn addition, reduce Mental by 200%.",
+    "skill": "<b>[12 AP] Team Memories</b>\nRecover 32..80% Mental.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase the next 3 Mira-cra Park!'s Love Attract or Voltage Gain skill effects by 1200..3000%; recover 48..120% Mental; if Mood is 100 Happy or -100 Mellow and Mental is above 200%, increase Heart Cap by 800..2000 this stage.",
+    "passive": "<b>Mira-Cra Spirits</b>\nIf Mental is 0 when drawn, gain 150 Skill Hearts; if Mood is 100 Happy or -100 Mellow when drawn, reduce Mental by 1000% and reduce the cost of all Mira-cra Park! cards in your deck by 11 AP.\nIn addition, if Mood is 100 Happy or -100 Mellow while in your hand, grants invulnerability to Mental Down even if your Mental reaches 0; when recovering Mental, gain Skill Hearts equal to 300% of the amount recovered."
+  },
+  {
+    "id": "大沢瑠璃乃_トモダチになれる場所",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Tomodachi ni Nareru Basho",
+    "name": "Osawa Rurino",
+    "type": "Cheerleader",
+    "image": "./data/images/大沢瑠璃乃_トモダチになれる場所_image.webp",
+    "idolized": "./data/images/大沢瑠璃乃_トモダチになれる場所_idolized.webp",
+    "special": "<b>[5-3 AP] Bittersweet</b>\nIncrease max hand size by 1..3 this stage.\nIn addition, reduce Mental by 200%.",
+    "skill": "<b>[12 AP] Friend Memories</b>\nRecover 32..80% Mental.\nIn addition, if Mood is 100 Happy or -100 Mellow, increase Beat Heart count by 1 this stage and recover 48..120% Mental; if Mood is 100 Happy or -100 Mellow and Mental is above 200%, increase Heart Cap by 800..2000% this stage.",
+    "passive": "<b>R's Park</b>\nUpon using this card, reset and shuffle your hand, reduce the cost of all Mira-cra Park! cards in your deck by 9 AP; upon using this card 3 times, add 1 Sazanami card to your deck.\nIn addition, if Mood is 100 Happy or -100 Mellow while in your hand, grants invulnerability to Mental Down even if your Mental reaches 0; when recovering Mental, gain Skill Hearts equal to 300% of the amount recovered.\n\n<b>[3 AP] Sazanami</b>\nSwing Mood towards the respective Mood by 20..50 for this section and reduce Mental by 1000%.\nIn addition, gain 60..150 Skill Hearts.\n<b>Passive: Sazanami Harmony</b>\nOnly be able to draw this card after playing a Rurino card; after playing this card, increase the chances of drawing a Mira-cra Park! card. If Mental is 0 when drawn, gain 150 Skill Hearts; if Mood is 100 Happy or -100 Mellow when drawn, increase the next 3 Mira-cra Park! or Sazanami cards' Skill Hearts gained by 3000% and Heart Cap increase skill effects by 1000%.\nIn addition, if Mood is 100 Happy or -100 Mellow while in your hand, grants invulnerability to Mental Down even if your Mental reaches 0; when recovering Mental, gain Skill Hearts equal to 300% of the amount recovered."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
