@@ -1127,8 +1127,8 @@
     "image": "./data/images/百生吟子_一生に夢が咲くように_image.webp",
     "idolized": "./data/images/百生吟子_一生に夢が咲くように_idolized.webp",
     "special": "<b>[10-8 AP] Dream Bloom Link</b>\nDuring this stage, when all Ginko/Kaho/Kosuzu/Sayaka/Hime/Rurino/Izumi/Ceras skills are used, gain 3555.2..8888% LOVE this section, increase Beat Heart count by 3..8 this section, and increase Heart Cap by 355..888 this section.\nThe Love Attract effect depends on the total amount of AP spent on the skills used. When the same member's skill is used again, the AP spent recorded is overwritten.",
-    "skill": "<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nAdd 2 Dress《Hitoyo ni Yume ga Saku you ni》cards to your deck.\nIn addition, shuffle your hand.\n\n<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nShuffle your hand and gain 75..188 Voltage Pt.\nIn addition, if Mental is 100%, gain 355..888 Skill Hearts.\n<b>Passive: Cross Anima</b>\nThe more Mental you have, the more this card's AP cost is reduced by, up to 6.\nIn addition, when this car has been used twice, increase the next Ginko's Love Attract skill effect by 888% and destroy this card.",
-    "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, gain 8 AP and increase the next 8 Heart Cap increase effects by 88%.\nIn addition, when used, gain 8 AP, up to 8 times."
+    "skill": "<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nAdd 2 Dress《Hitoyo ni Yume ga Saku you ni》cards to your deck.\nIn addition, shuffle your hand.",
+    "passive": "<b>First Seedling</b>\nWhen drawn during Sections 1-2 besides FEVER, gain 8 AP and increase the next 8 Heart Cap increase effects by 88%.\nIn addition, when used, gain 8 AP, up to 8 times.\n\n<b>[8 AP] Dress《Hitoyo ni Yume ga Saku you ni》</b>\nShuffle your hand and gain 75..188 Voltage Pt.\nIn addition, if Mental is 100%, gain 355..888 Skill Hearts.\n<b>Passive: Cross Anima</b>\nThe more Mental you have, the more this card's AP cost is reduced by, up to 6.\nIn addition, when this car has been used twice, increase the next Ginko's Love Attract skill effect by 888% and destroy this card."
   },
   {
     "id": "徒町小鈴_一生に夢が咲くように",
@@ -1896,6 +1896,32 @@
     "special": "<b>[7-5 AP] School Idol Stage Lesson</b>\nThroughout this stage, face random challenges. Upon completing a challenge, gain LOVE and face a new challenge. The amount of LOVE gained is based on the number of challenges completed.",
     "skill": "<b>[2 AP] Bloom Myself</b>\nReduce the cost of all Kosuzu cards in your deck by 2 AP.\nIn addition, increase the next 2 Kosuzu's skill effects by 8..20%.",
     "passive": "<b>Birthday Candle</b>\nUpon use, gain 2 AP, up to 17 times."
+  },
+  {
+    "id": "百生吟子_不思議と君とライブラリー",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Mystery, You, and The Library",
+    "name": "Momose Ginko",
+    "type": "Trickster",
+    "image": "./data/images/百生吟子_不思議と君とライブラリー_image.webp",
+    "idolized": "./data/images/百生吟子_不思議と君とライブラリー_idolized.webp",
+    "special": "<b>[6-4 AP] To Future</b>\nWhen used in the last section, reduce the cost of every card in your deck by 8..20 AP; reset and shuffle your hand and increase the chances of drawing a Cerise Bouquet card.",
+    "skill": "<b>[8 AP] Dress《Mystery, You, and The Library》</b>\nAdd 3《Mystery, You, and The Library》Dress cards to your deck.",
+    "passive": "<b>Story Weaver</b>\nWhen drawn, based on how big your deck is, reduce the AP cost of all Cerise Bouquet, Dress, Bloom Story, Rabbit Clock, and Flower Bookmark cards in your deck.\nIn addition, after playing this card, increase the chances of drawing a Dress card.\n\n<b>[0 AP]《Mystery, You, and The Library》</b>\nAdd 3《Rabbit Clock》cards and 3《Flower Bookmark》cards to your deck.\nIn addition, use every card in your hand. This skill's AP cost is equal to the AP costs of all other cards in your hand added together and reduced by how big your deck is.\n<b>Passive: Costuming</b>\nAfter using this skill, increase the chances of drawing a Bloom Story card. Destroy this card after using it.\n\n<b>[5 AP]《Rabbit Clock》</b>\nIncrease max hand size by 3 this section.\nIn addition, swing Mood towards Happy by 32..80 for this section.\n<b>Passive: Timekeep</b>\nWhen drawn, increase AP recovery speed based on how big your deck is; after using this card, destroy it and add 1《Flower Bookmark》card to your deck.\nIn addition, if your deck has 80 or more cards when drawn, increase the skill effects of《Bloom Story》cards by 1001% this stage.\n\n<b>[5 AP]《Flower Bookmark》</b>\nReset and shuffle your hand; increase the chances of drawing Rabbit Clock and Cerise Bouquet cards.\n<b>Passive: Signpost</b>\nWhen drawn, gain AP based on how big your deck is; after using this card, destroy it and add 1《Bloom Story》card to your deck.\nIn addition, while this card is in your hand and there are 80 or more cards in your deck,《Bloom Story》cards' skill effects are increased by 1001% when played; when there are 95 or more cards in your deck and 500000 hearts are collected, shuffle your hand.\n\n<b>[5 AP]《Bloom Story》</b>\nGain 6..15 Skill Hearts; for this stage, increase Heart Cap by 14..36, increase LOVE gain by 120..300%, and gain 40..100 Voltage Pt.\nIn addition, if Mood is 100 Happy, gain 60..150 Skill Hearts; for this stage, increase Heart Cap by 144..360, increase LOVE gain by 1200..3000%, and gain 400..1000 Voltage Pt.\n<b>Passive: Narrative</b>\nWhen drawn, gain Skill Hearts based on how big your deck is; after using this card, destroy it and increase the chances of drawing a《Flower Bookmark》card.\nIn addition, while this card is in your hand and there are 80 or more cards in your deck,《Bloom Story》cards' skill effects are increased by 1001% when played; when there are 95 or more cards in your deck and 500000 hearts are collected, gain 1001 Skill Hearts."
+  },
+  {
+    "id": "日野下花帆_不思議と君とライブラリー",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Mystery, You, and The Library",
+    "name": "Hinoshita Kaho",
+    "type": "Trickster",
+    "image": "./data/images/日野下花帆_不思議と君とライブラリー_image.webp",
+    "idolized": "./data/images/日野下花帆_不思議と君とライブラリー_idolized.webp",
+    "special": "<b>[5-3 AP] In Wonderland</b>\nWhen used in Section 1, increase AP recovery speed by 32..80% this section, and increase max hand size by 3 this section. Add 30《Bloom Story》cards to your deck.",
+    "skill": "<b>[8 AP] Bloom Chronicle</b>\nAdd 8《Bloom Story》, 1《Rabbit Clock》, and 1《Flower Bookmark》card to your deck.",
+    "passive": "<b>Storyteller</b>\nUpon use, based on how big your deck is, increase the skill effects of《Bloom Story》cards.\n\n<b>[5 AP]《Bloom Story》</b>\nGain 6..15 Skill Hearts; for this stage, increase Heart Cap by 14..36, increase LOVE gain by 120..300%, and gain 40..100 Voltage Pt.\nIn addition, if Mood is 100 Happy, gain 60..150 Skill Hearts; for this stage, increase Heart Cap by 144..360, increase LOVE gain by 1200..3000%, and gain 400..1000 Voltage Pt.\n<b>Passive: Narrative</b>\nWhen drawn, gain Skill Hearts based on how big your deck is; after using this card, destroy it and increase the chances of drawing a《Flower Bookmark》card.\nIn addition, while this card is in your hand and there are 80 or more cards in your deck,《Bloom Story》cards' skill effects are increased by 1001% when played; when there are 95 or more cards in your deck and 500000 hearts are collected, gain 1001 Skill Hearts.\n\n<b>[5 AP]《Rabbit Clock》</b>\nIncrease max hand size by 3 this section.\nIn addition, swing Mood towards Happy by 32..80 for this section.\n<b>Passive: Timekeep</b>\nWhen drawn, increase AP recovery speed based on how big your deck is; after using this card, destroy it and add 1《Flower Bookmark》card to your deck.\nIn addition, if your deck has 80 or more cards when drawn, increase the skill effects of《Bloom Story》cards by 1001% this stage.\n\n<b>[5 AP]《Flower Bookmark》</b>\nReset and shuffle your hand; increase the chances of drawing Rabbit Clock and Cerise Bouquet cards.\n<b>Passive: Signpost</b>\nWhen drawn, gain AP based on how big your deck is; after using this card, destroy it and add 1《Bloom Story》card to your deck.\nIn addition, while this card is in your hand and there are 80 or more cards in your deck,《Bloom Story》cards' skill effects are increased by 1001% when played; when there are 95 or more cards in your deck and 500000 hearts are collected, shuffle your hand."
   },
   {
     "id": "",
