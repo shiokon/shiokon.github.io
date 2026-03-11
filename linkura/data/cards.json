@@ -1937,6 +1937,45 @@
     "passive": "<b>Pilgrim</b>\nUpon the first use, add 1 Letter card to your deck.\nIn addition, upon draw, gain 3 AP for every Letter card in your deck, up to 15 max.\n\n<b>[6 AP] Letter</b>\nGain 10..25 Skill Hearts and 40..100 Voltage Pt, increase LOVE gain by 10..25% this stage, and increase Heart Cap by 24..60 this stage.\n<b>Passive: Shield Emotion</b>\nIf Mood is 100 Happy or -100 Mellow when drawn, gain 25 Skill Hearts and 100 Voltage Pt, increase LOVE gain by 25% this stage, and increase Heart Cap by 60 this stage."
   },
   {
+    "id": "徒町小鈴_アイシイ",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Icy",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/徒町小鈴_アイシイ_image.webp",
+    "idolized": "./data/images/徒町小鈴_アイシイ_idolized.webp",
+    "special": "<b>[2-0 AP] Icy Moment</b>\nSet AP to 0, increase AP recovery speed by 56..140% this section, and increase max hand size by 4 this section.\nIn addition, reset and shuffle your hand; increase the chances of drawing a DOLLCHESTRA card.",
+    "skill": "<b>[14 AP] Icy World</b>\nSwing Mood towards Mellow by 20..50 this section, increase AP recovery speed by 5.6..14% this section, and increase max hand size by 1 this section.\nIn addition, negate damage equal to 56..140% Mental for this stage.",
+    "passive": "<b>Parallel Bright</b>\nUpon draw, gain Skill Hearts based on how high your Voltage Lv is; increase the effects of all Sayaka cards for this stage. While in your hand and a DOLLCHESTRA card is played, shuffle your hand and reduce the cost of all DOLLCHESTRA and Shadow cards in your deck by 9 AP; in addition, if Voltage Lv is 950 or above and Mental is 0 when 500000 Hearts are collected, shuffle your hand and lose 1400000 Voltage Pt; if Voltage Lv is 1000, lose 14000000 Voltage Pt instead. Increase the chances of drawing a DOLLCHESTRA card."
+  },
+  {
+    "id": "村野さやか_アイシイ",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Icy",
+    "name": "Murano Sayaka",
+    "type": "Performer",
+    "image": "./data/images/村野さやか_アイシイ_image.webp",
+    "idolized": "./data/images/村野さやか_アイシイ_idolized.webp",
+    "special": "<b>[2-0 AP] Icy Infinity</b>\nReduce AP recovery speed by 140% this stage.\nIn addition, for this stage, increase Beat Heart count by 6..14 and gain 56000..140000 Voltage Pt every second.",
+    "skill": "<b>[14 AP] Icy Act</b>\nGain 20..50 Skill Hearts and 80..200 Voltage Pt.\nIn addition, if Mood is -100 Mellow, increase LOVE gain by 1200..3000% this stage and increase Heart Cap by 200.500 this stage. This skill effect is amplified for every 200 Voltage Levels you have.",
+    "passive": "<b>Prime Skater</b>\nUpon the first use, add 1《Ideal Shadow》card to your deck. While in your hand and a DOLLCHESTRA card is played, shuffle your hand and gain 9 AP; in addition, if Voltage Lv is 950 or above and Mental is 0 when 500000 Hearts are collected, shuffle your hand and lose 1400000 Voltage Pt; if Voltage Lv is 1000, lose 14000000 Voltage Pt instead. Increase the chances of drawing a DOLLCHESTRA card.\n\n[14 AP] Ideal Shadow</b>\nReset and shuffle your hand.\nIn addition, set AP to 0.\n<b>Passive: Beat Your Best</b>\nPrevent drawing this card unless a DOLLCHESTRA card is played; upon draw, reduce Mental by 14%, reduce AP recovery speed by 14% this section, and reduce max hand size by 1 this section.\nIn addition, when this skill is used 14 times, destroy it, and grants invulnerability to Mental down even if your Mental reaches 0 for this stage, reduce Mental by 1000%, and set Voltage Lv to 1000."
+  },
+  {
+    "id": "",
+    "rarity": "",
+    "limited": "",
+    "title": "",
+    "name": "",
+    "type": "",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
