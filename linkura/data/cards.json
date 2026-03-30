@@ -2015,6 +2015,45 @@
     "passive": "<b>Neustart Linien</b>\nWhen this card is played twice, it is destroyed. Add 1 Walküre card to your deck.\n\n<b>[2 AP] Walküre</b>\nSet this card on stage and absorb Love Attract effects. When 20000000% Love Attract is absorbed, gain 800..2000 Skill Hearts, increase LOVE gain by 8000000..20000000% this stage, increase Heart Cap by 80000..200000 this stage, and discard this card.\n<b>Passive: E-N</b>\nUpon draw, gain Skill Hearts and increase the next 8 Love Attract effects. These effects are based on Ceras' Member Fan Lv.\nIn addition, If Izumi's Member Fan Lv is 100 or above and 80000 Hearts are collected, reset and shuffle your hand."
   },
   {
+    "id": "日野下花帆_今、過去、未来の三原色",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Ima, Kako, Mirai no Sangenshoku",
+    "name": "Hinoshita Kaho",
+    "type": "Performer",
+    "image": "./data/images/日野下花帆_今、過去、未来の三原色_image.webp",
+    "idolized": "./data/images/日野下花帆_今、過去、未来の三原色_idolized.webp",
+    "special": "<b>[13-11 AP] Link! Like! Bloom!</b>\nDuring this stage, when Ginko, Kaho, Kozue, Kosuzu, Sayaka, Tsuzuri, Hime, Rurino, Megumi, Izumi, and Ceras' skills have been used, increase AP recovery speed by 10..25% this stage, gain 40000..100000 Voltage Pt per second throughout this stage, recover 20..50% Mental per second throughout this stage, increase LOVE gain by 200000..500000% this stage, increase max hand size by 2 this stage, increase Heart Cap by 60000..150000 this stage, negate Mental damage equal to 200..500% of your max Mental for this stage, increase Beat Heart count by 8..20 this stage, swing Mood towards the respective Mood by 20..50 this stage, grants invulnerability to Mental down even if your Mental reaches 0 for this stage, and gain 200..500 Skill Hearts. These effects are amplified based on the amount of AP used for each of the members' skills; if the same member's skill is played again, the AP cost recorded is overwritten.",
+    "skill": "<b>[3 AP] School Idol of 3 Years</b>\nGain Skill Hearts; for this stage, every skill's effects are amplified. These effects are based on this skill's level and Kaho's Memebr Fan Lv.\nIn addition, if Kaho's Member Fan Lv is 100 or above, gain 4..11 AP and shuffle your hand.",
+    "passive": "<b>Everbloom</b>\nAfter using this card 3 times, it is destroyed, and 1 Blooming Flower card is added to your deck.\n\n<b>[3 AP] Blooming Flower/Kaho</b>\nGain Skill Hearts; increase Heart Cap for this stage. These effects are based on this skill's level and Kaho's Member Fan Lv.\n<b>Passive: Flower Garden</b>\nWhile in your hand and if Kaho's Member Fan Lv is 100 or above and 300000 Hearts are collected, gain 300 Skill Hearts and shuffle your hand. If Kaho's Member Fan Lv is 200 or above, increase the next 3 Skill Heart gain or Heart Cap increase effects by 1030%."
+  },
+  {
+    "id": "大沢瑠璃乃_今、過去、未来の三原色",
+    "rarity": "",
+    "limited": "",
+    "title": "",
+    "name": "",
+    "type": "",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
+  },
+  {
+    "id": "村野さやか_今、過去、未来の三原色",
+    "rarity": "",
+    "limited": "",
+    "title": "",
+    "name": "",
+    "type": "",
+    "image": "./data/images/_image.webp",
+    "idolized": "./data/images/_idolized.webp",
+    "special": "",
+    "skill": "",
+    "passive": ""
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
