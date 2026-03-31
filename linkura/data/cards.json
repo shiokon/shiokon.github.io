@@ -2036,22 +2036,22 @@
     "type": "Trickster",
     "image": "./data/images/大沢瑠璃乃_今、過去、未来の三原色_image.webp",
     "idolized": "./data/images/大沢瑠璃乃_今、過去、未来の三原色_idolized.webp",
-    "special": "<b>[13-11 AP] Full Bloom Finale</b>\nWhen used in the final section, for this section, increase all skill effects by 12..30%, and Mental is infinite; when a Mental recovery or protect skill is used, gain Skill Hearts. The amount gained is based on the magnitude of the used skill and this card's Special Appeal skill level. If your deck has 18 or less cards, the effect is worsened.",
+    "special": "<b>[13-11 AP] Full Bloom Finale</b>\nWhen used in the final section, for this section, increase all skill effects by 12..30%, and Mental is set to infinite; when a Mental recovery or protect effect is triggered, gain Skill Hearts. The amount gained is based on the scale of the triggered effect and this card's Special Appeal skill level. If your deck has 18 or less cards, the effect is reduced.",
     "skill": "<b>[3 AP] School Idol of 3 Years</b>\nFor this stage, increase max hand size and every skill's effects are amplified. These effects are based on this skill's level and Rurino's Member Fan Lv.\nIn addition, if Rurino's Member Fan Lv is 100 or above, gain 4..11 AP and shuffle your hand.",
     "passive": "<b>Everbloom</b>\nAfter using this card 3 times, it is destroyed, and 1 Blooming Flower card is added to your deck.\n\n<b>[3 AP] Blooming Flower/Rurino</b>\nRecover Mental; negate Mental decay and damage. These effects are based on this skill's level and Rurino's Member Fan Lv.\n<b>Passive: Flower Garden</b>\nWhile in your hand and if Rurino's Member Fan Lv is 100 or above and 300000 Hearts are collected, gain 300 Skill Hearts and shuffle your hand. If Rurino's Member Fan Lv is 200 or above, increase the next 3 Mental recovery or Mental protect skill effects by 1030%."
   },
   {
     "id": "村野さやか_今、過去、未来の三原色",
-    "rarity": "",
-    "limited": "",
-    "title": "",
-    "name": "",
-    "type": "",
-    "image": "./data/images/_image.webp",
-    "idolized": "./data/images/_idolized.webp",
-    "special": "",
-    "skill": "",
-    "passive": ""
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Ima, Kako, Mirai no Sangenshoku",
+    "name": "Murano Sayaka",
+    "type": "Moodmaker",
+    "image": "./data/images/村野さやか_今、過去、未来の三原色_image.webp",
+    "idolized": "./data/images/村野さやか_今、過去、未来の三原色_idolized.webp",
+    "special": "<b>[13-11 AP] Full Bloom Finale</b>\nWhen used in the final section, for this section, increase all skill effects by 12..30%, and Voltage Lv is set to infinite; when a Voltage Pt gain effect is triggered, increase LOVE gain for this section. This effect is based on the scale of the triggered effect and this card's Special Appeal skill level. If your deck has 18 or less cards, the effect is reduced.",
+    "skill": "<b>[3 AP] School Idol of 3 Years</b>\nGain Voltage Pt; for this stage, every skill's effects are amplified. These effects are based on this skill's level and Sayaka's Member Fan Lv.\nIn addition, if Sayaka's Member Fan Lv is 100 or above, gain 4..11 AP and shuiffle your hand.",
+    "passive": "<b>Everbloom</b>\nAfter using this card 3 times, it is destroyed, and 1 Blooming Flower card is added to your deck.\n\n<b>[3 AP] Blooming Flower/Sayaka</b>\nGain Voltage Pt and increase LOVE gain for this stage. These effects are based on this skill's level and Sayaka's Member Fan Lv.\n<b>Passive: Flower Garden</b>\nWhile in your hand and if Sayaka's Member Fan Lv is 100 or above and 300000 Hearts are collected, gain 300 Skill Hearts and shuffle your hand. If Sayaka's Member Fan Lv is 200 or above, increase the next 3 Voltage gain or LOVE attract increase effects by 1030%."
   },
   {
     "id": "",
