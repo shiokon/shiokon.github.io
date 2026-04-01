@@ -387,7 +387,11 @@
   function matches(card) {
     const lowerName = `${card.title} ${card.name}`.toLowerCase();
     if (state.search && !lowerName.includes(state.search)) return false;
-    if (state.characters.size && !state.characters.has(card.name)) return false;
+    if (state.characters.size) {
+      const cardChars = card.name.split(',').map(c => c.trim());
+      const hasMatch = cardChars.some(c => state.characters.has(c));
+      if (!hasMatch) return false;
+    }
     if (state.rarity.size && !state.rarity.has(card.rarity)) return false;
     if (state.limited.size && !state.limited.has(card.limited || "No")) return false;
     if (state.type.size && !state.type.has(card.type)) return false;

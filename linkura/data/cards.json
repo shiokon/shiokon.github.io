@@ -385,9 +385,9 @@
     "type": "Trickster",
     "image": "./data/images/日野下花帆_Oracle_Étude_image.webp",
     "idolized": "./data/images/日野下花帆_Oracle_Étude_idolized.webp",
-    "special": "-",
-    "skill": "-",
-    "passive": "-"
+    "special": "<b>[3-1 AP] Elysion</b>\nReduce AP recovery speed by -9999% this stage.\nIn addition, increase Skill Hearts gained by 3999.6..9999% for this stage.",
+    "skill": "<b>[1 AP] mode:DREAMER</b>\nGain 2222..5555 Skill Hearts.\nIn addition, increase Heart Cap by 2222..5555 this stage and increase LOVE gain by 2222..5555% this stage.",
+    "passive": "<b>Supernova</b>\nUpon draw, set AP, Voltage Pt., and Mental to 0.\nIn addition, if your deck has 1 card when this skill is used, for this stage, AP, Voltage Lv, and Mental is infinite; and destroy this card."
   },
   {
     "id": "セラス_柳田_リリエンフェルト_Retrofuture",
@@ -645,7 +645,7 @@
     "type": "Performer",
     "image": "./data/images/安養寺姫芽_BLAST!!_image.webp",
     "idolized": "./data/images/安養寺姫芽_BLAST!!_idolized.webp",
-    "special": "<b>[14-12 AP] Miracra・Marble・Boost!!</b>\nFor the next 22 Rurino or Hime's skills, increase Heart Gain effects by 76.5..191.3%, LOVE Attract effects by 26..65, and Voltage Gain effects by 26..65%.",
+    "special": "<b>[14-12 AP] Mira-Cra・Marble・Boost!!</b>\nFor the next 22 Rurino or Hime's skills, increase Heart Gain effects by 76.5..191.3%, LOVE Attract effects by 26..65, and Voltage Gain effects by 26..65%.",
     "skill": "<b>Alternate: Ignition</b>\n<b>[12 AP] Heroes Ignition (Ignition Off)</b>\nDiscard your hand, shuffle your discard pile into your deck, and draw cards up to your max hand size. Increase the chance of drawing a Mira-Cra Park! card after using this card.\nIn addition, reduce the cost of all Hime cards in your deck by 9 AP; activates Ignition Mode.\n\n<b>[22 AP] Blast Attraction (Ignition On)</b>\nGain 89..222 Skill Hearts; increase LOVE gain by 888.8..2222 this section and gain 89..222 Voltage Pt.; increase Heart Cap by 89..222 this stage.\nIn addition, reduce Mental by 22% and disable Ignition Mode.",
     "passive": "<b>Saintess Buddy</b>\nUpon draw, reduce the AP cost of all Rurino cards in your deck by 9 AP.\nIn addition, if a Rurino skill is used when this card is in your hand and if Mood is above +22 Happy or below -22 Mellow, increase AP Recovery Speed by 22% this section."
   },
@@ -2052,6 +2052,58 @@
     "special": "<b>[13-11 AP] Full Bloom Finale</b>\nWhen used in the final section, for this section, increase all skill effects by 12..30%, and Voltage Lv is set to infinite; when a Voltage Pt gain effect is triggered, increase LOVE gain for this section. This effect is based on the scale of the triggered effect and this card's Special Appeal skill level. If your deck has 18 or less cards, the effect is reduced.",
     "skill": "<b>[3 AP] School Idol of 3 Years</b>\nGain Voltage Pt; for this stage, every skill's effects are amplified. These effects are based on this skill's level and Sayaka's Member Fan Lv.\nIn addition, if Sayaka's Member Fan Lv is 100 or above, gain 4..11 AP and shuiffle your hand.",
     "passive": "<b>Everbloom</b>\nAfter using this card 3 times, it is destroyed, and 1 Blooming Flower card is added to your deck.\n\n<b>[3 AP] Blooming Flower/Sayaka</b>\nGain Voltage Pt and increase LOVE gain for this stage. These effects are based on this skill's level and Sayaka's Member Fan Lv.\n<b>Passive: Flower Garden</b>\nWhile in your hand and if Sayaka's Member Fan Lv is 100 or above and 300000 Hearts are collected, gain 300 Skill Hearts and shuffle your hand. If Sayaka's Member Fan Lv is 200 or above, increase the next 3 Voltage gain or LOVE attract increase effects by 1030%."
+  },
+  {
+    "id": "乙宗梢_不思議と君とライブラリー",
+    "rarity": "LR",
+    "limited": "",
+    "title": "Mystery, You, and The Library",
+    "name": "Otomune Kozue",
+    "type": "Trickster",
+    "image": "./data/images/乙宗梢_不思議と君とライブラリー_image.webp",
+    "idolized": "./data/images/乙宗梢_不思議と君とライブラリー_idolized.webp",
+    "special": "<b>[5-3 AP] Cerise Bouquet Emerita</b>\nBe able to use Cerise Bouquet's Special Appeal or EX Special Appeal again.\nIn addition, if Skill Level is 11..12..13..14, increase AP cap by 2..4..7..10 for this stage.",
+    "skill": "<b>[0 AP] Mermaid Musical</b>\nUse every skill in your hand. This skill's AP cost is equal to the AP costs of all other cards in your hand added together and reduced by how big your deck is.\nIn addition, if your deck has 80 or more cards, add 3《Bloom Story》, 3《Rabbit Clock》, and 3《Flower Bookmark》cards to your deck.\n\n<b>[5 AP]《Bloom Story》</b>\nGain 6..15 Skill Hearts; for this stage, increase Heart Cap by 14..36, increase LOVE gain by 120..300%, and gain 40..100 Voltage Pt.\nIn addition, if Mood is 100 Happy, gain 60..150 Skill Hearts; for this stage, increase Heart Cap by 144..360, increase LOVE gain by 1200..3000%, and gain 400..1000 Voltage Pt.\n<b>Passive: Narrative</b>\nWhen drawn, gain Skill Hearts based on how big your deck is; after using this card, destroy it and increase the chances of drawing a《Flower Bookmark》card.\nIn addition, while this card is in your hand and there are 80 or more cards in your deck,《Bloom Story》cards' skill effects are increased by 1001% when played; when there are 95 or more cards in your deck and 500000 hearts are collected, gain 1001 Skill Hearts.\n\n<b>[5 AP]《Rabbit Clock》</b>\nIncrease max hand size by 3 this section.\nIn addition, swing Mood towards Happy by 32..80 for this section.\n<b>Passive: Timekeep</b>\nWhen drawn, increase AP recovery speed based on how big your deck is; after using this card, destroy it and add 1《Flower Bookmark》card to your deck.\nIn addition, if your deck has 80 or more cards when drawn, increase the skill effects of《Bloom Story》cards by 1001% this stage.\n\n<b>[5 AP]《Flower Bookmark》</b>\nReset and shuffle your hand; increase the chances of drawing Rabbit Clock and Cerise Bouquet cards.\n<b>Passive: Signpost</b>\nWhen drawn, gain AP based on how big your deck is; after using this card, destroy it and add 1《Bloom Story》card to your deck.\nIn addition, while this card is in your hand and there are 80 or more cards in your deck,《Bloom Story》cards' skill effects are increased by 1001% when played; when there are 95 or more cards in your deck and 500000 hearts are collected, shuffle your hand.",
+    "passive": "<b>Triangle Stars・Back</b>\nOnly be able to draw this card after using a Cerise Bouquet card.\nIn addition, while in your hand and 300000 Hearts are collected, recover AP. This effect is based on Kozue's Member Fan Lv."
+  },
+  {
+    "id": "夕霧綴理_アイシイ",
+    "rarity": "LR",
+    "limited": "",
+    "title": "Icy",
+    "name": "Yugiri Tsuzuri",
+    "type": "Moodmaker",
+    "image": "./data/images/夕霧綴理_アイシイ_image.webp",
+    "idolized": "./data/images/夕霧綴理_アイシイ_idolized.webp",
+    "special": "<b>[5-3 AP] DOLLCHESTRA Emerita</b>\nBe able to use DOLLCHESTRA's Special Appeal or EX Special Appeal again.\nIn addition, if Skill Level is 11..12..13..14, increase Voltage Lv cap by 100..200..350..500 for this stage.",
+    "skill": "<b>[14 AP] Icy Admire</b>\nGain 800..2000 Voltage Pt.\nIn addition, if Mood is -100 Mellow, for this stage, increase all of DOLLCHESTRA's skill effects by 8..20%. This effect is increased for every 200 Voltage Lv you have.",
+    "passive": "<b>Triangle Stars・Back<b>\nOnly be able to draw this card after using a DOLLCHESTRA card.\nIn addition, while in your hand and 300000 Hearts are collected, for this stage, Voltage gain effects are increased. This effect is based on Tsuzuri's Member Fan Lv."
+  },
+  {
+    "id": "藤島慈_トモダチになれる場所",
+    "rarity": "LR",
+    "limited": "",
+    "title": "Tomodachi ni Nareru Basho",
+    "name": "Fujishima Megumi",
+    "type": "Cheerleader",
+    "image": "./data/images/藤島慈_トモダチになれる場所_image.webp",
+    "idolized": "./data/images/藤島慈_トモダチになれる場所_idolized.webp",
+    "special": "<b>[5-3 AP] Mira-Cra Park! Emerita</b>\nBe able to use Mira-Cra Park!'s Special Appeal or EX Special Appeal again.\nIn addition, if Skill Level is 11..12..13..14, increase Mental cap by 60..120..210..300% for this stage.",
+    "skill": "<b>[12 AP] Angel Memories</b>\nRecover 36.4..91% Mental.\nIn addition, if Mental is above 100%, reset and shuffle your hand. Increase the chances of drawing a Mira-Cra Park! or Sazanami card. If Mental is above 200%, for this stage, increase the effects of Mira-Cra Park! and Sazanami cards by 400..1000%; for this section, grants invulnerability to Mental Down even if your Mental reaches 0, and reduce Mental by 3000%.",
+    "passive": "<b>Triangle Stars・Back</b>\nOnly be able to draw this card after using a Mira-Cra Park! card.\nIn addition, while in your hand and 300000 Hearts are collected, for this stage, Mental recovery effects are increased. This effect is based on Megumi's Member Fan Lv."
+  },
+  {
+    "id": "蓮ノ空女学院スクールアイドルクラブ103期生",
+    "rarity": "UR",
+    "limited": "Graduation",
+    "title": "Hasunosora Jogakuin School Idol Club 103kisei",
+    "name": "Hinoshita Kaho, Murano Sayaka, Osawa Rurino",
+    "type": "Moodmaker",
+    "image": "./data/images/蓮ノ空女学院スクールアイドルクラブ103期生_image.webp",
+    "idolized": "./data/images/蓮ノ空女学院スクールアイドルクラブ103期生_idolized.webp",
+    "special": "-",
+    "skill": "<b>[1 AP] Dreaming Flowers</b>\nGain 12..30 AP.\nIn addition, increase max hand size by 3 this section, increase all skills' effects by 12..30% for this section, and reset and shuffle your hand.",
+    "passive": "<b>Graduation</b>\nAfter using this card 3 times, it is destroyed, and be able to use the center's Special Appeal again."
   },
   {
     "id": "",
