@@ -2077,7 +2077,7 @@
     "idolized": "./data/images/夕霧綴理_アイシイ_idolized.webp",
     "special": "<b>[5-3 AP] DOLLCHESTRA Emerita</b>\nBe able to use DOLLCHESTRA's Special Appeal or EX Special Appeal again.\nIn addition, if Skill Level is 11..12..13..14, increase Voltage Lv cap by 100..200..350..500 for this stage.",
     "skill": "<b>[14 AP] Icy Admire</b>\nGain 800..2000 Voltage Pt.\nIn addition, if Mood is -100 Mellow, for this stage, increase all of DOLLCHESTRA's skill effects by 8..20%. This effect is increased for every 200 Voltage Lv you have.",
-    "passive": "<b>Triangle Stars・Back<b>\nOnly be able to draw this card after using a DOLLCHESTRA card.\nIn addition, while in your hand and 300000 Hearts are collected, for this stage, Voltage gain effects are increased. This effect is based on Tsuzuri's Member Fan Lv."
+    "passive": "<b>Triangle Stars・Back</b>\nOnly be able to draw this card after using a DOLLCHESTRA card.\nIn addition, while in your hand and 300000 Hearts are collected, for this stage, Voltage gain effects are increased. This effect is based on Tsuzuri's Member Fan Lv."
   },
   {
     "id": "藤島慈_トモダチになれる場所",
