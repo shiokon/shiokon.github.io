@@ -392,7 +392,12 @@
       const hasMatch = cardChars.some(c => state.characters.has(c));
       if (!hasMatch) return false;
     }
-    if (state.rarity.size && !state.rarity.has(card.rarity)) return false;
+
+    const normalizedRarity = card.rarity.startsWith("m")
+    ? card.rarity.slice(1)
+    : card.rarity;
+
+    if (state.rarity.size && !state.rarity.has(normalizedRarity)) return false;
     if (state.limited.size && !state.limited.has(card.limited || "No")) return false;
     if (state.type.size && !state.type.has(card.type)) return false;
     return true;
