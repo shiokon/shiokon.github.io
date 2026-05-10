@@ -2184,6 +2184,19 @@
     "passive": "<b>Mutual</b>\nUpon draw, reduce the cost of all Kaho and Rurino cards in your deck by 5 AP.\nIn addition, while in your hand, increase the effects of Kaho and Rurino cards by 300%."
   },
   {
+    "id": "錦上マイカ＆令沢葵_B.G.P. 撮影係",
+    "rarity": "mSR",
+    "limited": "m",
+    "title": "B.G.P. Satsueigakari",
+    "name": "Kinjo Maika&Reisawa Aoi",
+    "type": "Moodmaker",
+    "image": "./data/images/錦上マイカ＆令沢葵_B.G.P. 撮影係_image.webp",
+    "idolized": "./data/images/錦上マイカ＆令沢葵_B.G.P. 撮影係_idolized.webp",
+    "special": "-",
+    "skill": "<b>[6 AP] Recordkeeper</b>\nFor this section, increase AP recovery speed by 12..30% and increase max hand size by 2.\nIn addition, when used in the last Section, for this section, increase the effects of all skills by 424..1060%.",
+    "passive": "<b>Succeed Flower</b>\nPrevent drawing this card unless a Kaho card is played. Upon draw, reduce the AP cost of all cards in your deck by 2 AP, and furthermore reduce the AP cost of all Kaho cards in your deck by 4 AP."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
