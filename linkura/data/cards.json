@@ -2197,6 +2197,58 @@
     "passive": "<b>Succeed Flower</b>\nPrevent drawing this card unless a Kaho card is played. Upon draw, reduce the AP cost of all cards in your deck by 2 AP, and furthermore reduce the AP cost of all Kaho cards in your deck by 4 AP."
   },
   {
+    "id": "乙宗梢_ハナ咲けばユメ駆ける",
+    "rarity": "mUR",
+    "limited": "Normal",
+    "title": "Hana Sakeba Yume Kakeru",
+    "name": "Otomune Kozue",
+    "type": "Performer",
+    "image": "./data/images/乙宗梢_ハナ咲けばユメ駆ける_image.webp",
+    "idolized": "./data/images/乙宗梢_ハナ咲けばユメ駆ける_idolized.webp",
+    "special": "<b>[7-5 AP] Starting Rhythm</b>\nFor this stage, increase AP recovery speed by 20..50%.\nIn addition, reduce the cost of all cards in your deck by 11 AP.",
+    "skill": "<b>[11 AP] Flower Dream・One</b>\nGain 14..35 Skill Hearts and increase Heart Cap by 34..84 for this stage.\nIn addition, during Section 1 besides FEVER, shuffle your hand.",
+    "passive": "<b>First Spot</b>\nWhen drawn during Section 1 besides FEVER, for this stage, increase AP recovery speed by 20%.\nIn addition, during FEVER, greatly increase this card's skill effects."
+  },
+  {
+    "id": "徒町小鈴_ハナ咲けばユメ駆ける",
+    "rarity": "mUR",
+    "limited": "Normal",
+    "title": "Hana Sakeba Yume Kakeru",
+    "name": "Kachimachi Kosuzu",
+    "type": "Moodmaker",
+    "image": "./data/images/徒町小鈴_ハナ咲けばユメ駆ける_image.webp",
+    "idolized": "./data/images/徒町小鈴_ハナ咲けばユメ駆ける_idolized.webp",
+    "special": "<b>[7-5 AP] Starting Rhythm</b>\nFor this stage, gain 12000..30000 Voltage Pt every second.\nIn addition, reduce the cost of all cards in your deck by 11 AP.",
+    "skill": "<b>[11 AP] Flower Dream・Two</b>\nGain 56..140 Voltage Pt and increase LOVE gain by 14..35% for this stage.\nIn addition, during Section 2 besides FEVER, shuffle your hand.",
+    "passive": "<b>Second Spot</b>\nWhen drawn during Section 2 besides FEVER, for this stage, increase this card's Love Attract skill effects by 100%.\nIn addition, during FEVER, greatly increase this card's skill effects."
+  },
+  {
+    "id": "藤島慈_ハナ咲けばユメ駆ける",
+    "rarity": "mUR",
+    "limited": "Normal",
+    "title": "Hana Sakeba Yume Kakeru",
+    "name": "Fujishima Megumi",
+    "type": "Cheerleader",
+    "image": "./data/images/藤島慈_ハナ咲けばユメ駆ける_image.webp",
+    "idolized": "./data/images/藤島慈_ハナ咲けばユメ駆ける_idolized.webp",
+    "special": "<b>[7-5 AP] Starting Rhythm</b>\nFor this stage, recover 10..25% Mental every second.\nIn addition, reduce the cost of all cards in your deck by 11 AP.",
+    "skill": "<b>[11 AP] Flower Dream・Three</b>\nRecover 28..70% Mental and gain 14..35 Skill Hearts.\nIn addition, during Section 3 besides FEVER, shuffle your hand.",
+    "passive": "<b>Third Spot</b>\nWhen drawn during Section 3 besides FEVER, for this stage, increase all skill effects by 50%.\nIn addition, during FEVER, greatly increase this card's skill effects."
+  },
+  {
+    "id": "桂城泉_ハナ咲けばユメ駆ける",
+    "rarity": "mUR",
+    "limited": "Normal",
+    "title": "Hana Sakeba Yume Kakeru",
+    "name": "Katsuragi Izumi",
+    "type": "Trickster",
+    "image": "./data/images/桂城泉_ハナ咲けばユメ駆ける_image.webp",
+    "idolized": "./data/images/桂城泉_ハナ咲けばユメ駆ける_idolized.webp",
+    "special": "<b>[7-5 AP] Starting Rhythm</b>\nSwing Mood towards Happy by 20..50 for this stage.\nIn addition, reduce the cost of all cards in your deck by 11 AP.",
+    "skill": "<b>[11 AP] Flower Dream・Four</b>\nSet this card on stage and absorb Love Attract effects. When 5000% Love Attract has been absorbed, increase Heart Cap by 4000..10000 for this stage, gain 200..500 Skill Hearts, and discard this card.\nIn addition, during Section 4 besides FEVER, shuffle your hand.",
+    "passive": "<b>Fourth Spot</b>\nWhen drawn during Section 4 besides FEVER, for this stage, increase this card's Skill Hearts gained by 100%.\nIn addition, during FEVER, greatly increase this card's skill effects."
+  },
+  {
     "id": "",
     "rarity": "",
     "limited": "",
